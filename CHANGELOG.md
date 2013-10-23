@@ -1,12 +1,6 @@
-HarrixFileFormats
-=================
+HarrixDataOfOptimizationTesting
+===============================
 
-Harrix Optimization Testing 1.0
--------------------------------
-
- * Подробное описание формата.
-
-Harrix Data 1.0
----------------
-
- *  Подробное описание формата.
+1.0
+---
+ * .
