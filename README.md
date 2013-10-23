@@ -11,9 +11,23 @@ https://github.com/Harrix/HarrixDataOfOptimizationTesting
 
 https://github.com/Harrix/HarrixFileFormats
 
-Для формата Harrix Optimization Testing 1.0 есть класс HarrixClass_DataOfHarrixOptimizationTesting для считывания данных:
+Для формата Harrix Optimization Testing 1.0 есть класс HarrixClass_DataOfHarrixOptimizationTesting для чтения и анализа данных:
 
 https://github.com/Harrix/HarrixClass_DataOfHarrixOptimizationTesting
+
+Всё множество исследованных алгоритмов оптимизации можно найти тут.
+
+https://github.com/Harrix/HarrixOptimizationAlgorithms
+
+Всё множество тестовых функций, по которым производится тестирования, можно найти тут.
+
+https://github.com/Harrix/HarrixTestFunctions
+
+Про структуру проекта
+---------------------
+
+Все данные располагаются в папке [**_Data**](../master/_Data).
+
 
 Скриншоты
 -------------------------------
