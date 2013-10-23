@@ -3,4 +3,15 @@ HarrixDataOfOptimizationTesting
 
 1.0
 ---
- * .
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Ackley.
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Ackley.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_ParaboloidOfRevolution.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rastrigin.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rosenbrock.
+ * Добавлены данные алгоритма MHL_StandartBinaryGeneticAlgorithm на функции MHL_TestFunction_SumVector.
+ * Добавлены данные алгоритма MHL_BinaryMonteCarloAlgorithm на функции MHL_TestFunction_SumVector. 
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Ackley.
+ * Добавлены повторные данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Ackley.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_ParaboloidOfRevolution.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Rastrigin.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Rosenbrock.
