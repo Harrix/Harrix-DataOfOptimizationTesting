@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.1
+---
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rosenbrock.
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rastrigin.
+
 1.0
 ---
  * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Ackley.
