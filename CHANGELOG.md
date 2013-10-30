@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.3
+---
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_ParaboloidOfRevolution.
+ * Добавлены данные алгоритма MHL_BinaryGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_SumVector.
+
 1.2
 ---
  * Добавлены повторные данные алгоритма MHL_StandartBinaryGeneticAlgorithm на функции MHL_TestFunction_SumVector.
