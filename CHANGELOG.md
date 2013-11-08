@@ -1,6 +1,13 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.4
+---
+ * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Ackley.
+ * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_ParaboloidOfRevolution.
+ * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Rastrigin.
+ * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Rosenbrock.
+
 1.3
 ---
  * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_ParaboloidOfRevolution.
