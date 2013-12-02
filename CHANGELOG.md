@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.6
+---
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на другом компьютере функции MHL_TestFunction_Ackley.
+
 1.5
 ---
  * Добавлены данные алгоритма MHL_BinaryGeneticAlgorithmWDTS на функции MHL_TestFunction_SumVector.
