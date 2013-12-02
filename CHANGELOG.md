@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.5
+---
+ * Добавлены данные алгоритма MHL_BinaryGeneticAlgorithmWDTS на функции MHL_TestFunction_SumVector.
+
 1.4
 ---
  * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Ackley.
