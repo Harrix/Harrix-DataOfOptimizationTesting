@@ -1,6 +1,13 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.7
+---
+ * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmWDTS на другом компьютере функции MHL_TestFunction_Ackley.
+ * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmWDTS на другом компьютере функции MHL_TestFunction_ParaboloidOfRevolution.
+ * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmWDTS на другом компьютере функции MHL_TestFunction_Rastrigin.
+ * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmWDTS на другом компьютере функции MHL_TestFunction_Rosenbrock.
+
 1.6
 ---
  * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на другом компьютере функции MHL_TestFunction_Ackley.
