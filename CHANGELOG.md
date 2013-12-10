@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.9
+---
+ * Добавлены данные алгоритма MHL_BinaryGeneticAlgorithmWCC на функции MHL_TestFunction_SumVector.
+
 1.8
 ---
  * Исправлены названия алгоритмов.
