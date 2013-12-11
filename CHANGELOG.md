@@ -1,8 +1,12 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.11
+----
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm функции MHL_TestFunction_AckleyII.
+
 1.10
----
+----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC функции MHL_TestFunction_Ackley.
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC функции MHL_TestFunction_ParaboloidOfRevolution.
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC функции MHL_TestFunction_Rastrigin.
