@@ -1,6 +1,13 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.10
+---
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC функции MHL_TestFunction_Ackley.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC функции MHL_TestFunction_ParaboloidOfRevolution.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC функции MHL_TestFunction_Rastrigin.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC функции MHL_TestFunction_Rosenbrock.
+
 1.9
 ---
  * Добавлены данные алгоритма MHL_BinaryGeneticAlgorithmWCC на функции MHL_TestFunction_SumVector.
