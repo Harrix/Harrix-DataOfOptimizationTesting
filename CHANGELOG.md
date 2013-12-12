@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.13
+----
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_AckleyII.
+ * Добавлен документ Список проведенных исследований.xlsx в котором приводится сводка наличия проведенных исследований на тестовых функциях.
+
 1.12
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC функции MHL_TestFunction_AckleyII.
