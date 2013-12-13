@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.14
+----
+ * Удалены данные об исследовании функции MHL_TestFunction_AckleyII. Оказалось, что минимум функции по своем у значению меняется.
+
 1.13
 ----
  * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_AckleyII.
