@@ -4,6 +4,7 @@ HarrixDataOfOptimizationTesting
 1.15
 ----
  * Добавление информации о двух новых тестовых функциях в Список проведенных исследований.xlsx.
+ * Добавление исследований на алгоритмах функций MHL_TestFunction_AdditivePotential и MHL_TestFunction_MultiplicativePotential.
 
 1.14
 ----
