@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.18
+----
+ * Добавление повторных исследований MHL_StandartBinaryGeneticAlgorithm  на функции MHL_TestFunction_SumVector.
+
 1.17
 ----
  * Добавлена инфа о алгоритме сГА со стандартным генератором случайных чисел.
