@@ -1,6 +1,16 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.20
+----
+ * Добавлено исследование MHL_StandartRealGeneticAlgorithm MHL_TestFunction_ReverseGriewank 2 324.
+ * Добавлено повторное исследование MHL_StandartRealGeneticAlgorithm MHL_TestFunction_ReverseGriewank 2 324.
+ * Добавлено исследование MHL_RealMonteCarloAlgorithm MHL_TestFunction_ReverseGriewank 2 324.
+ * Добавлено исследование MHL_RealGeneticAlgorithmWCC MHL_TestFunction_ReverseGriewank 2 324.
+ * Добавлено исследование MHL_RealGeneticAlgorithmWDTS MHL_TestFunction_ReverseGriewank 2 324.
+ * Добавлено исследование MHL_RealGeneticAlgorithmWDPOfNOfGPS MHL_TestFunction_ReverseGriewank 2 324.
+ * Добавлено исследование MHL_RealGeneticAlgorithmTournamentSelectionWithReturn MHL_TestFunction_ReverseGriewank 2 324.
+
 1.19
 ----
  * Добавление инфы о функции MHL_TestFunction_ReverseGriewank.
