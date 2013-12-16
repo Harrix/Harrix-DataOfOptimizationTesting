@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.19
+----
+ * Добавление инфы о функции MHL_TestFunction_ReverseGriewank.
+
 1.18
 ----
  * Добавление повторных исследований MHL_StandartBinaryGeneticAlgorithm  на функции MHL_TestFunction_SumVector.
