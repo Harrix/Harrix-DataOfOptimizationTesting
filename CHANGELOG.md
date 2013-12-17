@@ -1,6 +1,16 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.22
+----
+ * Добавлены данные алгоритма MHL_StandartBinaryGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_SumVector со всеми размерностями.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_Ackley со всеми размерностями.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_ParaboloidOfRevolution со всеми размерностями.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_AdditivePotential со всеми размерностями.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_MultiplicativePotential со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_MultiplicativePotential со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_ReverseGriewank со всеми размерностями.
+
 1.21
 ----
  * Добавлены исслелования MHL_BinaryGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_SumVector со всеми размерностями.
