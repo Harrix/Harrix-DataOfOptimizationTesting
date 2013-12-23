@@ -3,7 +3,7 @@ HarrixDataOfOptimizationTesting
 
 1.28
 ----
- * Обновлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_RotatedHyperEllipsoid и MHL_TestFunction_HyperEllipsoid со всеми размерностями.
+ * Обновлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_RotatedHyperEllipsoid и MHL_TestFunction_HyperEllipsoid со всеми размерностями (почему? потому что просто провел по ошибке повторно те же исследования).
 
 1.27
 ----
