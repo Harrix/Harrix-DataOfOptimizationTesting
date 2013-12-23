@@ -7,7 +7,7 @@
 </harrix_file_format>
 <about>
 	<author>Сергиенко Антон Борисович</author>
-	<date>20.12.2013 07:46:45</date>
+	<date>22.12.2013 09:47:00</date>
 	<email>sergienkoanton@mail.ru</email>
 </about>
 <about_data>
@@ -41,5617 +41,5617 @@
 <data>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.185489</Ex>
-			<Ey>1937.11</Ey>
+			<Ex>0.183035</Ex>
+			<Ey>1831.37</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.180129</Ex>
-			<Ey>1817.59</Ey>
+			<Ex>0.177971</Ex>
+			<Ey>1828.83</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.178499</Ex>
-			<Ey>1890.52</Ey>
+			<Ex>0.179937</Ex>
+			<Ey>1865.33</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.181783</Ex>
-			<Ey>1908.85</Ey>
+			<Ex>0.179284</Ex>
+			<Ey>1955.8</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.180021</Ex>
-			<Ey>1913.53</Ey>
+			<Ex>0.180979</Ex>
+			<Ey>1974.22</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.184252</Ex>
-			<Ey>1881.94</Ey>
+			<Ex>0.182118</Ex>
+			<Ey>1958.31</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.176176</Ex>
-			<Ey>1846.24</Ey>
+			<Ex>0.184516</Ex>
+			<Ey>1944.25</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.17848</Ex>
-			<Ey>1921.76</Ey>
+			<Ex>0.16953</Ex>
+			<Ey>1838.49</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.180401</Ex>
-			<Ey>1985.15</Ey>
+			<Ex>0.172514</Ex>
+			<Ey>1860.39</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.183378</Ex>
-			<Ey>1858.32</Ey>
+			<Ex>0.177944</Ex>
+			<Ey>1797.59</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.177516</Ex>
-			<Ey>2216.66</Ey>
+			<Ex>0.18549</Ex>
+			<Ey>2219.64</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.180982</Ex>
-			<Ey>2300.45</Ey>
+			<Ex>0.180357</Ex>
+			<Ey>2297.9</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.183058</Ex>
-			<Ey>2339.13</Ey>
+			<Ex>0.181796</Ex>
+			<Ey>2255.99</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.176535</Ex>
-			<Ey>2130.06</Ey>
+			<Ex>0.175359</Ex>
+			<Ey>2244.53</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.181127</Ex>
-			<Ey>2183.74</Ey>
+			<Ex>0.182264</Ex>
+			<Ey>2273.24</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.17919</Ex>
-			<Ey>2208.18</Ey>
+			<Ex>0.181523</Ex>
+			<Ey>2320.87</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.180356</Ex>
-			<Ey>2297.55</Ey>
+			<Ex>0.188408</Ex>
+			<Ey>2403.28</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.188561</Ex>
-			<Ey>2212.34</Ey>
+			<Ex>0.179717</Ex>
+			<Ey>2192.09</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.182635</Ex>
-			<Ey>2333.52</Ey>
+			<Ex>0.182616</Ex>
+			<Ey>2257.45</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.175458</Ex>
-			<Ey>2252.39</Ey>
+			<Ex>0.17915</Ex>
+			<Ey>2210.91</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.126334</Ex>
-			<Ey>1004.67</Ey>
+			<Ex>0.124649</Ex>
+			<Ey>956.721</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.129765</Ex>
-			<Ey>1001.75</Ey>
+			<Ex>0.123664</Ex>
+			<Ey>952.564</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.126744</Ex>
-			<Ey>979.38</Ey>
+			<Ex>0.127487</Ex>
+			<Ey>1036.33</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.126849</Ex>
-			<Ey>1045.96</Ey>
+			<Ex>0.13238</Ex>
+			<Ey>1019.29</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.13381</Ex>
-			<Ey>1055.88</Ey>
+			<Ex>0.129273</Ex>
+			<Ey>969.59</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.130578</Ex>
-			<Ey>1000.05</Ey>
+			<Ex>0.132712</Ex>
+			<Ey>967.508</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.130824</Ex>
-			<Ey>1004.83</Ey>
+			<Ex>0.13254</Ex>
+			<Ey>1024.23</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.129663</Ex>
-			<Ey>975.859</Ey>
+			<Ex>0.130961</Ex>
+			<Ey>987.571</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.128424</Ex>
-			<Ey>1012.69</Ey>
+			<Ex>0.130713</Ex>
+			<Ey>1021.27</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.128432</Ex>
-			<Ey>1006.5</Ey>
+			<Ex>0.130208</Ex>
+			<Ey>1027.38</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.131822</Ex>
-			<Ey>1413.54</Ey>
+			<Ex>0.138272</Ex>
+			<Ey>1375.55</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.132799</Ex>
-			<Ey>1441.6</Ey>
+			<Ex>0.136314</Ex>
+			<Ey>1487.13</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.136886</Ex>
-			<Ey>1455.79</Ey>
+			<Ex>0.141467</Ex>
+			<Ey>1482.24</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.144778</Ex>
-			<Ey>1450.68</Ey>
+			<Ex>0.142444</Ex>
+			<Ey>1427.25</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.138403</Ex>
-			<Ey>1519.63</Ey>
+			<Ex>0.13897</Ex>
+			<Ey>1471.84</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.140626</Ex>
-			<Ey>1510.29</Ey>
+			<Ex>0.140276</Ex>
+			<Ey>1546.41</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.138254</Ex>
-			<Ey>1433.28</Ey>
+			<Ex>0.136584</Ex>
+			<Ey>1448.5</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.135447</Ex>
-			<Ey>1438.67</Ey>
+			<Ex>0.136433</Ex>
+			<Ey>1439.4</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.139968</Ex>
-			<Ey>1496.12</Ey>
+			<Ex>0.141806</Ex>
+			<Ey>1506.92</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.140969</Ex>
-			<Ey>1435.75</Ey>
+			<Ex>0.136503</Ex>
+			<Ey>1376.01</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.196259</Ex>
-			<Ey>2114.46</Ey>
+			<Ex>0.195875</Ex>
+			<Ey>2050.8</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.192099</Ex>
-			<Ey>2118.77</Ey>
+			<Ex>0.19316</Ex>
+			<Ey>2080.93</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.197114</Ex>
-			<Ey>2065.09</Ey>
+			<Ex>0.197948</Ex>
+			<Ey>2101.25</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.197851</Ex>
-			<Ey>2232.87</Ey>
+			<Ex>0.194118</Ex>
+			<Ey>2129.85</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.198604</Ex>
-			<Ey>2106.87</Ey>
+			<Ex>0.199453</Ex>
+			<Ey>2141.66</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.203903</Ex>
-			<Ey>2093.32</Ey>
+			<Ex>0.198164</Ex>
+			<Ey>2156.36</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.200456</Ex>
-			<Ey>2063.54</Ey>
+			<Ex>0.193763</Ex>
+			<Ey>2071.51</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.198408</Ex>
-			<Ey>2123.67</Ey>
+			<Ex>0.193365</Ex>
+			<Ey>2018.42</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.193426</Ex>
-			<Ey>2080.32</Ey>
+			<Ex>0.19221</Ex>
+			<Ey>2098.33</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.201813</Ex>
-			<Ey>2088.58</Ey>
+			<Ex>0.200758</Ex>
+			<Ey>2145.03</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.196942</Ex>
-			<Ey>2187.77</Ey>
+			<Ex>0.191603</Ex>
+			<Ey>2168.37</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.192573</Ex>
-			<Ey>2236.11</Ey>
+			<Ex>0.194468</Ex>
+			<Ey>2226.69</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.196612</Ex>
-			<Ey>2159.11</Ey>
+			<Ex>0.198207</Ex>
+			<Ey>2207.64</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.191755</Ex>
-			<Ey>2112.79</Ey>
+			<Ex>0.199831</Ex>
+			<Ey>2319.77</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.195292</Ex>
-			<Ey>2276.65</Ey>
+			<Ex>0.191594</Ex>
+			<Ey>2195.67</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.189715</Ex>
-			<Ey>2138.24</Ey>
+			<Ex>0.200866</Ex>
+			<Ey>2229.35</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.185872</Ex>
-			<Ey>2183.08</Ey>
+			<Ex>0.194276</Ex>
+			<Ey>2276.68</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.195698</Ex>
-			<Ey>2207.58</Ey>
+			<Ex>0.190082</Ex>
+			<Ey>2205.17</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.186991</Ex>
-			<Ey>2099.86</Ey>
+			<Ex>0.188067</Ex>
+			<Ey>2152.1</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.191974</Ex>
-			<Ey>2227.66</Ey>
+			<Ex>0.198977</Ex>
+			<Ey>2247.73</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.132177</Ex>
-			<Ey>994.815</Ey>
+			<Ex>0.134032</Ex>
+			<Ey>984.213</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.13645</Ex>
-			<Ey>939.03</Ey>
+			<Ex>0.126323</Ex>
+			<Ey>921.271</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.137115</Ex>
-			<Ey>941.804</Ey>
+			<Ex>0.130784</Ex>
+			<Ey>954.914</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.134629</Ex>
-			<Ey>951.843</Ey>
+			<Ex>0.134099</Ex>
+			<Ey>961.648</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.13081</Ex>
-			<Ey>924.854</Ey>
+			<Ex>0.134046</Ex>
+			<Ey>1018.53</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.138102</Ex>
-			<Ey>926.258</Ey>
+			<Ex>0.135058</Ex>
+			<Ey>971.526</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.133494</Ex>
-			<Ey>961.222</Ey>
+			<Ex>0.128921</Ex>
+			<Ey>931.776</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.133971</Ex>
-			<Ey>925.224</Ey>
+			<Ex>0.132828</Ex>
+			<Ey>961.939</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.132259</Ex>
-			<Ey>963.819</Ey>
+			<Ex>0.137903</Ex>
+			<Ey>963.829</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.140055</Ex>
-			<Ey>1001.2</Ey>
+			<Ex>0.13286</Ex>
+			<Ey>915.507</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.140394</Ex>
-			<Ey>1137.3</Ey>
+			<Ex>0.138934</Ex>
+			<Ey>1139.16</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.13636</Ex>
-			<Ey>1145.34</Ey>
+			<Ex>0.145357</Ex>
+			<Ey>1179.85</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.143102</Ex>
-			<Ey>1177.38</Ey>
+			<Ex>0.138859</Ex>
+			<Ey>1154.52</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.140264</Ex>
-			<Ey>1188.31</Ey>
+			<Ex>0.138953</Ex>
+			<Ey>1137.57</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.141472</Ex>
-			<Ey>1200.82</Ey>
+			<Ex>0.140949</Ex>
+			<Ey>1178.29</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.136508</Ex>
-			<Ey>1110.9</Ey>
+			<Ex>0.140684</Ex>
+			<Ey>1218.23</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.139724</Ex>
-			<Ey>1188.16</Ey>
+			<Ex>0.139066</Ex>
+			<Ey>1169.1</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.140232</Ex>
-			<Ey>1176.72</Ey>
+			<Ex>0.141603</Ex>
+			<Ey>1130.2</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.134161</Ex>
-			<Ey>1140.08</Ey>
+			<Ex>0.143036</Ex>
+			<Ey>1118.41</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.137588</Ex>
-			<Ey>1165.2</Ey>
+			<Ex>0.140229</Ex>
+			<Ey>1157.21</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.245739</Ex>
-			<Ey>4170.51</Ey>
+			<Ex>0.245768</Ex>
+			<Ey>4233.96</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.247117</Ex>
-			<Ey>4280.2</Ey>
+			<Ex>0.252252</Ex>
+			<Ey>4378.3</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.249457</Ex>
-			<Ey>4171.6</Ey>
+			<Ex>0.242401</Ex>
+			<Ey>4315.29</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.246579</Ex>
-			<Ey>4276.36</Ey>
+			<Ex>0.246686</Ex>
+			<Ey>4269.41</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.245936</Ex>
-			<Ey>4321.79</Ey>
+			<Ex>0.245089</Ex>
+			<Ey>4246.68</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.246152</Ex>
-			<Ey>4283.57</Ey>
+			<Ex>0.251542</Ex>
+			<Ey>4238.62</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.240586</Ex>
-			<Ey>4263.04</Ey>
+			<Ex>0.249225</Ex>
+			<Ey>4347.75</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.246682</Ex>
-			<Ey>4225.21</Ey>
+			<Ex>0.247267</Ex>
+			<Ey>4387.39</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.246607</Ex>
-			<Ey>4290.37</Ey>
+			<Ex>0.241837</Ex>
+			<Ey>4184.68</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.245559</Ex>
-			<Ey>4317.11</Ey>
+			<Ex>0.245019</Ex>
+			<Ey>4229.75</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.234149</Ex>
-			<Ey>3303.65</Ey>
+			<Ex>0.233095</Ex>
+			<Ey>3287.91</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.221906</Ex>
-			<Ey>3297.38</Ey>
+			<Ex>0.223491</Ex>
+			<Ey>3345.03</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.227466</Ex>
-			<Ey>3357.78</Ey>
+			<Ex>0.222251</Ex>
+			<Ey>3353.57</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.221925</Ex>
-			<Ey>3299.23</Ey>
+			<Ex>0.22992</Ex>
+			<Ey>3275.07</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.22251</Ex>
-			<Ey>3259.22</Ey>
+			<Ex>0.221741</Ex>
+			<Ey>3258.67</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.22171</Ex>
-			<Ey>3230.57</Ey>
+			<Ex>0.223216</Ex>
+			<Ey>3268.9</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.223082</Ex>
-			<Ey>3313.14</Ey>
+			<Ex>0.224823</Ex>
+			<Ey>3289.54</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.222373</Ex>
-			<Ey>3293.76</Ey>
+			<Ex>0.224018</Ex>
+			<Ey>3370.77</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.227367</Ex>
-			<Ey>3331.73</Ey>
+			<Ex>0.225447</Ex>
+			<Ey>3258.45</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.225305</Ex>
-			<Ey>3221.17</Ey>
+			<Ex>0.226422</Ex>
+			<Ey>3302.76</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.165889</Ex>
-			<Ey>1770.51</Ey>
+			<Ex>0.166951</Ex>
+			<Ey>1805.69</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.171401</Ex>
-			<Ey>1800.11</Ey>
+			<Ex>0.168128</Ex>
+			<Ey>1747.02</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.171354</Ex>
-			<Ey>1762.6</Ey>
+			<Ex>0.164953</Ex>
+			<Ey>1816.61</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.16522</Ex>
-			<Ey>1750.26</Ey>
+			<Ex>0.165119</Ex>
+			<Ey>1722.64</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.16614</Ex>
-			<Ey>1735.74</Ey>
+			<Ex>0.169123</Ex>
+			<Ey>1769.43</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.166451</Ex>
-			<Ey>1842.71</Ey>
+			<Ex>0.166961</Ex>
+			<Ey>1766.65</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.170919</Ex>
-			<Ey>1727.24</Ey>
+			<Ex>0.164303</Ex>
+			<Ey>1794.6</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.170961</Ex>
-			<Ey>1845.77</Ey>
+			<Ex>0.165852</Ex>
+			<Ey>1718.62</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.171967</Ex>
-			<Ey>1853.98</Ey>
+			<Ex>0.168649</Ex>
+			<Ey>1760.33</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.167887</Ex>
-			<Ey>1774.88</Ey>
+			<Ex>0.174747</Ex>
+			<Ey>1844.89</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.154408</Ex>
-			<Ey>1526.83</Ey>
+			<Ex>0.161752</Ex>
+			<Ey>1565.14</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.154296</Ex>
-			<Ey>1525.96</Ey>
+			<Ex>0.159083</Ex>
+			<Ey>1520.41</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.156098</Ex>
-			<Ey>1542.76</Ey>
+			<Ex>0.155038</Ex>
+			<Ey>1537.15</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.151919</Ex>
-			<Ey>1566.48</Ey>
+			<Ex>0.154462</Ex>
+			<Ey>1503.14</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.162163</Ex>
-			<Ey>1597.17</Ey>
+			<Ex>0.156368</Ex>
+			<Ey>1533.53</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.157483</Ex>
-			<Ey>1568.4</Ey>
+			<Ex>0.163087</Ex>
+			<Ey>1546.63</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.158935</Ex>
-			<Ey>1555.78</Ey>
+			<Ex>0.158487</Ex>
+			<Ey>1593.31</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.159842</Ex>
-			<Ey>1561.38</Ey>
+			<Ex>0.156909</Ex>
+			<Ey>1565.42</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.158307</Ex>
-			<Ey>1582.72</Ey>
+			<Ex>0.159479</Ex>
+			<Ey>1530.48</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.15837</Ex>
-			<Ey>1517.76</Ey>
+			<Ex>0.160431</Ex>
+			<Ey>1543.53</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.182483</Ex>
-			<Ey>1634.26</Ey>
+			<Ex>0.175138</Ex>
+			<Ey>1599.54</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.180235</Ex>
-			<Ey>1652.66</Ey>
+			<Ex>0.183841</Ex>
+			<Ey>1577.43</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.172941</Ex>
-			<Ey>1601.88</Ey>
+			<Ex>0.18296</Ex>
+			<Ey>1584.9</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.175544</Ex>
-			<Ey>1653.88</Ey>
+			<Ex>0.183324</Ex>
+			<Ey>1641.71</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.176917</Ex>
-			<Ey>1533.83</Ey>
+			<Ex>0.182703</Ex>
+			<Ey>1670.94</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.182837</Ex>
-			<Ey>1609</Ey>
+			<Ex>0.181131</Ex>
+			<Ey>1652.53</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.181005</Ex>
-			<Ey>1647.33</Ey>
+			<Ex>0.180311</Ex>
+			<Ey>1633.18</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.177649</Ex>
-			<Ey>1619.61</Ey>
+			<Ex>0.176326</Ex>
+			<Ey>1563.47</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.180337</Ex>
-			<Ey>1596.28</Ey>
+			<Ex>0.186164</Ex>
+			<Ey>1607.32</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.184496</Ex>
-			<Ey>1654.03</Ey>
+			<Ex>0.187311</Ex>
+			<Ey>1664.16</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.176354</Ex>
-			<Ey>1735.27</Ey>
+			<Ex>0.174722</Ex>
+			<Ey>1753.3</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.17525</Ex>
-			<Ey>1783.36</Ey>
+			<Ex>0.175276</Ex>
+			<Ey>1692.81</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.176723</Ex>
-			<Ey>1707.35</Ey>
+			<Ex>0.176657</Ex>
+			<Ey>1874.24</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.176337</Ex>
-			<Ey>1799.41</Ey>
+			<Ex>0.17511</Ex>
+			<Ey>1791.88</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.174728</Ex>
-			<Ey>1726.28</Ey>
+			<Ex>0.181382</Ex>
+			<Ey>1729.46</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.185772</Ex>
-			<Ey>1723.5</Ey>
+			<Ex>0.175827</Ex>
+			<Ey>1771.22</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.175273</Ex>
-			<Ey>1687.22</Ey>
+			<Ex>0.175801</Ex>
+			<Ey>1746.76</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.179554</Ex>
-			<Ey>1799.45</Ey>
+			<Ex>0.171965</Ex>
+			<Ey>1809.47</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.179005</Ex>
-			<Ey>1826.84</Ey>
+			<Ex>0.17947</Ex>
+			<Ey>1762.29</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.175939</Ex>
-			<Ey>1684.2</Ey>
+			<Ex>0.177462</Ex>
+			<Ey>1696.01</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.13565</Ex>
-			<Ey>822.698</Ey>
+			<Ex>0.137429</Ex>
+			<Ey>819.918</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.139839</Ex>
-			<Ey>835.402</Ey>
+			<Ex>0.137015</Ex>
+			<Ey>820.072</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.13663</Ex>
-			<Ey>820.798</Ey>
+			<Ex>0.141675</Ex>
+			<Ey>857.879</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.14232</Ex>
-			<Ey>859.878</Ey>
+			<Ex>0.141367</Ex>
+			<Ey>820.862</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.138569</Ex>
-			<Ey>808.215</Ey>
+			<Ex>0.133349</Ex>
+			<Ey>802.959</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.140703</Ex>
-			<Ey>848.126</Ey>
+			<Ex>0.138811</Ex>
+			<Ey>823.942</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.13677</Ex>
-			<Ey>857.156</Ey>
+			<Ex>0.131392</Ex>
+			<Ey>810.704</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.140968</Ex>
-			<Ey>817.489</Ey>
+			<Ex>0.13689</Ex>
+			<Ey>822.112</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.145299</Ex>
-			<Ey>855.526</Ey>
+			<Ex>0.130674</Ex>
+			<Ey>850.779</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.137459</Ex>
-			<Ey>798.255</Ey>
+			<Ex>0.136567</Ex>
+			<Ey>820.104</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.138656</Ex>
-			<Ey>1092.85</Ey>
+			<Ex>0.143054</Ex>
+			<Ey>1128.28</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.146752</Ex>
-			<Ey>1149.74</Ey>
+			<Ex>0.143104</Ex>
+			<Ey>1042.89</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.144111</Ex>
-			<Ey>1129.2</Ey>
+			<Ex>0.142571</Ex>
+			<Ey>1112.25</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.144324</Ex>
-			<Ey>1124.72</Ey>
+			<Ex>0.141512</Ex>
+			<Ey>1152.02</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.145998</Ex>
-			<Ey>1164.83</Ey>
+			<Ex>0.151677</Ex>
+			<Ey>1093.83</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.146677</Ex>
-			<Ey>1114.63</Ey>
+			<Ex>0.140451</Ex>
+			<Ey>1122.27</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.141728</Ex>
-			<Ey>1099.54</Ey>
+			<Ex>0.150219</Ex>
+			<Ey>1195.67</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.142419</Ex>
-			<Ey>1132.15</Ey>
+			<Ex>0.145113</Ex>
+			<Ey>1124.04</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.147468</Ex>
-			<Ey>1102.02</Ey>
+			<Ex>0.143016</Ex>
+			<Ey>1133.79</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.149835</Ex>
-			<Ey>1111.98</Ey>
+			<Ex>0.142537</Ex>
+			<Ey>1042.61</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.192081</Ex>
-			<Ey>1924.32</Ey>
+			<Ex>0.200136</Ex>
+			<Ey>1984.22</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.196647</Ex>
-			<Ey>1899.72</Ey>
+			<Ex>0.19459</Ex>
+			<Ey>1893.29</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1992</Ex>
-			<Ey>2020.36</Ey>
+			<Ex>0.195905</Ex>
+			<Ey>1974.62</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.194133</Ex>
-			<Ey>1873.34</Ey>
+			<Ex>0.198762</Ex>
+			<Ey>1956.1</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.201978</Ex>
-			<Ey>1899.04</Ey>
+			<Ex>0.19434</Ex>
+			<Ey>1897.12</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.190934</Ex>
-			<Ey>1990.52</Ey>
+			<Ex>0.194679</Ex>
+			<Ey>1954.03</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.196773</Ex>
-			<Ey>1949.69</Ey>
+			<Ex>0.19317</Ex>
+			<Ey>1909.94</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.207412</Ex>
-			<Ey>2001.76</Ey>
+			<Ex>0.19425</Ex>
+			<Ey>1938.64</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.188485</Ex>
-			<Ey>1910.5</Ey>
+			<Ex>0.195993</Ex>
+			<Ey>2004.48</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.201525</Ex>
-			<Ey>1917.14</Ey>
+			<Ex>0.194752</Ex>
+			<Ey>1949.49</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.192428</Ex>
-			<Ey>1936.68</Ey>
+			<Ex>0.191509</Ex>
+			<Ey>1919.5</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.190533</Ex>
-			<Ey>1928.68</Ey>
+			<Ex>0.189344</Ex>
+			<Ey>1943.82</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.191803</Ex>
-			<Ey>1872.6</Ey>
+			<Ex>0.193583</Ex>
+			<Ey>1866.27</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.190812</Ex>
-			<Ey>1934.44</Ey>
+			<Ex>0.19144</Ex>
+			<Ey>1918.83</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.188379</Ex>
-			<Ey>1812.2</Ey>
+			<Ex>0.193481</Ex>
+			<Ey>1906.84</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.188557</Ex>
-			<Ey>1846.06</Ey>
+			<Ex>0.198793</Ex>
+			<Ey>1848.95</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.188054</Ex>
-			<Ey>1954.98</Ey>
+			<Ex>0.198175</Ex>
+			<Ey>1954.69</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.190508</Ex>
-			<Ey>1884.82</Ey>
+			<Ex>0.196859</Ex>
+			<Ey>1853.13</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.192897</Ex>
-			<Ey>1859.28</Ey>
+			<Ex>0.188148</Ex>
+			<Ey>1881.27</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.193764</Ex>
-			<Ey>1983.81</Ey>
+			<Ex>0.184827</Ex>
+			<Ey>1887.03</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.148436</Ex>
-			<Ey>875.428</Ey>
+			<Ex>0.143399</Ex>
+			<Ey>950.809</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.145413</Ex>
-			<Ey>881.659</Ey>
+			<Ex>0.145801</Ex>
+			<Ey>908.275</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.15108</Ex>
-			<Ey>861.215</Ey>
+			<Ex>0.154383</Ex>
+			<Ey>898.779</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.144313</Ex>
-			<Ey>853.836</Ey>
+			<Ex>0.145867</Ex>
+			<Ey>866.495</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.145678</Ex>
-			<Ey>904.125</Ey>
+			<Ex>0.14406</Ex>
+			<Ey>859.747</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.147404</Ex>
-			<Ey>902.008</Ey>
+			<Ex>0.150457</Ex>
+			<Ey>918.463</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.155456</Ex>
-			<Ey>873.716</Ey>
+			<Ex>0.147284</Ex>
+			<Ey>893.278</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.147778</Ex>
-			<Ey>889.976</Ey>
+			<Ex>0.138681</Ex>
+			<Ey>825.109</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.14619</Ex>
-			<Ey>912.022</Ey>
+			<Ex>0.143871</Ex>
+			<Ey>920.233</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.145626</Ex>
-			<Ey>895</Ey>
+			<Ex>0.150258</Ex>
+			<Ey>884.97</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.147052</Ex>
-			<Ey>985.041</Ey>
+			<Ex>0.15338</Ex>
+			<Ey>987.076</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.150642</Ex>
-			<Ey>1043.65</Ey>
+			<Ex>0.146707</Ex>
+			<Ey>990.589</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.148581</Ex>
-			<Ey>981.204</Ey>
+			<Ex>0.142359</Ex>
+			<Ey>1014.87</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.147907</Ex>
-			<Ey>988.67</Ey>
+			<Ex>0.155585</Ex>
+			<Ey>967.252</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.152668</Ex>
-			<Ey>985.885</Ey>
+			<Ex>0.149627</Ex>
+			<Ey>1011.26</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.154098</Ex>
-			<Ey>989.292</Ey>
+			<Ex>0.150208</Ex>
+			<Ey>1004.75</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.15068</Ex>
-			<Ey>970.399</Ey>
+			<Ex>0.147284</Ex>
+			<Ey>1030.43</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.149068</Ex>
-			<Ey>949.764</Ey>
+			<Ex>0.146752</Ex>
+			<Ey>956.601</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.151151</Ex>
-			<Ey>970.082</Ey>
+			<Ex>0.153825</Ex>
+			<Ey>987.042</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.149603</Ex>
-			<Ey>998.852</Ey>
+			<Ex>0.146386</Ex>
+			<Ey>1012.24</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.253157</Ex>
-			<Ey>4192.16</Ey>
+			<Ex>0.248659</Ex>
+			<Ey>4144</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.251044</Ex>
-			<Ey>4102.35</Ey>
+			<Ex>0.248436</Ex>
+			<Ey>4091.68</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.249742</Ex>
-			<Ey>4046.34</Ey>
+			<Ex>0.247067</Ex>
+			<Ey>4082.8</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.249503</Ex>
-			<Ey>4052.61</Ey>
+			<Ex>0.249194</Ex>
+			<Ey>4209.64</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.24541</Ex>
-			<Ey>4128.28</Ey>
+			<Ex>0.246088</Ex>
+			<Ey>4187.01</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.236284</Ex>
-			<Ey>4080.5</Ey>
+			<Ex>0.246026</Ex>
+			<Ey>4052.13</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.246725</Ex>
-			<Ey>4087.78</Ey>
+			<Ex>0.247635</Ex>
+			<Ey>4149.89</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.24644</Ex>
-			<Ey>4075.99</Ey>
+			<Ex>0.239987</Ex>
+			<Ey>4058</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.248805</Ex>
-			<Ey>4084.63</Ey>
+			<Ex>0.24917</Ex>
+			<Ey>4002.74</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.248108</Ex>
-			<Ey>4123.48</Ey>
+			<Ex>0.249424</Ex>
+			<Ey>4064.55</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.231221</Ex>
-			<Ey>3161.13</Ey>
+			<Ex>0.223741</Ex>
+			<Ey>3120.02</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.225316</Ex>
-			<Ey>3122.81</Ey>
+			<Ex>0.223678</Ex>
+			<Ey>3120.72</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.221786</Ex>
-			<Ey>3110.17</Ey>
+			<Ex>0.225034</Ex>
+			<Ey>3108.41</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.224972</Ex>
-			<Ey>3073.14</Ey>
+			<Ex>0.223579</Ex>
+			<Ey>3090.02</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.222999</Ex>
-			<Ey>3060.81</Ey>
+			<Ex>0.224003</Ex>
+			<Ey>3098.92</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.219078</Ex>
-			<Ey>3045.52</Ey>
+			<Ex>0.221291</Ex>
+			<Ey>3012.49</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.22396</Ex>
-			<Ey>3112.03</Ey>
+			<Ex>0.228878</Ex>
+			<Ey>3165.37</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.224018</Ex>
-			<Ey>3080.83</Ey>
+			<Ex>0.221203</Ex>
+			<Ey>3112.09</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.222965</Ex>
-			<Ey>3063.52</Ey>
+			<Ex>0.224091</Ex>
+			<Ey>3077.92</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.223217</Ex>
-			<Ey>3113.92</Ey>
+			<Ex>0.224834</Ex>
+			<Ey>3103.83</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.184273</Ex>
-			<Ey>1872.04</Ey>
+			<Ex>0.183886</Ex>
+			<Ey>1786.26</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.192467</Ex>
-			<Ey>1868.68</Ey>
+			<Ex>0.188839</Ex>
+			<Ey>1799.24</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.187927</Ex>
-			<Ey>1849.7</Ey>
+			<Ex>0.184415</Ex>
+			<Ey>1786.44</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.18726</Ex>
-			<Ey>1817.39</Ey>
+			<Ex>0.182437</Ex>
+			<Ey>1814.73</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.183656</Ex>
-			<Ey>1851.95</Ey>
+			<Ex>0.184502</Ex>
+			<Ey>1814.21</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.182815</Ex>
-			<Ey>1804.52</Ey>
+			<Ex>0.188547</Ex>
+			<Ey>1854.87</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.189581</Ex>
-			<Ey>1803.28</Ey>
+			<Ex>0.19046</Ex>
+			<Ey>1743.87</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.187025</Ex>
-			<Ey>1813.89</Ey>
+			<Ex>0.183011</Ex>
+			<Ey>1820.98</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.189749</Ex>
-			<Ey>1796.06</Ey>
+			<Ex>0.183516</Ex>
+			<Ey>1872.92</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.187018</Ex>
-			<Ey>1838.75</Ey>
+			<Ex>0.182428</Ex>
+			<Ey>1803.1</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.172631</Ex>
-			<Ey>1496.73</Ey>
+			<Ex>0.173798</Ex>
+			<Ey>1497.52</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.170268</Ex>
-			<Ey>1486.01</Ey>
+			<Ex>0.170642</Ex>
+			<Ey>1569.76</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.173144</Ex>
-			<Ey>1469.68</Ey>
+			<Ex>0.176197</Ex>
+			<Ey>1486.3</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.173574</Ex>
-			<Ey>1475.68</Ey>
+			<Ex>0.17383</Ex>
+			<Ey>1469.92</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.169742</Ex>
-			<Ey>1488.33</Ey>
+			<Ex>0.1661</Ex>
+			<Ey>1492.5</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.173554</Ex>
-			<Ey>1479.68</Ey>
+			<Ex>0.171047</Ex>
+			<Ey>1416.69</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.17639</Ex>
-			<Ey>1501.68</Ey>
+			<Ex>0.17616</Ex>
+			<Ey>1480.42</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.169866</Ex>
-			<Ey>1511.57</Ey>
+			<Ex>0.172207</Ex>
+			<Ey>1496.84</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.172163</Ex>
-			<Ey>1470.15</Ey>
+			<Ex>0.176813</Ex>
+			<Ey>1467.91</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.171846</Ex>
-			<Ey>1470.7</Ey>
+			<Ex>0.168032</Ex>
+			<Ey>1473.41</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.183484</Ex>
-			<Ey>1254.04</Ey>
+			<Ex>0.174028</Ex>
+			<Ey>1177.23</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.174565</Ex>
-			<Ey>1239.59</Ey>
+			<Ex>0.170217</Ex>
+			<Ey>1231.8</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.17481</Ex>
-			<Ey>1214.41</Ey>
+			<Ex>0.178788</Ex>
+			<Ey>1188.31</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.176945</Ex>
-			<Ey>1195.12</Ey>
+			<Ex>0.17814</Ex>
+			<Ey>1192.79</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.174083</Ex>
-			<Ey>1201.19</Ey>
+			<Ex>0.17906</Ex>
+			<Ey>1182.66</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.174751</Ex>
-			<Ey>1219.62</Ey>
+			<Ex>0.173368</Ex>
+			<Ey>1142.43</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.174539</Ex>
-			<Ey>1199.27</Ey>
+			<Ex>0.1708</Ex>
+			<Ey>1205.86</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.17833</Ex>
-			<Ey>1250.15</Ey>
+			<Ex>0.178554</Ex>
+			<Ey>1204.06</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.171866</Ex>
-			<Ey>1215.95</Ey>
+			<Ex>0.170051</Ex>
+			<Ey>1189.24</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.177758</Ex>
-			<Ey>1232.16</Ey>
+			<Ex>0.181598</Ex>
+			<Ey>1227.3</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.177132</Ex>
-			<Ey>1843.59</Ey>
+			<Ex>0.180445</Ex>
+			<Ey>1841.96</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.18</Ex>
-			<Ey>1867.37</Ey>
+			<Ex>0.178538</Ex>
+			<Ey>1846.55</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.185522</Ex>
-			<Ey>1856.85</Ey>
+			<Ex>0.183332</Ex>
+			<Ey>1795.62</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.185849</Ex>
-			<Ey>1838.17</Ey>
+			<Ex>0.183</Ex>
+			<Ey>1841.96</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.180815</Ex>
-			<Ey>1842.1</Ey>
+			<Ex>0.176464</Ex>
+			<Ey>1786.74</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.179814</Ex>
-			<Ey>1799.49</Ey>
+			<Ex>0.182775</Ex>
+			<Ey>1913.01</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.182269</Ex>
-			<Ey>1822.84</Ey>
+			<Ex>0.180263</Ex>
+			<Ey>1721.71</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.178844</Ex>
-			<Ey>1838.78</Ey>
+			<Ex>0.167939</Ex>
+			<Ey>1712.82</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.178958</Ex>
-			<Ey>1762.44</Ey>
+			<Ex>0.175025</Ex>
+			<Ey>1695.74</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.178515</Ex>
-			<Ey>1786.26</Ey>
+			<Ex>0.18012</Ex>
+			<Ey>1753.86</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.14217</Ex>
-			<Ey>660.082</Ey>
+			<Ex>0.141612</Ex>
+			<Ey>707.21</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.147799</Ex>
-			<Ey>697.952</Ey>
+			<Ex>0.150068</Ex>
+			<Ey>739.529</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.149569</Ex>
-			<Ey>727.744</Ey>
+			<Ex>0.142557</Ex>
+			<Ey>726.657</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.145888</Ex>
-			<Ey>709.175</Ey>
+			<Ex>0.145264</Ex>
+			<Ey>712.061</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.149721</Ex>
-			<Ey>739.451</Ey>
+			<Ex>0.14136</Ex>
+			<Ey>730.976</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.146514</Ex>
-			<Ey>748.605</Ey>
+			<Ex>0.149075</Ex>
+			<Ey>689.905</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.145575</Ex>
-			<Ey>698.305</Ey>
+			<Ex>0.142899</Ex>
+			<Ey>711.663</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.152138</Ex>
-			<Ey>749.108</Ey>
+			<Ex>0.151631</Ex>
+			<Ey>698.376</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.146697</Ex>
-			<Ey>741.763</Ey>
+			<Ex>0.139547</Ex>
+			<Ey>737.452</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.146139</Ex>
-			<Ey>658.883</Ey>
+			<Ex>0.149037</Ex>
+			<Ey>681.126</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.15733</Ex>
-			<Ey>1121.3</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.152701</Ex>
-			<Ey>1112.53</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.152275</Ex>
-			<Ey>1079.71</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.157215</Ex>
-			<Ey>1147.73</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.151095</Ex>
-			<Ey>1079.53</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.162594</Ex>
+			<Ex>0.156833</Ex>
 			<Ey>1099.67</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.155102</Ex>
-			<Ey>1129.91</Ey>
+			<Ex>0.163301</Ex>
+			<Ey>1136.15</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.156013</Ex>
-			<Ey>1134.28</Ey>
+			<Ex>0.15981</Ex>
+			<Ey>1090.08</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.14843</Ex>
-			<Ey>1066.81</Ey>
+			<Ex>0.160427</Ex>
+			<Ey>1093.03</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.148586</Ex>
-			<Ey>1071.41</Ey>
+			<Ex>0.156946</Ex>
+			<Ey>1117.82</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.156478</Ex>
+			<Ey>1088.75</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.159358</Ex>
+			<Ey>1090.08</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.159347</Ex>
+			<Ey>1087.44</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.151026</Ex>
+			<Ey>1079.69</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.156507</Ex>
+			<Ey>1084.39</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.206308</Ex>
-			<Ey>1829.14</Ey>
+			<Ex>0.20107</Ex>
+			<Ey>1812.91</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.200758</Ex>
-			<Ey>1796.97</Ey>
+			<Ex>0.200025</Ex>
+			<Ey>1796.69</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.200046</Ex>
-			<Ey>1794.62</Ey>
+			<Ex>0.212748</Ex>
+			<Ey>1838.76</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.204734</Ex>
-			<Ey>1775.06</Ey>
+			<Ex>0.193529</Ex>
+			<Ey>1732.93</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.200323</Ex>
-			<Ey>1794.44</Ey>
+			<Ex>0.209251</Ex>
+			<Ey>1803.84</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.196803</Ex>
-			<Ey>1770.1</Ey>
+			<Ex>0.19894</Ex>
+			<Ey>1745.4</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.20264</Ex>
-			<Ey>1806.75</Ey>
+			<Ex>0.202277</Ex>
+			<Ey>1782.17</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.196901</Ex>
-			<Ey>1777.38</Ey>
+			<Ex>0.200409</Ex>
+			<Ey>1799.91</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.197984</Ex>
-			<Ey>1734.87</Ey>
+			<Ex>0.198738</Ex>
+			<Ey>1764.57</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.20124</Ex>
-			<Ey>1740.84</Ey>
+			<Ex>0.200016</Ex>
+			<Ey>1821.3</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.192646</Ex>
-			<Ey>2176.85</Ey>
+			<Ex>0.197376</Ex>
+			<Ey>2220.34</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.200734</Ex>
-			<Ey>2202.97</Ey>
+			<Ex>0.198537</Ex>
+			<Ey>2214.6</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.19583</Ex>
-			<Ey>2158.67</Ey>
+			<Ex>0.200723</Ex>
+			<Ey>2244.19</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.197228</Ex>
-			<Ey>2146.49</Ey>
+			<Ex>0.20052</Ex>
+			<Ey>2241.79</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.206559</Ex>
-			<Ey>2266.47</Ey>
+			<Ex>0.201999</Ex>
+			<Ey>2222.88</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.19661</Ex>
-			<Ey>2169</Ey>
+			<Ex>0.198544</Ex>
+			<Ey>2215.32</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.190304</Ex>
-			<Ey>2167.74</Ey>
+			<Ex>0.202269</Ex>
+			<Ey>2149.9</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.198468</Ex>
-			<Ey>2281.88</Ey>
+			<Ex>0.200645</Ex>
+			<Ey>2226.79</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.20617</Ex>
-			<Ey>2244.1</Ey>
+			<Ex>0.204366</Ex>
+			<Ey>2152.07</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.195628</Ex>
-			<Ey>2185.87</Ey>
+			<Ex>0.194847</Ex>
+			<Ey>2221.83</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.175819</Ex>
-			<Ey>1146.56</Ey>
+			<Ex>0.178088</Ex>
+			<Ey>1094.11</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.174154</Ex>
-			<Ey>1080.06</Ey>
+			<Ex>0.170995</Ex>
+			<Ey>1088.78</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.176125</Ex>
-			<Ey>1090.4</Ey>
+			<Ex>0.174953</Ex>
+			<Ey>1055.41</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.175401</Ex>
-			<Ey>1080.18</Ey>
+			<Ex>0.177225</Ex>
+			<Ey>1101.24</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.168069</Ex>
-			<Ey>1077.12</Ey>
+			<Ex>0.167052</Ex>
+			<Ey>1049.6</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.174875</Ex>
-			<Ey>1086.88</Ey>
+			<Ex>0.17504</Ex>
+			<Ey>1098.46</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.175156</Ex>
-			<Ey>1114.15</Ey>
+			<Ex>0.178073</Ex>
+			<Ey>1058.91</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.175794</Ex>
-			<Ey>1063.39</Ey>
+			<Ex>0.174553</Ex>
+			<Ey>1071.69</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.172521</Ex>
-			<Ey>1052.11</Ey>
+			<Ex>0.167361</Ex>
+			<Ey>1086.12</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.174275</Ex>
-			<Ey>1089.39</Ey>
+			<Ex>0.172886</Ex>
+			<Ey>1066.79</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.177911</Ex>
-			<Ey>1378.14</Ey>
+			<Ex>0.173269</Ex>
+			<Ey>1347.37</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.171148</Ex>
-			<Ey>1328.06</Ey>
+			<Ex>0.174895</Ex>
+			<Ey>1350.96</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.173069</Ex>
-			<Ey>1337.13</Ey>
+			<Ex>0.172752</Ex>
+			<Ey>1346.09</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.163943</Ex>
-			<Ey>1346.44</Ey>
+			<Ex>0.17713</Ex>
+			<Ey>1333.69</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.170746</Ex>
-			<Ey>1362.58</Ey>
+			<Ex>0.176326</Ex>
+			<Ey>1288</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.169646</Ex>
-			<Ey>1352.82</Ey>
+			<Ex>0.167917</Ex>
+			<Ey>1392.34</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.171451</Ex>
-			<Ey>1337.58</Ey>
+			<Ex>0.168882</Ex>
+			<Ey>1361.22</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.172992</Ex>
-			<Ey>1327.69</Ey>
+			<Ex>0.172522</Ex>
+			<Ey>1337.44</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.171936</Ex>
-			<Ey>1393.9</Ey>
+			<Ex>0.171625</Ex>
+			<Ey>1288.51</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.168774</Ex>
-			<Ey>1287.55</Ey>
+			<Ex>0.171</Ex>
+			<Ey>1377.51</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.266056</Ex>
-			<Ey>4574.21</Ey>
+			<Ex>0.260736</Ex>
+			<Ey>4413.17</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.268306</Ex>
-			<Ey>4482.07</Ey>
+			<Ex>0.253924</Ex>
+			<Ey>4461.56</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.264714</Ex>
-			<Ey>4492.98</Ey>
+			<Ex>0.262402</Ex>
+			<Ey>4486.91</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.259401</Ex>
-			<Ey>4462.71</Ey>
+			<Ex>0.266316</Ex>
+			<Ey>4626.98</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.259862</Ex>
-			<Ey>4591.39</Ey>
+			<Ex>0.254041</Ex>
+			<Ey>4589.89</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.263535</Ex>
-			<Ey>4499.74</Ey>
+			<Ex>0.259</Ex>
+			<Ey>4569.77</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.26653</Ex>
-			<Ey>4479.93</Ey>
+			<Ex>0.267781</Ex>
+			<Ey>4476.4</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.26438</Ex>
-			<Ey>4442.53</Ey>
+			<Ex>0.264855</Ex>
+			<Ey>4577.69</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.268174</Ex>
-			<Ey>4537.71</Ey>
+			<Ex>0.261155</Ex>
+			<Ey>4430.59</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.267231</Ex>
-			<Ey>4525.94</Ey>
+			<Ex>0.261721</Ex>
+			<Ey>4539.34</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.231808</Ex>
-			<Ey>3524.42</Ey>
+			<Ex>0.227181</Ex>
+			<Ey>3435.1</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.233005</Ex>
-			<Ey>3539.2</Ey>
+			<Ex>0.232999</Ex>
+			<Ey>3610.48</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.229632</Ex>
-			<Ey>3566.58</Ey>
+			<Ex>0.226694</Ex>
+			<Ey>3585.5</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.228029</Ex>
-			<Ey>3536.03</Ey>
+			<Ex>0.231637</Ex>
+			<Ey>3644.29</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.228142</Ex>
-			<Ey>3664.41</Ey>
+			<Ex>0.233489</Ex>
+			<Ey>3571.89</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.233157</Ex>
-			<Ey>3531.12</Ey>
+			<Ex>0.239469</Ex>
+			<Ey>3554.88</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.231704</Ex>
-			<Ey>3583.78</Ey>
+			<Ex>0.23521</Ex>
+			<Ey>3565.77</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.231844</Ex>
-			<Ey>3606.06</Ey>
+			<Ex>0.236536</Ex>
+			<Ey>3619.13</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.233199</Ex>
-			<Ey>3503.16</Ey>
+			<Ex>0.227</Ex>
+			<Ey>3586.35</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.228979</Ex>
-			<Ey>3584.07</Ey>
+			<Ex>0.23121</Ex>
+			<Ey>3540.15</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.23345</Ex>
-			<Ey>3063.13</Ey>
+			<Ex>0.230677</Ex>
+			<Ey>2959.73</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.234354</Ex>
-			<Ey>3084.28</Ey>
+			<Ex>0.243274</Ex>
+			<Ey>3082.02</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.232781</Ex>
-			<Ey>3077.05</Ey>
+			<Ex>0.241687</Ex>
+			<Ey>3051.31</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.239657</Ex>
-			<Ey>3195.9</Ey>
+			<Ex>0.229722</Ex>
+			<Ey>3002.35</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.227489</Ex>
-			<Ey>3070.2</Ey>
+			<Ex>0.239138</Ex>
+			<Ey>3099.49</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.234541</Ex>
-			<Ey>3074.68</Ey>
+			<Ex>0.238663</Ex>
+			<Ey>3090.56</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.234224</Ex>
-			<Ey>2989.35</Ey>
+			<Ex>0.229951</Ex>
+			<Ey>2998.77</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.238264</Ex>
-			<Ey>3083.86</Ey>
+			<Ex>0.233329</Ex>
+			<Ey>3074.37</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.232462</Ex>
-			<Ey>3083.21</Ey>
+			<Ex>0.234157</Ex>
+			<Ey>2996.05</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.232377</Ex>
-			<Ey>3012.65</Ey>
+			<Ex>0.232733</Ex>
+			<Ey>3023.36</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.208472</Ex>
-			<Ey>2369.23</Ey>
+			<Ex>0.21498</Ex>
+			<Ey>2401.64</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.208736</Ex>
-			<Ey>2378.76</Ey>
+			<Ex>0.211047</Ex>
+			<Ey>2400.03</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.214477</Ex>
-			<Ey>2354.4</Ey>
+			<Ex>0.206448</Ex>
+			<Ey>2407.77</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.206026</Ex>
-			<Ey>2403.71</Ey>
+			<Ex>0.202968</Ex>
+			<Ey>2478.24</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.200613</Ex>
-			<Ey>2416.98</Ey>
+			<Ex>0.209564</Ex>
+			<Ey>2399.05</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.212168</Ex>
-			<Ey>2407.68</Ey>
+			<Ex>0.209283</Ex>
+			<Ey>2311.37</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.201581</Ex>
-			<Ey>2411.92</Ey>
+			<Ex>0.205191</Ex>
+			<Ey>2359.36</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.202665</Ex>
-			<Ey>2365.38</Ey>
+			<Ex>0.209682</Ex>
+			<Ey>2418.7</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.203769</Ex>
-			<Ey>2428.06</Ey>
+			<Ex>0.206493</Ex>
+			<Ey>2394.11</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.206558</Ex>
-			<Ey>2440.61</Ey>
+			<Ex>0.204029</Ex>
+			<Ey>2395.25</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0261787</Ex>
-			<Ey>20.5802</Ey>
+			<Ex>0.0294577</Ex>
+			<Ey>22.0952</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0272009</Ex>
-			<Ey>20.7512</Ey>
+			<Ex>0.0272944</Ex>
+			<Ey>20.5741</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0283118</Ex>
-			<Ey>21.2498</Ey>
+			<Ex>0.0278862</Ex>
+			<Ey>21.6622</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0281186</Ex>
-			<Ey>23.5394</Ey>
+			<Ex>0.0273944</Ex>
+			<Ey>21.5899</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0269256</Ex>
-			<Ey>21.7191</Ey>
+			<Ex>0.0284125</Ex>
+			<Ey>22.8032</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0291394</Ex>
-			<Ey>22.7821</Ey>
+			<Ex>0.0286169</Ex>
+			<Ey>22.7908</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0290233</Ex>
-			<Ey>22.7852</Ey>
+			<Ex>0.0274223</Ex>
+			<Ey>21.223</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0277309</Ex>
-			<Ey>21.7766</Ey>
+			<Ex>0.0292893</Ex>
+			<Ey>22.119</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0277472</Ex>
-			<Ey>22.3621</Ey>
+			<Ex>0.0261419</Ex>
+			<Ey>21.088</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0285494</Ex>
-			<Ey>22.7503</Ey>
+			<Ex>0.0287706</Ex>
+			<Ey>22.451</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0485452</Ex>
-			<Ey>107.935</Ey>
+			<Ex>0.0497049</Ex>
+			<Ey>112.225</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0482651</Ex>
-			<Ey>111.561</Ey>
+			<Ex>0.0511449</Ex>
+			<Ey>109.327</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0512013</Ex>
-			<Ey>115.218</Ey>
+			<Ex>0.0493708</Ex>
+			<Ey>103.275</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0449449</Ex>
-			<Ey>101.46</Ey>
+			<Ex>0.0512651</Ex>
+			<Ey>118.672</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0519861</Ex>
-			<Ey>109.232</Ey>
+			<Ex>0.0493892</Ex>
+			<Ey>113.714</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0469923</Ex>
-			<Ey>108.71</Ey>
+			<Ex>0.050325</Ex>
+			<Ey>111.034</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0496392</Ex>
-			<Ey>110.158</Ey>
+			<Ex>0.0518972</Ex>
+			<Ey>119.096</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.046985</Ex>
-			<Ey>111.089</Ey>
+			<Ex>0.0509613</Ex>
+			<Ey>120.036</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0509286</Ex>
-			<Ey>115.38</Ey>
+			<Ex>0.0507772</Ex>
+			<Ey>97.9307</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0504334</Ex>
-			<Ey>120.907</Ey>
+			<Ex>0.047269</Ex>
+			<Ey>136.44</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0223982</Ex>
-			<Ey>13.0546</Ey>
+			<Ex>0.021887</Ex>
+			<Ey>15.1323</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0220278</Ex>
-			<Ey>12.3485</Ey>
+			<Ex>0.023386</Ex>
+			<Ey>13.5869</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0208574</Ex>
-			<Ey>13.0556</Ey>
+			<Ex>0.0222778</Ex>
+			<Ey>14.1598</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.022313</Ex>
-			<Ey>14.1536</Ey>
+			<Ex>0.0223124</Ex>
+			<Ey>13.1974</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0221365</Ex>
-			<Ey>13.7802</Ey>
+			<Ex>0.0220973</Ex>
+			<Ey>12.7397</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0234699</Ex>
-			<Ey>13.7247</Ey>
+			<Ex>0.021909</Ex>
+			<Ey>12.929</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0229516</Ex>
-			<Ey>13.4986</Ey>
+			<Ex>0.0229177</Ex>
+			<Ey>14.4023</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0214081</Ex>
-			<Ey>13.4651</Ey>
+			<Ex>0.0224145</Ex>
+			<Ey>13.5176</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0222254</Ex>
-			<Ey>13.6264</Ey>
+			<Ex>0.0219145</Ex>
+			<Ey>14.1045</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0218923</Ex>
-			<Ey>13.9933</Ey>
+			<Ex>0.0210874</Ex>
+			<Ey>12.6667</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0456829</Ex>
-			<Ey>97.7321</Ey>
+			<Ex>0.042905</Ex>
+			<Ey>83.3768</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0443727</Ex>
-			<Ey>82.8048</Ey>
+			<Ex>0.0428336</Ex>
+			<Ey>82.8096</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.044569</Ex>
-			<Ey>78.0247</Ey>
+			<Ex>0.0437404</Ex>
+			<Ey>90.2439</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0445131</Ex>
-			<Ey>84.1333</Ey>
+			<Ex>0.0436633</Ex>
+			<Ey>87.2709</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0432911</Ex>
-			<Ey>78.314</Ey>
+			<Ex>0.0463192</Ex>
+			<Ey>101</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0429228</Ex>
-			<Ey>104.26</Ey>
+			<Ex>0.0445898</Ex>
+			<Ey>90.0778</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0397094</Ex>
-			<Ey>84.3315</Ey>
+			<Ex>0.044678</Ex>
+			<Ey>85.9635</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0413355</Ex>
-			<Ey>80.116</Ey>
+			<Ex>0.0420216</Ex>
+			<Ey>81.2903</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0416081</Ex>
-			<Ey>80.8184</Ey>
+			<Ex>0.0435607</Ex>
+			<Ey>77.7434</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0393351</Ex>
-			<Ey>86.3947</Ey>
+			<Ex>0.0422488</Ex>
+			<Ey>78.3926</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0390409</Ex>
-			<Ey>41.8101</Ey>
+			<Ex>0.0414694</Ex>
+			<Ey>41.1575</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0420854</Ex>
-			<Ey>43.2155</Ey>
+			<Ex>0.0398971</Ex>
+			<Ey>39.9439</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0431526</Ex>
-			<Ey>40.4402</Ey>
+			<Ex>0.0411404</Ex>
+			<Ey>39.3481</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0449406</Ex>
-			<Ey>41.9198</Ey>
+			<Ex>0.0396707</Ex>
+			<Ey>41.4807</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0422592</Ex>
-			<Ey>42.0674</Ey>
+			<Ex>0.0390321</Ex>
+			<Ey>38.6151</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0411107</Ex>
-			<Ey>41.5403</Ey>
+			<Ex>0.0424683</Ex>
+			<Ey>43.9559</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0414739</Ex>
-			<Ey>40.7451</Ey>
+			<Ex>0.0425939</Ex>
+			<Ey>41.1329</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0406785</Ex>
-			<Ey>40.7303</Ey>
+			<Ex>0.0417307</Ex>
+			<Ey>42.4373</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0397239</Ex>
-			<Ey>42.336</Ey>
+			<Ex>0.04116</Ex>
+			<Ey>41.0697</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0410781</Ex>
-			<Ey>43.3339</Ey>
+			<Ex>0.0378471</Ex>
+			<Ey>40.3482</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0430832</Ex>
-			<Ey>59.0954</Ey>
+			<Ex>0.0443326</Ex>
+			<Ey>61.6808</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0453721</Ex>
-			<Ey>60.9694</Ey>
+			<Ex>0.0464994</Ex>
+			<Ey>58.8068</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0445254</Ex>
-			<Ey>62.2775</Ey>
+			<Ex>0.0455805</Ex>
+			<Ey>61.6375</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0484799</Ex>
-			<Ey>61.0025</Ey>
+			<Ex>0.0441982</Ex>
+			<Ey>63.376</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0425035</Ex>
-			<Ey>62.5508</Ey>
+			<Ex>0.0448907</Ex>
+			<Ey>63.0908</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0487821</Ex>
-			<Ey>64.7874</Ey>
+			<Ex>0.0434336</Ex>
+			<Ey>62.0453</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0431803</Ex>
-			<Ey>63.5435</Ey>
+			<Ex>0.0439509</Ex>
+			<Ey>61.6375</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0472821</Ex>
-			<Ey>61.2447</Ey>
+			<Ex>0.0457181</Ex>
+			<Ey>64.5997</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0489372</Ex>
-			<Ey>62.1656</Ey>
+			<Ex>0.0432796</Ex>
+			<Ey>62.8552</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0426354</Ex>
-			<Ey>61.9721</Ey>
+			<Ex>0.0460916</Ex>
+			<Ey>64.9489</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0285519</Ex>
-			<Ey>21.9651</Ey>
+			<Ex>0.0276954</Ex>
+			<Ey>19.6347</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0275155</Ex>
-			<Ey>19.7288</Ey>
+			<Ex>0.0262153</Ex>
+			<Ey>19.847</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0279823</Ex>
-			<Ey>20.5214</Ey>
+			<Ex>0.0268833</Ex>
+			<Ey>19.8976</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0276616</Ex>
-			<Ey>21.0629</Ey>
+			<Ex>0.0279554</Ex>
+			<Ey>20.4769</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0259749</Ex>
-			<Ey>20.0371</Ey>
+			<Ex>0.0299499</Ex>
+			<Ey>19.9716</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0281494</Ex>
-			<Ey>19.873</Ey>
+			<Ex>0.0272036</Ex>
+			<Ey>20.3897</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0264979</Ex>
-			<Ey>20.3711</Ey>
+			<Ex>0.0287815</Ex>
+			<Ey>21.0631</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0306524</Ex>
-			<Ey>22.1356</Ey>
+			<Ex>0.0290163</Ex>
+			<Ey>20.6798</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0281146</Ex>
-			<Ey>20.2469</Ey>
+			<Ex>0.0282663</Ex>
+			<Ey>20.3579</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0264054</Ex>
-			<Ey>21.2026</Ey>
+			<Ex>0.027999</Ex>
+			<Ey>20.3274</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0343397</Ex>
-			<Ey>40.2851</Ey>
+			<Ex>0.033471</Ex>
+			<Ey>40.4711</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0360798</Ex>
-			<Ey>43.1055</Ey>
+			<Ex>0.0361876</Ex>
+			<Ey>43.013</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0364022</Ex>
-			<Ey>45.724</Ey>
+			<Ex>0.035259</Ex>
+			<Ey>40.4345</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0353521</Ex>
-			<Ey>39.3729</Ey>
+			<Ex>0.0367514</Ex>
+			<Ey>45.7276</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0354909</Ex>
-			<Ey>44.4179</Ey>
+			<Ex>0.0329394</Ex>
+			<Ey>39.0961</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0346737</Ex>
-			<Ey>39.4189</Ey>
+			<Ex>0.0370284</Ex>
+			<Ey>43.7886</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0390362</Ex>
-			<Ey>44.3702</Ey>
+			<Ex>0.0358451</Ex>
+			<Ey>39.2064</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0357995</Ex>
-			<Ey>42.3037</Ey>
+			<Ex>0.034488</Ex>
+			<Ey>40.0837</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0348326</Ex>
-			<Ey>40.1061</Ey>
+			<Ex>0.0373636</Ex>
+			<Ey>40.9379</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0361944</Ex>
-			<Ey>41.7868</Ey>
+			<Ex>0.0382747</Ex>
+			<Ey>46.1542</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.165539</Ex>
-			<Ey>922.653</Ey>
+			<Ex>0.159753</Ex>
+			<Ey>930.275</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.159144</Ex>
-			<Ey>926.405</Ey>
+			<Ex>0.157954</Ex>
+			<Ey>904.573</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.157373</Ex>
-			<Ey>951.796</Ey>
+			<Ex>0.152615</Ex>
+			<Ey>913.083</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.160163</Ex>
-			<Ey>904.13</Ey>
+			<Ex>0.154842</Ex>
+			<Ey>909.601</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.161405</Ex>
-			<Ey>929.199</Ey>
+			<Ex>0.162356</Ex>
+			<Ey>932.614</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.157806</Ex>
-			<Ey>918.484</Ey>
+			<Ex>0.152874</Ex>
+			<Ey>905.097</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.156393</Ex>
-			<Ey>940.773</Ey>
+			<Ex>0.157475</Ex>
+			<Ey>929.517</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.156024</Ex>
-			<Ey>927.309</Ey>
+			<Ex>0.163399</Ex>
+			<Ey>938.632</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.165369</Ex>
-			<Ey>947.408</Ey>
+			<Ex>0.167285</Ex>
+			<Ey>924.069</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.158041</Ex>
-			<Ey>901.462</Ey>
+			<Ex>0.162692</Ex>
+			<Ey>924.585</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.117481</Ex>
-			<Ey>447.515</Ey>
+			<Ex>0.119089</Ex>
+			<Ey>478.366</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.123601</Ex>
-			<Ey>466.697</Ey>
+			<Ex>0.124868</Ex>
+			<Ey>460.202</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.121569</Ex>
-			<Ey>441.996</Ey>
+			<Ex>0.124691</Ex>
+			<Ey>461.516</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.123874</Ex>
-			<Ey>471.858</Ey>
+			<Ex>0.12511</Ex>
+			<Ey>450.011</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.123432</Ex>
-			<Ey>467.967</Ey>
+			<Ex>0.125758</Ex>
+			<Ey>463.68</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.122949</Ex>
-			<Ey>457.509</Ey>
+			<Ex>0.121887</Ex>
+			<Ey>468.256</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.123582</Ex>
-			<Ey>455.389</Ey>
+			<Ex>0.118443</Ex>
+			<Ey>461.217</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.124641</Ex>
-			<Ey>462.208</Ey>
+			<Ex>0.122382</Ex>
+			<Ey>467.287</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.120379</Ex>
-			<Ey>462.374</Ey>
+			<Ex>0.120817</Ex>
+			<Ey>455.546</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.122898</Ex>
-			<Ey>454.158</Ey>
+			<Ex>0.126009</Ex>
+			<Ey>463.719</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.10779</Ex>
-			<Ey>395.474</Ey>
+			<Ex>0.107488</Ex>
+			<Ey>380.035</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10848</Ex>
-			<Ey>380.591</Ey>
+			<Ex>0.107841</Ex>
+			<Ey>394.382</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.104992</Ex>
-			<Ey>385.098</Ey>
+			<Ex>0.10793</Ex>
+			<Ey>394.578</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.108108</Ex>
-			<Ey>397.738</Ey>
+			<Ex>0.10674</Ex>
+			<Ey>389.894</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.101264</Ex>
-			<Ey>388.45</Ey>
+			<Ex>0.101992</Ex>
+			<Ey>401.736</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.108855</Ex>
-			<Ey>402.643</Ey>
+			<Ex>0.0989953</Ex>
+			<Ey>391.253</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.109691</Ex>
-			<Ey>393.489</Ey>
+			<Ex>0.100672</Ex>
+			<Ey>385.133</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.105806</Ex>
-			<Ey>384.133</Ey>
+			<Ex>0.105768</Ex>
+			<Ey>380.189</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.103934</Ex>
-			<Ey>390.448</Ey>
+			<Ex>0.100748</Ex>
+			<Ey>389.809</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10649</Ex>
-			<Ey>397.412</Ey>
+			<Ex>0.108652</Ex>
+			<Ey>398.932</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.087417</Ex>
-			<Ey>234.881</Ey>
+			<Ex>0.0857939</Ex>
+			<Ey>237.861</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0813342</Ex>
-			<Ey>232.183</Ey>
+			<Ex>0.0815265</Ex>
+			<Ey>234.392</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.086387</Ex>
-			<Ey>234.93</Ey>
+			<Ex>0.0829979</Ex>
+			<Ey>241.478</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0836148</Ex>
-			<Ey>234.682</Ey>
+			<Ex>0.0861137</Ex>
+			<Ey>235.739</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0830785</Ex>
-			<Ey>232.85</Ey>
+			<Ex>0.0781906</Ex>
+			<Ey>236.855</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0764143</Ex>
-			<Ey>234.518</Ey>
+			<Ex>0.0777951</Ex>
+			<Ey>229.381</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0862955</Ex>
-			<Ey>246.033</Ey>
+			<Ex>0.0812263</Ex>
+			<Ey>242.761</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0816747</Ex>
-			<Ey>240.762</Ey>
+			<Ex>0.0850956</Ex>
+			<Ey>235.723</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0852058</Ex>
-			<Ey>238.799</Ey>
+			<Ex>0.0873444</Ex>
+			<Ey>240.107</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0823178</Ex>
-			<Ey>224.623</Ey>
+			<Ex>0.0833298</Ex>
+			<Ey>232.991</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0217411</Ex>
-			<Ey>9.19527</Ey>
+			<Ex>0.0191455</Ex>
+			<Ey>8.52006</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0215696</Ex>
-			<Ey>9.18503</Ey>
+			<Ex>0.0194631</Ex>
+			<Ey>8.5103</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0214143</Ex>
-			<Ey>8.84943</Ey>
+			<Ex>0.0197291</Ex>
+			<Ey>9.5685</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0224534</Ex>
-			<Ey>10.4922</Ey>
+			<Ex>0.0215576</Ex>
+			<Ey>9.5089</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0219332</Ex>
-			<Ey>9.37642</Ey>
+			<Ex>0.021404</Ex>
+			<Ey>9.21939</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0214533</Ex>
-			<Ey>9.63561</Ey>
+			<Ex>0.0218956</Ex>
+			<Ey>9.20313</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0204509</Ex>
-			<Ey>9.03716</Ey>
+			<Ex>0.0195115</Ex>
+			<Ey>9.43941</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.020804</Ex>
-			<Ey>8.97585</Ey>
+			<Ex>0.0211181</Ex>
+			<Ey>9.69889</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0215098</Ex>
-			<Ey>9.34686</Ey>
+			<Ex>0.0205096</Ex>
+			<Ey>9.1291</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0189212</Ex>
-			<Ey>8.78861</Ey>
+			<Ex>0.0198036</Ex>
+			<Ey>8.92041</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0400568</Ex>
-			<Ey>50.3703</Ey>
+			<Ex>0.0430674</Ex>
+			<Ey>55.8535</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0456626</Ex>
-			<Ey>58.4356</Ey>
+			<Ex>0.0427129</Ex>
+			<Ey>61.6048</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0453606</Ex>
-			<Ey>54.9478</Ey>
+			<Ex>0.0399525</Ex>
+			<Ey>56.7076</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0411578</Ex>
-			<Ey>51.7012</Ey>
+			<Ex>0.0410537</Ex>
+			<Ey>54.2864</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0416396</Ex>
-			<Ey>53.193</Ey>
+			<Ex>0.041752</Ex>
+			<Ey>60.7536</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0390926</Ex>
-			<Ey>56.5042</Ey>
+			<Ex>0.0419084</Ex>
+			<Ey>51.7429</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0407083</Ex>
-			<Ey>51.8274</Ey>
+			<Ex>0.0393558</Ex>
+			<Ey>50.1557</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0379853</Ex>
-			<Ey>52.0627</Ey>
+			<Ex>0.0404726</Ex>
+			<Ey>53.922</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0435384</Ex>
-			<Ey>54.2495</Ey>
+			<Ex>0.0406324</Ex>
+			<Ey>52.0153</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0411819</Ex>
-			<Ey>55.4302</Ey>
+			<Ex>0.0417666</Ex>
+			<Ey>56.9194</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0162691</Ex>
-			<Ey>6.56905</Ey>
+			<Ex>0.0165558</Ex>
+			<Ey>6.30319</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0158446</Ex>
-			<Ey>6.45658</Ey>
+			<Ex>0.0175255</Ex>
+			<Ey>5.50259</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0167551</Ex>
-			<Ey>5.87895</Ey>
+			<Ex>0.0160158</Ex>
+			<Ey>5.68019</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.016526</Ex>
-			<Ey>5.76022</Ey>
+			<Ex>0.017262</Ex>
+			<Ey>6.12505</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0162824</Ex>
-			<Ey>6.02337</Ey>
+			<Ex>0.0189607</Ex>
+			<Ey>6.10796</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0164869</Ex>
-			<Ey>5.68543</Ey>
+			<Ex>0.0158158</Ex>
+			<Ey>6.07799</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0181417</Ex>
-			<Ey>6.10077</Ey>
+			<Ex>0.0158211</Ex>
+			<Ey>5.76833</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0142089</Ex>
-			<Ey>5.48251</Ey>
+			<Ex>0.0170514</Ex>
+			<Ey>5.8812</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0163957</Ex>
-			<Ey>5.45739</Ey>
+			<Ex>0.0179701</Ex>
+			<Ey>5.87778</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0172887</Ex>
-			<Ey>6.44295</Ey>
+			<Ex>0.0157992</Ex>
+			<Ey>5.92167</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.038487</Ex>
-			<Ey>45.153</Ey>
+			<Ex>0.0394136</Ex>
+			<Ey>42.4496</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0358249</Ex>
-			<Ey>37.7885</Ey>
+			<Ex>0.040227</Ex>
+			<Ey>41.1004</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0374839</Ex>
-			<Ey>51.0572</Ey>
+			<Ex>0.0362763</Ex>
+			<Ey>42.0058</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.039964</Ex>
-			<Ey>49.9003</Ey>
+			<Ex>0.0389611</Ex>
+			<Ey>38.4205</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0370867</Ex>
-			<Ey>40.2219</Ey>
+			<Ex>0.0367857</Ex>
+			<Ey>46.4235</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0363862</Ex>
-			<Ey>40.8579</Ey>
+			<Ex>0.0347218</Ex>
+			<Ey>41.852</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0373135</Ex>
-			<Ey>39.239</Ey>
+			<Ex>0.0414604</Ex>
+			<Ey>46.6671</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0405054</Ex>
-			<Ey>39.8558</Ey>
+			<Ex>0.0406032</Ex>
+			<Ey>53.039</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0381667</Ex>
-			<Ey>42.6646</Ey>
+			<Ex>0.0382101</Ex>
+			<Ey>47.9117</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0381033</Ex>
-			<Ey>47.1834</Ey>
+			<Ex>0.0353277</Ex>
+			<Ey>42.1924</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0374993</Ex>
-			<Ey>29.8393</Ey>
+			<Ex>0.0373864</Ex>
+			<Ey>27.6647</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0384491</Ex>
-			<Ey>30.2827</Ey>
+			<Ex>0.0370169</Ex>
+			<Ey>28.2735</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0396314</Ex>
-			<Ey>28.6395</Ey>
+			<Ex>0.0377819</Ex>
+			<Ey>28.809</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0421154</Ex>
-			<Ey>30.4316</Ey>
+			<Ex>0.0381669</Ex>
+			<Ey>28.8308</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0350863</Ex>
-			<Ey>27.6667</Ey>
+			<Ex>0.0386579</Ex>
+			<Ey>30.3325</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.037036</Ex>
-			<Ey>28.3164</Ey>
+			<Ex>0.0370274</Ex>
+			<Ey>29.2133</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0380442</Ex>
-			<Ey>29.7324</Ey>
+			<Ex>0.0372691</Ex>
+			<Ey>29.3978</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0371457</Ex>
-			<Ey>30.1609</Ey>
+			<Ex>0.036944</Ex>
+			<Ey>29.839</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0371298</Ex>
-			<Ey>28.671</Ey>
+			<Ex>0.0374289</Ex>
+			<Ey>29.1162</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0367451</Ex>
-			<Ey>29.5298</Ey>
+			<Ex>0.0392751</Ex>
+			<Ey>29.4502</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0386441</Ex>
-			<Ey>34.8712</Ey>
+			<Ex>0.0399138</Ex>
+			<Ey>36.4368</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0389931</Ex>
-			<Ey>37.7938</Ey>
+			<Ex>0.0395153</Ex>
+			<Ey>36.6967</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0401112</Ex>
-			<Ey>38.0904</Ey>
+			<Ex>0.0381745</Ex>
+			<Ey>39.8536</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0412557</Ex>
-			<Ey>36.5805</Ey>
+			<Ex>0.0411175</Ex>
+			<Ey>36.5229</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0423321</Ex>
-			<Ey>36.5241</Ey>
+			<Ex>0.0429798</Ex>
+			<Ey>38.3729</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0402491</Ex>
-			<Ey>36.2014</Ey>
+			<Ex>0.0442314</Ex>
+			<Ey>38.1613</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0424332</Ex>
-			<Ey>36.949</Ey>
+			<Ex>0.0419101</Ex>
+			<Ey>38.6952</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0391479</Ex>
-			<Ey>38.2765</Ey>
+			<Ex>0.0386641</Ex>
+			<Ey>35.5583</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0392259</Ex>
-			<Ey>37.9537</Ey>
+			<Ex>0.0381603</Ex>
+			<Ey>37.193</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0404715</Ex>
-			<Ey>38.3108</Ey>
+			<Ex>0.0397276</Ex>
+			<Ey>36.9151</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0249349</Ex>
-			<Ey>13.607</Ey>
+			<Ex>0.0269074</Ex>
+			<Ey>14.5948</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0283309</Ex>
-			<Ey>14.6727</Ey>
+			<Ex>0.0260627</Ex>
+			<Ey>14.1425</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0258487</Ex>
-			<Ey>13.9864</Ey>
+			<Ex>0.0251461</Ex>
+			<Ey>13.012</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0273402</Ex>
-			<Ey>14.4494</Ey>
+			<Ex>0.0246727</Ex>
+			<Ey>13.1953</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0252042</Ex>
-			<Ey>14.0245</Ey>
+			<Ex>0.025996</Ex>
+			<Ey>14.0231</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0272448</Ex>
-			<Ey>14.017</Ey>
+			<Ex>0.0276785</Ex>
+			<Ey>13.9366</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0271071</Ex>
-			<Ey>14.4478</Ey>
+			<Ex>0.0275288</Ex>
+			<Ey>13.7105</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0240472</Ex>
-			<Ey>13.4775</Ey>
+			<Ex>0.0264398</Ex>
+			<Ey>14.4423</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.026138</Ex>
-			<Ey>13.8697</Ey>
+			<Ex>0.0272619</Ex>
+			<Ey>13.7838</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0271404</Ex>
-			<Ey>14.6196</Ey>
+			<Ex>0.0270734</Ex>
+			<Ey>14.1201</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0350235</Ex>
-			<Ey>24.9175</Ey>
+			<Ex>0.0344343</Ex>
+			<Ey>25.9183</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0318699</Ex>
-			<Ey>27.2422</Ey>
+			<Ex>0.0319616</Ex>
+			<Ey>25.3542</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0326857</Ex>
-			<Ey>25.4772</Ey>
+			<Ex>0.0331051</Ex>
+			<Ey>25.4819</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.035215</Ex>
-			<Ey>24.8613</Ey>
+			<Ex>0.0310403</Ex>
+			<Ey>23.7802</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0321571</Ex>
-			<Ey>23.0733</Ey>
+			<Ex>0.0320765</Ex>
+			<Ey>28.2119</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0335856</Ex>
-			<Ey>25.3864</Ey>
+			<Ex>0.0328448</Ex>
+			<Ey>24.3677</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0328892</Ex>
-			<Ey>24.3232</Ey>
+			<Ex>0.0328143</Ex>
+			<Ey>24.3557</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0315554</Ex>
-			<Ey>24.6414</Ey>
+			<Ex>0.0330839</Ex>
+			<Ey>26.0372</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0333815</Ex>
-			<Ey>23.2552</Ey>
+			<Ex>0.033965</Ex>
+			<Ey>23.8125</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0312529</Ex>
-			<Ey>23.9313</Ey>
+			<Ex>0.0326432</Ex>
+			<Ey>24.0662</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.153854</Ex>
-			<Ey>853.551</Ey>
+			<Ex>0.158415</Ex>
+			<Ey>868.349</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.164955</Ex>
-			<Ey>887.102</Ey>
+			<Ex>0.161911</Ex>
+			<Ey>845.489</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.154428</Ex>
-			<Ey>887.339</Ey>
+			<Ex>0.153478</Ex>
+			<Ey>908.148</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.16039</Ex>
-			<Ey>880.348</Ey>
+			<Ex>0.161008</Ex>
+			<Ey>894.701</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.164241</Ex>
-			<Ey>885.418</Ey>
+			<Ex>0.160749</Ex>
+			<Ey>850.204</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.16163</Ex>
-			<Ey>891.639</Ey>
+			<Ex>0.162994</Ex>
+			<Ey>884.717</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.166753</Ex>
-			<Ey>894.126</Ey>
+			<Ex>0.162582</Ex>
+			<Ey>861.807</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.162442</Ex>
-			<Ey>893.892</Ey>
+			<Ex>0.155932</Ex>
+			<Ey>869.866</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.160003</Ex>
-			<Ey>888.602</Ey>
+			<Ex>0.157136</Ex>
+			<Ey>902.853</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.161668</Ex>
-			<Ey>895.775</Ey>
+			<Ex>0.164775</Ex>
+			<Ey>889.33</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.122558</Ex>
-			<Ey>420.18</Ey>
+			<Ex>0.122368</Ex>
+			<Ey>414.367</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.123716</Ex>
-			<Ey>419.27</Ey>
+			<Ex>0.123137</Ex>
+			<Ey>410.168</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.129995</Ex>
-			<Ey>419.258</Ey>
+			<Ex>0.118173</Ex>
+			<Ey>412.567</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.117499</Ex>
-			<Ey>423.824</Ey>
+			<Ex>0.12578</Ex>
+			<Ey>417.834</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.116788</Ex>
-			<Ey>419.114</Ey>
+			<Ex>0.119848</Ex>
+			<Ey>410.245</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.125524</Ex>
-			<Ey>418.152</Ey>
+			<Ex>0.121836</Ex>
+			<Ey>418.45</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.12699</Ex>
-			<Ey>421.409</Ey>
+			<Ex>0.122339</Ex>
+			<Ey>414.614</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.12933</Ex>
-			<Ey>424.586</Ey>
+			<Ex>0.126939</Ex>
+			<Ey>421.433</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.130339</Ex>
-			<Ey>433.262</Ey>
+			<Ex>0.124001</Ex>
+			<Ey>415.459</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.123395</Ex>
-			<Ey>425.942</Ey>
+			<Ex>0.132189</Ex>
+			<Ey>417.747</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.119586</Ex>
-			<Ey>381.892</Ey>
+			<Ex>0.113672</Ex>
+			<Ey>366.489</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.112046</Ex>
-			<Ey>373.642</Ey>
+			<Ex>0.116215</Ex>
+			<Ey>384.462</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.125179</Ex>
-			<Ey>385.303</Ey>
+			<Ex>0.118848</Ex>
+			<Ey>394.492</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.116894</Ex>
-			<Ey>375.345</Ey>
+			<Ex>0.115119</Ex>
+			<Ey>384.125</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.114964</Ex>
-			<Ey>373.382</Ey>
+			<Ex>0.112635</Ex>
+			<Ey>366.548</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.112779</Ex>
-			<Ey>360.294</Ey>
+			<Ex>0.117193</Ex>
+			<Ey>385.465</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.11658</Ex>
-			<Ey>372.868</Ey>
+			<Ex>0.117709</Ex>
+			<Ey>379.462</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.117601</Ex>
-			<Ey>387.682</Ey>
+			<Ex>0.115523</Ex>
+			<Ey>375.8</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.112498</Ex>
-			<Ey>372.04</Ey>
+			<Ex>0.118075</Ex>
+			<Ey>370.801</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.115833</Ex>
-			<Ey>379.963</Ey>
+			<Ex>0.108817</Ex>
+			<Ey>363.489</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0917981</Ex>
-			<Ey>203.083</Ey>
+			<Ex>0.088659</Ex>
+			<Ey>216.702</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.096536</Ex>
-			<Ey>221.436</Ey>
+			<Ex>0.0873892</Ex>
+			<Ey>215.558</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.09149</Ex>
-			<Ey>220.22</Ey>
+			<Ex>0.0906734</Ex>
+			<Ey>215.324</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0925026</Ex>
-			<Ey>212.859</Ey>
+			<Ex>0.0916955</Ex>
+			<Ey>218.214</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0948825</Ex>
-			<Ey>219.569</Ey>
+			<Ex>0.0949781</Ex>
+			<Ey>220.058</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0924981</Ex>
-			<Ey>218.743</Ey>
+			<Ex>0.0934598</Ex>
+			<Ey>213.995</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0963188</Ex>
-			<Ey>218.708</Ey>
+			<Ex>0.0965373</Ex>
+			<Ey>211.637</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.090654</Ex>
-			<Ey>211.157</Ey>
+			<Ex>0.0883686</Ex>
+			<Ey>211.842</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0934004</Ex>
-			<Ey>211.302</Ey>
+			<Ex>0.100537</Ex>
+			<Ey>214.616</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0919206</Ex>
-			<Ey>217.102</Ey>
+			<Ex>0.0923874</Ex>
+			<Ey>206.804</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.00778504</Ex>
-			<Ey>1.37602</Ey>
+			<Ex>0.00795988</Ex>
+			<Ey>1.27441</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00762453</Ex>
-			<Ey>1.1545</Ey>
+			<Ex>0.00786499</Ex>
+			<Ey>1.25267</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00724038</Ex>
-			<Ey>1.31778</Ey>
+			<Ex>0.0071037</Ex>
+			<Ey>1.29213</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00789019</Ex>
+			<Ey>1.28979</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00798343</Ex>
-			<Ey>1.3944</Ey>
+			<Ex>0.0076467</Ex>
+			<Ey>1.31511</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00770766</Ex>
-			<Ey>1.3031</Ey>
+			<Ex>0.00743716</Ex>
+			<Ey>1.3615</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00721999</Ex>
+			<Ey>1.36735</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00717646</Ex>
-			<Ey>1.19282</Ey>
+			<Ex>0.00780248</Ex>
+			<Ey>1.29253</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00665586</Ex>
-			<Ey>1.20573</Ey>
+			<Ex>0.00765759</Ex>
+			<Ey>1.29273</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00738245</Ex>
-			<Ey>1.22857</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00734186</Ex>
-			<Ey>1.24939</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0074275</Ex>
-			<Ey>1.33314</Ey>
+			<Ex>0.00733709</Ex>
+			<Ey>1.30359</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0289519</Ex>
-			<Ey>23.0486</Ey>
+			<Ex>0.0255122</Ex>
+			<Ey>25.2226</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0308515</Ex>
-			<Ey>26.8024</Ey>
+			<Ex>0.0306278</Ex>
+			<Ey>22.8482</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0271933</Ex>
-			<Ey>24.1462</Ey>
+			<Ex>0.0281459</Ex>
+			<Ey>23.3752</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0297242</Ex>
-			<Ey>23.497</Ey>
+			<Ex>0.0278975</Ex>
+			<Ey>26.1478</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0274016</Ex>
-			<Ey>22.1729</Ey>
+			<Ex>0.0281279</Ex>
+			<Ey>24.6872</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0291108</Ex>
-			<Ey>25.2258</Ey>
+			<Ex>0.0296076</Ex>
+			<Ey>23.9442</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0280809</Ex>
-			<Ey>26.8384</Ey>
+			<Ex>0.0296105</Ex>
+			<Ey>30.7393</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0293937</Ex>
-			<Ey>25.096</Ey>
+			<Ex>0.0320412</Ex>
+			<Ey>22.5519</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.028537</Ex>
-			<Ey>26.1621</Ey>
+			<Ex>0.0298437</Ex>
+			<Ey>22.7455</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0306018</Ex>
-			<Ey>22.4338</Ey>
+			<Ex>0.0291673</Ex>
+			<Ey>21.5602</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.00544598</Ex>
-			<Ey>0.651537</Ey>
-			<R>0</R>
+			<Ex>0.00556413</Ex>
+			<Ey>0.708444</Ey>
+			<R>0.02</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00531045</Ex>
-			<Ey>0.611174</Ey>
+			<Ex>0.00532775</Ex>
+			<Ey>0.713879</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00473709</Ex>
-			<Ey>0.53809</Ey>
-			<R>0.02</R>
+			<Ex>0.00578853</Ex>
+			<Ey>0.704903</Ey>
+			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00556752</Ex>
-			<Ey>0.659164</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00583405</Ex>
-			<Ey>0.701821</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00460022</Ex>
-			<Ey>0.618985</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00498321</Ex>
-			<Ey>0.606908</Ey>
+			<Ex>0.00525606</Ex>
+			<Ey>0.70441</Ey>
 			<R>0.04</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00526371</Ex>
-			<Ey>0.578348</Ey>
+			<Ex>0.00554692</Ex>
+			<Ey>0.687317</Ey>
 			<R>0.03</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00497786</Ex>
-			<Ey>0.579485</Ey>
+			<Ex>0.00540458</Ex>
+			<Ey>0.634437</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00510016</Ex>
+			<Ey>0.65225</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00559115</Ex>
+			<Ey>0.692477</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00538835</Ex>
-			<Ey>0.672864</Ey>
-			<R>0.03</R>
+			<Ex>0.00579226</Ex>
+			<Ey>0.678808</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00570233</Ex>
+			<Ey>0.678385</Ey>
+			<R>0.01</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0234719</Ex>
-			<Ey>16.3914</Ey>
+			<Ex>0.0236057</Ex>
+			<Ey>13.8004</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0253082</Ex>
-			<Ey>17.3064</Ey>
+			<Ex>0.0234996</Ex>
+			<Ey>17.0349</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0234633</Ex>
-			<Ey>16.9763</Ey>
+			<Ex>0.0233412</Ex>
+			<Ey>14.8727</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0249798</Ex>
-			<Ey>16.2805</Ey>
+			<Ex>0.0209768</Ex>
+			<Ey>16.4927</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0222359</Ex>
-			<Ey>13.9323</Ey>
+			<Ex>0.0244603</Ex>
+			<Ey>14.5861</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0237324</Ex>
-			<Ey>17.4599</Ey>
+			<Ex>0.0234588</Ex>
+			<Ey>18.4723</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0245489</Ex>
-			<Ey>15.6255</Ey>
+			<Ex>0.0249108</Ex>
+			<Ey>15.0994</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.021664</Ex>
-			<Ey>14.9261</Ey>
+			<Ex>0.0245215</Ex>
+			<Ey>15.5991</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0239205</Ex>
-			<Ey>15.1787</Ey>
+			<Ex>0.0240549</Ex>
+			<Ey>17.6898</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0250268</Ex>
-			<Ey>15.3554</Ey>
+			<Ex>0.0225861</Ex>
+			<Ey>17.2885</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0336642</Ex>
-			<Ey>16.5462</Ey>
+			<Ex>0.0312329</Ex>
+			<Ey>17.3769</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0293143</Ex>
-			<Ey>16.9576</Ey>
+			<Ex>0.0289995</Ex>
+			<Ey>16.2225</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0328551</Ex>
-			<Ey>16.7439</Ey>
+			<Ex>0.0288682</Ex>
+			<Ey>16.2217</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0293781</Ex>
-			<Ey>16.1967</Ey>
+			<Ex>0.0315236</Ex>
+			<Ey>16.3516</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.029718</Ex>
-			<Ey>16.3514</Ey>
+			<Ex>0.0315641</Ex>
+			<Ey>16.1156</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0312104</Ex>
-			<Ey>16.0247</Ey>
+			<Ex>0.0310508</Ex>
+			<Ey>16.0524</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0298893</Ex>
-			<Ey>16.5178</Ey>
+			<Ex>0.0333367</Ex>
+			<Ey>16.682</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0355356</Ex>
-			<Ey>16.5709</Ey>
+			<Ex>0.0295625</Ex>
+			<Ey>15.8633</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0314674</Ex>
-			<Ey>16.0893</Ey>
+			<Ex>0.0331182</Ex>
+			<Ey>16.3221</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0293118</Ex>
-			<Ey>15.8205</Ey>
+			<Ex>0.0313556</Ex>
+			<Ey>17.2996</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0376845</Ex>
-			<Ey>35.8411</Ey>
+			<Ex>0.0404117</Ex>
+			<Ey>35.3561</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0404864</Ex>
-			<Ey>36.2159</Ey>
+			<Ex>0.0405627</Ex>
+			<Ey>36.2716</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.039187</Ex>
-			<Ey>35.3712</Ey>
+			<Ex>0.040346</Ex>
+			<Ey>35.0072</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0399869</Ex>
-			<Ey>36.2393</Ey>
+			<Ex>0.0402288</Ex>
+			<Ey>37.0823</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0413681</Ex>
-			<Ey>36.9795</Ey>
+			<Ex>0.0408696</Ex>
+			<Ey>36.5808</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.041494</Ex>
-			<Ey>36.9946</Ey>
+			<Ex>0.0406672</Ex>
+			<Ey>39.1661</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0420044</Ex>
-			<Ey>33.8651</Ey>
+			<Ex>0.0419845</Ex>
+			<Ey>37.9656</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0383851</Ex>
-			<Ey>36.2788</Ey>
+			<Ex>0.0427702</Ex>
+			<Ey>37.3934</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0443741</Ex>
-			<Ey>35.5972</Ey>
+			<Ex>0.041642</Ex>
+			<Ey>36.8652</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0430832</Ex>
-			<Ey>37.4695</Ey>
+			<Ex>0.0401074</Ex>
+			<Ey>36.393</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0219841</Ex>
-			<Ey>8.23129</Ey>
+			<Ex>0.0204559</Ex>
+			<Ey>7.64009</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.021476</Ex>
-			<Ey>7.89762</Ey>
+			<Ex>0.0222786</Ex>
+			<Ey>8.1097</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0205551</Ex>
-			<Ey>7.57763</Ey>
+			<Ex>0.0204772</Ex>
+			<Ey>8.10485</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0202688</Ex>
-			<Ey>8.02846</Ey>
+			<Ex>0.0217018</Ex>
+			<Ey>8.18563</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0224286</Ex>
-			<Ey>8.52785</Ey>
+			<Ex>0.0202379</Ex>
+			<Ey>8.05493</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0204128</Ex>
-			<Ey>8.18809</Ey>
+			<Ex>0.0203001</Ex>
+			<Ey>8.06515</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0207709</Ex>
-			<Ey>8.42726</Ey>
+			<Ex>0.0215498</Ex>
+			<Ey>8.09607</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0212908</Ex>
-			<Ey>8.32939</Ey>
+			<Ex>0.0193162</Ex>
+			<Ey>7.80156</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0230049</Ex>
-			<Ey>8.52419</Ey>
+			<Ex>0.0205178</Ex>
+			<Ey>8.68484</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0191005</Ex>
-			<Ey>7.59108</Ey>
+			<Ex>0.0210619</Ex>
+			<Ey>8.13901</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.03205</Ex>
-			<Ey>20.1982</Ey>
+			<Ex>0.0330464</Ex>
+			<Ey>21.7341</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0343536</Ex>
-			<Ey>21.8499</Ey>
+			<Ex>0.0305315</Ex>
+			<Ey>21.2904</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.031608</Ex>
-			<Ey>20.9761</Ey>
+			<Ex>0.0302554</Ex>
+			<Ey>20.637</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0315669</Ex>
-			<Ey>20.2689</Ey>
+			<Ex>0.0313241</Ex>
+			<Ey>20.9483</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0337192</Ex>
-			<Ey>20.9992</Ey>
+			<Ex>0.031512</Ex>
+			<Ey>21.8582</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0296028</Ex>
-			<Ey>19.7103</Ey>
+			<Ex>0.0318507</Ex>
+			<Ey>22.1098</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0316202</Ex>
-			<Ey>20.4864</Ey>
+			<Ex>0.0324656</Ex>
+			<Ey>21.1267</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.030056</Ex>
-			<Ey>20.2677</Ey>
+			<Ex>0.0325648</Ex>
+			<Ey>20.189</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0308448</Ex>
-			<Ey>21.504</Ey>
+			<Ex>0.0303746</Ex>
+			<Ey>21.056</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0325109</Ex>
-			<Ey>21.6957</Ey>
+			<Ex>0.0343164</Ex>
+			<Ey>21.4165</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.160983</Ex>
-			<Ey>748.338</Ey>
+			<Ex>0.161844</Ex>
+			<Ey>753.211</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.162823</Ex>
-			<Ey>753.061</Ey>
+			<Ex>0.155515</Ex>
+			<Ey>743.476</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.161266</Ex>
-			<Ey>738.822</Ey>
+			<Ex>0.157423</Ex>
+			<Ey>740.281</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.166893</Ex>
-			<Ey>749.195</Ey>
+			<Ex>0.161846</Ex>
+			<Ey>753.978</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.164684</Ex>
-			<Ey>740.783</Ey>
+			<Ex>0.160269</Ex>
+			<Ey>755.567</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.158449</Ex>
-			<Ey>740.448</Ey>
+			<Ex>0.166776</Ex>
+			<Ey>759.957</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.164305</Ex>
-			<Ey>746.648</Ey>
+			<Ex>0.15471</Ex>
+			<Ey>744.215</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.160977</Ex>
-			<Ey>762.905</Ey>
+			<Ex>0.164889</Ex>
+			<Ey>748.994</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.154577</Ex>
-			<Ey>740.883</Ey>
+			<Ex>0.163219</Ex>
+			<Ey>756.77</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.163991</Ex>
-			<Ey>736.115</Ey>
+			<Ex>0.157655</Ex>
+			<Ey>744.54</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.121011</Ex>
-			<Ey>502.993</Ey>
+			<Ex>0.12619</Ex>
+			<Ey>505.14</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.125932</Ex>
-			<Ey>505.456</Ey>
+			<Ex>0.127815</Ex>
+			<Ey>507.512</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1309</Ex>
-			<Ey>507.595</Ey>
+			<Ex>0.1252</Ex>
+			<Ey>520.891</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.133576</Ex>
-			<Ey>517.732</Ey>
+			<Ex>0.125308</Ex>
+			<Ey>518.922</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.13217</Ex>
-			<Ey>517.577</Ey>
+			<Ex>0.132454</Ex>
+			<Ey>524.431</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.127393</Ex>
-			<Ey>506.091</Ey>
+			<Ex>0.132389</Ex>
+			<Ey>515.062</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.12778</Ex>
-			<Ey>511.959</Ey>
+			<Ex>0.130937</Ex>
+			<Ey>511.927</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.130678</Ex>
-			<Ey>521.392</Ey>
+			<Ex>0.127067</Ex>
+			<Ey>505.329</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.126503</Ex>
-			<Ey>519.974</Ey>
+			<Ex>0.128884</Ex>
+			<Ey>507.08</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.124256</Ex>
-			<Ey>516.972</Ey>
+			<Ex>0.123813</Ex>
+			<Ey>505.506</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.137473</Ex>
-			<Ey>437.475</Ey>
+			<Ex>0.137918</Ex>
+			<Ey>464.742</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.136811</Ex>
-			<Ey>456.61</Ey>
+			<Ex>0.132456</Ex>
+			<Ey>453.27</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.137545</Ex>
-			<Ey>462.81</Ey>
+			<Ex>0.136068</Ex>
+			<Ey>449.228</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.136099</Ex>
-			<Ey>455.019</Ey>
+			<Ex>0.140789</Ex>
+			<Ey>468.336</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.135501</Ex>
-			<Ey>457.206</Ey>
+			<Ex>0.139792</Ex>
+			<Ey>468.805</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.134611</Ex>
-			<Ey>451.774</Ey>
+			<Ex>0.134791</Ex>
+			<Ey>447.223</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.138602</Ex>
-			<Ey>464.337</Ey>
+			<Ex>0.130984</Ex>
+			<Ey>465.621</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.136963</Ex>
-			<Ey>447.185</Ey>
+			<Ex>0.135989</Ex>
+			<Ey>451.158</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.141689</Ex>
-			<Ey>455.427</Ey>
+			<Ex>0.134549</Ex>
+			<Ey>466.537</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.132739</Ex>
-			<Ey>456.925</Ey>
+			<Ex>0.139275</Ex>
+			<Ey>468.185</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.106192</Ex>
-			<Ey>313.129</Ey>
+			<Ex>0.106976</Ex>
+			<Ey>318.729</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.11128</Ex>
-			<Ey>325.47</Ey>
+			<Ex>0.107855</Ex>
+			<Ey>312.355</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.110585</Ex>
-			<Ey>322.824</Ey>
+			<Ex>0.104572</Ex>
+			<Ey>316.019</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.11004</Ex>
-			<Ey>327.635</Ey>
+			<Ex>0.111794</Ex>
+			<Ey>316.606</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.107889</Ex>
-			<Ey>311.455</Ey>
+			<Ex>0.113256</Ex>
+			<Ey>319.146</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.108443</Ex>
-			<Ey>318.967</Ey>
+			<Ex>0.111316</Ex>
+			<Ey>307.647</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10323</Ex>
-			<Ey>311.903</Ey>
+			<Ex>0.109303</Ex>
+			<Ey>316.274</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.107794</Ex>
-			<Ey>313.402</Ey>
+			<Ex>0.110851</Ex>
+			<Ey>315.096</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.107401</Ex>
-			<Ey>319.426</Ey>
+			<Ex>0.111044</Ex>
+			<Ey>310.132</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.112202</Ex>
-			<Ey>317.051</Ey>
+			<Ex>0.104729</Ex>
+			<Ey>318.897</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0275628</Ex>
-			<Ey>20.7943</Ey>
+			<Ex>0.0269116</Ex>
+			<Ey>20.9471</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0250162</Ex>
-			<Ey>19.9364</Ey>
+			<Ex>0.02897</Ex>
+			<Ey>20.8573</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0279892</Ex>
-			<Ey>22.0239</Ey>
+			<Ex>0.0273864</Ex>
+			<Ey>20.2749</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.026703</Ex>
-			<Ey>20.9539</Ey>
+			<Ex>0.028634</Ex>
+			<Ey>22.5938</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0266911</Ex>
-			<Ey>21.9968</Ey>
+			<Ex>0.0288493</Ex>
+			<Ey>21.8163</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0266882</Ex>
-			<Ey>22.7532</Ey>
+			<Ex>0.0265999</Ex>
+			<Ey>20.9092</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0287397</Ex>
-			<Ey>21.7669</Ey>
+			<Ex>0.0272627</Ex>
+			<Ey>19.9044</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0275618</Ex>
-			<Ey>20.5735</Ey>
+			<Ex>0.0282587</Ex>
+			<Ey>20.2831</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0304885</Ex>
-			<Ey>23.1704</Ey>
+			<Ex>0.0253082</Ex>
+			<Ey>19.0679</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0259065</Ex>
-			<Ey>20.1195</Ey>
+			<Ex>0.0267587</Ex>
+			<Ey>19.584</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0487323</Ex>
-			<Ey>105.891</Ey>
+			<Ex>0.0483159</Ex>
+			<Ey>105.16</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0496171</Ex>
-			<Ey>121.448</Ey>
+			<Ex>0.0511777</Ex>
+			<Ey>110.672</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0481169</Ex>
-			<Ey>132.859</Ey>
+			<Ex>0.0492306</Ex>
+			<Ey>109.796</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.047339</Ex>
-			<Ey>109.602</Ey>
+			<Ex>0.0491616</Ex>
+			<Ey>117.258</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0519696</Ex>
-			<Ey>124.943</Ey>
+			<Ex>0.0499054</Ex>
+			<Ey>91.5874</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0503072</Ex>
-			<Ey>110.367</Ey>
+			<Ex>0.0493008</Ex>
+			<Ey>104.167</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0483484</Ex>
-			<Ey>98.3425</Ey>
+			<Ex>0.0496756</Ex>
+			<Ey>103.171</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.049709</Ex>
-			<Ey>113.841</Ey>
+			<Ex>0.0480307</Ex>
+			<Ey>120.9</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0462706</Ex>
-			<Ey>114.199</Ey>
+			<Ex>0.0503214</Ex>
+			<Ey>107.25</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0506005</Ex>
-			<Ey>101.371</Ey>
+			<Ex>0.046764</Ex>
+			<Ey>116.792</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0223069</Ex>
-			<Ey>13.1438</Ey>
+			<Ex>0.0219239</Ex>
+			<Ey>13.2428</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0215093</Ex>
-			<Ey>13.0057</Ey>
+			<Ex>0.021336</Ex>
+			<Ey>12.7821</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0202566</Ex>
-			<Ey>12.5033</Ey>
+			<Ex>0.0220569</Ex>
+			<Ey>13.1581</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0219977</Ex>
-			<Ey>11.9439</Ey>
+			<Ex>0.0208232</Ex>
+			<Ey>13.1357</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0214643</Ex>
-			<Ey>12.0754</Ey>
+			<Ex>0.0220528</Ex>
+			<Ey>13.0899</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0212974</Ex>
-			<Ey>12.664</Ey>
+			<Ex>0.021929</Ex>
+			<Ey>13.0408</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0201505</Ex>
-			<Ey>12.8151</Ey>
+			<Ex>0.023744</Ex>
+			<Ey>13.2162</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0232493</Ex>
-			<Ey>14.2809</Ey>
+			<Ex>0.0225167</Ex>
+			<Ey>13.2534</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0228139</Ex>
-			<Ey>12.6403</Ey>
+			<Ex>0.0234432</Ex>
+			<Ey>14.1107</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0214317</Ex>
-			<Ey>12.9459</Ey>
+			<Ex>0.0225112</Ex>
+			<Ey>12.8855</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.040894</Ex>
-			<Ey>84.6659</Ey>
+			<Ex>0.0408815</Ex>
+			<Ey>85.6483</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0408567</Ex>
-			<Ey>79.7254</Ey>
+			<Ex>0.0424444</Ex>
+			<Ey>78.873</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0431664</Ex>
-			<Ey>89.5243</Ey>
+			<Ex>0.0434818</Ex>
+			<Ey>77.7025</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0421887</Ex>
-			<Ey>86.944</Ey>
+			<Ex>0.044601</Ex>
+			<Ey>87.9069</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.04308</Ex>
-			<Ey>86.1709</Ey>
+			<Ex>0.0435897</Ex>
+			<Ey>81.3746</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0404065</Ex>
-			<Ey>69.6983</Ey>
+			<Ex>0.0416813</Ex>
+			<Ey>85.8816</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0405418</Ex>
-			<Ey>82.5643</Ey>
+			<Ex>0.0426568</Ex>
+			<Ey>102.081</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0434736</Ex>
-			<Ey>87.4992</Ey>
+			<Ex>0.0432469</Ex>
+			<Ey>90.1401</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0446186</Ex>
-			<Ey>82.3421</Ey>
+			<Ex>0.044797</Ex>
+			<Ey>87.8325</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0452041</Ex>
-			<Ey>78.9284</Ey>
+			<Ex>0.0440936</Ex>
+			<Ey>93.3972</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0428167</Ex>
-			<Ey>40.6576</Ey>
+			<Ex>0.037996</Ex>
+			<Ey>39.257</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0398428</Ex>
-			<Ey>38.3623</Ey>
+			<Ex>0.0384082</Ex>
+			<Ey>37.0967</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0392556</Ex>
-			<Ey>39.0683</Ey>
+			<Ex>0.0396469</Ex>
+			<Ey>38.7458</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0403161</Ex>
-			<Ey>38.7078</Ey>
+			<Ex>0.0412104</Ex>
+			<Ey>38.6234</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0393229</Ex>
-			<Ey>37.9266</Ey>
+			<Ex>0.0407567</Ex>
+			<Ey>40.0667</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0392497</Ex>
-			<Ey>38.9859</Ey>
+			<Ex>0.0412416</Ex>
+			<Ey>38.3931</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0397345</Ex>
-			<Ey>39.4452</Ey>
+			<Ex>0.0418547</Ex>
+			<Ey>39.3757</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03929</Ex>
-			<Ey>36.7151</Ey>
+			<Ex>0.0402487</Ex>
+			<Ey>37.4677</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.035999</Ex>
-			<Ey>38.6793</Ey>
+			<Ex>0.0386331</Ex>
+			<Ey>38.1514</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.038671</Ex>
-			<Ey>38.7733</Ey>
+			<Ex>0.0396238</Ex>
+			<Ey>36.1397</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.044647</Ex>
-			<Ey>56.6643</Ey>
+			<Ex>0.0428724</Ex>
+			<Ey>60.8517</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0455217</Ex>
-			<Ey>61.3889</Ey>
+			<Ex>0.047408</Ex>
+			<Ey>62.2841</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0441456</Ex>
-			<Ey>58.1948</Ey>
+			<Ex>0.0440074</Ex>
+			<Ey>57.3214</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0432494</Ex>
-			<Ey>61.6927</Ey>
+			<Ex>0.0456198</Ex>
+			<Ey>63.2554</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0435178</Ex>
-			<Ey>59.5263</Ey>
+			<Ex>0.0452995</Ex>
+			<Ey>59.5558</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0457708</Ex>
-			<Ey>56.4475</Ey>
+			<Ex>0.0440064</Ex>
+			<Ey>62.7671</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0476487</Ex>
-			<Ey>59.9845</Ey>
+			<Ex>0.0467047</Ex>
+			<Ey>61.7406</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0436988</Ex>
-			<Ey>59.2973</Ey>
+			<Ex>0.044067</Ex>
+			<Ey>60.5372</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0414283</Ex>
-			<Ey>59.084</Ey>
+			<Ex>0.0415902</Ex>
+			<Ey>54.3172</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0449959</Ex>
-			<Ey>60.0184</Ey>
+			<Ex>0.0419574</Ex>
+			<Ey>60.419</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0259337</Ex>
-			<Ey>19.0829</Ey>
+			<Ex>0.028167</Ex>
+			<Ey>19.0586</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0273745</Ex>
-			<Ey>19.2843</Ey>
+			<Ex>0.0266542</Ex>
+			<Ey>19.3875</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0264161</Ex>
-			<Ey>18.5629</Ey>
+			<Ex>0.0277248</Ex>
+			<Ey>19.8274</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0285579</Ex>
-			<Ey>20.4878</Ey>
+			<Ex>0.0266204</Ex>
+			<Ey>19.396</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0269607</Ex>
-			<Ey>19.6018</Ey>
+			<Ex>0.026997</Ex>
+			<Ey>19.3293</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0249739</Ex>
-			<Ey>19.1818</Ey>
+			<Ex>0.0291506</Ex>
+			<Ey>19.7904</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0261026</Ex>
-			<Ey>19.1772</Ey>
+			<Ex>0.0281291</Ex>
+			<Ey>19.442</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0247988</Ex>
-			<Ey>18.6397</Ey>
+			<Ex>0.0272208</Ex>
+			<Ey>19.1338</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0275334</Ex>
-			<Ey>18.7221</Ey>
+			<Ex>0.0264334</Ex>
+			<Ey>19.2002</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0258003</Ex>
-			<Ey>19.4476</Ey>
+			<Ex>0.0276475</Ex>
+			<Ey>19.3464</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.038104</Ex>
-			<Ey>40.9597</Ey>
+			<Ex>0.0346088</Ex>
+			<Ey>39.8908</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0340275</Ex>
-			<Ey>37.7295</Ey>
+			<Ex>0.0345495</Ex>
+			<Ey>40.3374</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0384338</Ex>
-			<Ey>42.058</Ey>
+			<Ex>0.0337924</Ex>
+			<Ey>36.384</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0329366</Ex>
-			<Ey>38.2848</Ey>
+			<Ex>0.0355534</Ex>
+			<Ey>38.2538</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0384907</Ex>
-			<Ey>39.9944</Ey>
+			<Ex>0.0381876</Ex>
+			<Ey>37.1931</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0388912</Ex>
-			<Ey>44.388</Ey>
+			<Ex>0.0349637</Ex>
+			<Ey>39.5452</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0353291</Ex>
-			<Ey>38.8836</Ey>
+			<Ex>0.0332091</Ex>
+			<Ey>36.7393</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0394284</Ex>
-			<Ey>41.2261</Ey>
+			<Ex>0.0386756</Ex>
+			<Ey>40.927</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0357681</Ex>
-			<Ey>37.3843</Ey>
+			<Ex>0.0353381</Ex>
+			<Ey>40.0332</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0356119</Ex>
-			<Ey>42.0618</Ey>
+			<Ex>0.0373026</Ex>
+			<Ey>38.2506</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.160374</Ex>
-			<Ey>904.543</Ey>
+			<Ex>0.158932</Ex>
+			<Ey>892.106</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.157143</Ex>
-			<Ey>903.123</Ey>
+			<Ex>0.151828</Ex>
+			<Ey>874.302</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.157181</Ex>
-			<Ey>908.731</Ey>
+			<Ex>0.15998</Ex>
+			<Ey>896.28</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.159408</Ex>
-			<Ey>953.581</Ey>
+			<Ex>0.151414</Ex>
+			<Ey>891.951</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.15594</Ex>
-			<Ey>899.554</Ey>
+			<Ex>0.165345</Ex>
+			<Ey>861.405</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.154854</Ex>
-			<Ey>907.883</Ey>
+			<Ex>0.157236</Ex>
+			<Ey>878.387</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.157916</Ex>
-			<Ey>880.54</Ey>
+			<Ex>0.158454</Ex>
+			<Ey>908.169</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.159823</Ex>
-			<Ey>890.763</Ey>
+			<Ex>0.156788</Ex>
+			<Ey>906.734</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.163263</Ex>
-			<Ey>880.939</Ey>
+			<Ex>0.158135</Ex>
+			<Ey>905.144</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.159773</Ex>
-			<Ey>911.045</Ey>
+			<Ex>0.155197</Ex>
+			<Ey>892.689</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.11936</Ex>
-			<Ey>445.602</Ey>
+			<Ex>0.114328</Ex>
+			<Ey>447.53</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.121085</Ex>
-			<Ey>436.774</Ey>
+			<Ex>0.116573</Ex>
+			<Ey>434.943</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.121376</Ex>
-			<Ey>436.312</Ey>
+			<Ex>0.121774</Ex>
+			<Ey>442.903</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.119151</Ex>
-			<Ey>424.486</Ey>
+			<Ex>0.122475</Ex>
+			<Ey>451.851</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.115669</Ex>
-			<Ey>457.298</Ey>
+			<Ex>0.125017</Ex>
+			<Ey>446.856</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.125896</Ex>
-			<Ey>445.073</Ey>
+			<Ex>0.122224</Ex>
+			<Ey>446.042</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.12542</Ex>
-			<Ey>445.814</Ey>
+			<Ex>0.123712</Ex>
+			<Ey>442.318</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.121777</Ex>
-			<Ey>461.696</Ey>
+			<Ex>0.117055</Ex>
+			<Ey>445.935</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.123336</Ex>
-			<Ey>451.838</Ey>
+			<Ex>0.122616</Ex>
+			<Ey>429.986</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.120716</Ex>
-			<Ey>452.845</Ey>
+			<Ex>0.121524</Ex>
+			<Ey>438.559</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.107301</Ex>
-			<Ey>381.56</Ey>
+			<Ex>0.103338</Ex>
+			<Ey>386.442</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.103508</Ex>
-			<Ey>391.356</Ey>
+			<Ex>0.105362</Ex>
+			<Ey>381.137</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.106141</Ex>
-			<Ey>381.208</Ey>
+			<Ex>0.0996269</Ex>
+			<Ey>370.171</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.099175</Ex>
-			<Ey>381.84</Ey>
+			<Ex>0.099543</Ex>
+			<Ey>368.961</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.104668</Ex>
-			<Ey>374.137</Ey>
+			<Ex>0.106612</Ex>
+			<Ey>381.692</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10575</Ex>
-			<Ey>367.807</Ey>
+			<Ex>0.103883</Ex>
+			<Ey>371.025</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.103524</Ex>
-			<Ey>386.878</Ey>
+			<Ex>0.100502</Ex>
+			<Ey>382.517</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.100818</Ex>
-			<Ey>390.973</Ey>
+			<Ex>0.101169</Ex>
+			<Ey>382.074</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10129</Ex>
-			<Ey>370.904</Ey>
+			<Ex>0.102293</Ex>
+			<Ey>374.771</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.105851</Ex>
-			<Ey>369.674</Ey>
+			<Ex>0.107097</Ex>
+			<Ey>383.887</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0779997</Ex>
-			<Ey>229.633</Ey>
+			<Ex>0.0807608</Ex>
+			<Ey>215.844</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0797729</Ex>
-			<Ey>221.149</Ey>
+			<Ex>0.080541</Ex>
+			<Ey>220.841</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0844269</Ex>
-			<Ey>222.79</Ey>
+			<Ex>0.0790754</Ex>
+			<Ey>235.912</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0815028</Ex>
-			<Ey>237.781</Ey>
+			<Ex>0.0831369</Ex>
+			<Ey>232.319</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0855862</Ex>
-			<Ey>222.607</Ey>
+			<Ex>0.0854626</Ex>
+			<Ey>239.59</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0811303</Ex>
-			<Ey>234.185</Ey>
+			<Ex>0.0891345</Ex>
+			<Ey>232.195</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0851261</Ex>
-			<Ey>233.506</Ey>
+			<Ex>0.0799046</Ex>
+			<Ey>220.885</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0810715</Ex>
-			<Ey>223.86</Ey>
+			<Ex>0.0783875</Ex>
+			<Ey>221.114</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0804291</Ex>
-			<Ey>226.889</Ey>
+			<Ex>0.0855117</Ex>
+			<Ey>233.738</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0857323</Ex>
-			<Ey>239.672</Ey>
+			<Ex>0.0854078</Ex>
+			<Ey>227.785</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0184974</Ex>
-			<Ey>8.55178</Ey>
+			<Ex>0.0204875</Ex>
+			<Ey>8.78996</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0211008</Ex>
-			<Ey>8.91639</Ey>
+			<Ex>0.0216303</Ex>
+			<Ey>9.02524</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0198397</Ex>
-			<Ey>8.76531</Ey>
+			<Ex>0.0203639</Ex>
+			<Ey>8.4653</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0207805</Ex>
-			<Ey>8.46561</Ey>
+			<Ex>0.0194877</Ex>
+			<Ey>8.25078</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0211162</Ex>
-			<Ey>9.17942</Ey>
+			<Ex>0.021032</Ex>
+			<Ey>8.83368</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0206047</Ex>
-			<Ey>8.38745</Ey>
+			<Ex>0.0207576</Ex>
+			<Ey>9.05683</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0208021</Ex>
-			<Ey>8.58943</Ey>
+			<Ex>0.0211704</Ex>
+			<Ey>8.93887</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0205112</Ex>
-			<Ey>8.80802</Ey>
+			<Ex>0.020086</Ex>
+			<Ey>9.18301</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0192816</Ex>
-			<Ey>8.52369</Ey>
+			<Ex>0.0205449</Ex>
+			<Ey>9.08367</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.021136</Ex>
-			<Ey>9.16257</Ey>
+			<Ex>0.0195577</Ex>
+			<Ey>8.30381</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0392454</Ex>
-			<Ey>48.4383</Ey>
+			<Ex>0.0407489</Ex>
+			<Ey>53.1748</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0431929</Ex>
-			<Ey>54.6274</Ey>
+			<Ex>0.0386641</Ex>
+			<Ey>54.4986</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.043455</Ex>
-			<Ey>47.4181</Ey>
+			<Ex>0.0418728</Ex>
+			<Ey>54.5267</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0428814</Ex>
-			<Ey>54.9611</Ey>
+			<Ex>0.0425136</Ex>
+			<Ey>49.8652</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0427107</Ex>
-			<Ey>54.7281</Ey>
+			<Ex>0.0416004</Ex>
+			<Ey>52.6202</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0392813</Ex>
-			<Ey>48.5509</Ey>
+			<Ex>0.0417848</Ex>
+			<Ey>51.0587</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0384909</Ex>
-			<Ey>49.1085</Ey>
+			<Ex>0.0414051</Ex>
+			<Ey>51.4268</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.04125</Ex>
-			<Ey>46.0997</Ey>
+			<Ex>0.0423993</Ex>
+			<Ey>51.303</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0407479</Ex>
-			<Ey>53.435</Ey>
+			<Ex>0.0431253</Ex>
+			<Ey>53.1043</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0403673</Ex>
-			<Ey>55.6754</Ey>
+			<Ex>0.0398129</Ex>
+			<Ey>44.9854</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.016301</Ex>
-			<Ey>5.72199</Ey>
+			<Ex>0.0167095</Ex>
+			<Ey>5.57701</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0159707</Ex>
-			<Ey>5.21221</Ey>
+			<Ex>0.015232</Ex>
+			<Ey>5.43484</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0171353</Ex>
-			<Ey>5.81869</Ey>
+			<Ex>0.0163891</Ex>
+			<Ey>5.6084</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0152201</Ex>
-			<Ey>5.93071</Ey>
+			<Ex>0.0167364</Ex>
+			<Ey>5.92549</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0164809</Ex>
-			<Ey>5.94665</Ey>
+			<Ex>0.0167684</Ex>
+			<Ey>5.73782</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0153001</Ex>
-			<Ey>5.55578</Ey>
+			<Ex>0.0173058</Ex>
+			<Ey>5.73294</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0170771</Ex>
-			<Ey>5.68062</Ey>
+			<Ex>0.017155</Ex>
+			<Ey>5.66076</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0161775</Ex>
-			<Ey>5.40536</Ey>
+			<Ex>0.0169878</Ex>
+			<Ey>5.65665</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0165388</Ex>
-			<Ey>6.02302</Ey>
+			<Ex>0.0169924</Ex>
+			<Ey>5.73182</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.015578</Ex>
-			<Ey>5.13287</Ey>
+			<Ex>0.0161649</Ex>
+			<Ey>5.66265</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0342764</Ex>
-			<Ey>40.5754</Ey>
+			<Ex>0.037346</Ex>
+			<Ey>44.9095</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0355368</Ex>
-			<Ey>44.0009</Ey>
+			<Ex>0.0410116</Ex>
+			<Ey>38.8506</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0386277</Ex>
-			<Ey>41.915</Ey>
+			<Ex>0.0366092</Ex>
+			<Ey>39.6303</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0343624</Ex>
-			<Ey>42.5739</Ey>
+			<Ex>0.0368535</Ex>
+			<Ey>47.0333</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0375153</Ex>
-			<Ey>44.5313</Ey>
+			<Ex>0.0353295</Ex>
+			<Ey>40.5747</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0385598</Ex>
-			<Ey>42.0849</Ey>
+			<Ex>0.0353352</Ex>
+			<Ey>42.2473</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0347433</Ex>
-			<Ey>43.0499</Ey>
+			<Ex>0.0397944</Ex>
+			<Ey>43.0466</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0344917</Ex>
-			<Ey>39.0454</Ey>
+			<Ex>0.035803</Ex>
+			<Ey>44.5428</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0389383</Ex>
-			<Ey>43.4324</Ey>
+			<Ex>0.0397689</Ex>
+			<Ey>46.156</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.034928</Ex>
-			<Ey>39.4159</Ey>
+			<Ex>0.0358952</Ex>
+			<Ey>38.791</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0350471</Ex>
-			<Ey>27.0268</Ey>
+			<Ex>0.0365814</Ex>
+			<Ey>26.79</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0370352</Ex>
-			<Ey>26.6604</Ey>
+			<Ex>0.0368749</Ex>
+			<Ey>26.6378</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0380933</Ex>
-			<Ey>27.9157</Ey>
+			<Ex>0.0344066</Ex>
+			<Ey>26.6095</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0391095</Ex>
-			<Ey>28.3612</Ey>
+			<Ex>0.0362281</Ex>
+			<Ey>27.3932</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0354921</Ex>
-			<Ey>26.0587</Ey>
+			<Ex>0.0368955</Ex>
+			<Ey>28.2662</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0350877</Ex>
-			<Ey>26.503</Ey>
+			<Ex>0.0387332</Ex>
+			<Ey>28.2163</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0351723</Ex>
-			<Ey>27.2745</Ey>
+			<Ex>0.0362888</Ex>
+			<Ey>25.5514</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0359891</Ex>
-			<Ey>27.78</Ey>
+			<Ex>0.0387229</Ex>
+			<Ey>27.4851</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.035615</Ex>
-			<Ey>28.5589</Ey>
+			<Ex>0.0395778</Ex>
+			<Ey>26.9813</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0368288</Ex>
-			<Ey>27.1773</Ey>
+			<Ex>0.0359939</Ex>
+			<Ey>27.9476</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0375166</Ex>
-			<Ey>32.1949</Ey>
+			<Ex>0.0367101</Ex>
+			<Ey>33.7672</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0363234</Ex>
-			<Ey>33.6612</Ey>
+			<Ex>0.0406609</Ex>
+			<Ey>37.6483</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0412562</Ex>
-			<Ey>36.6239</Ey>
+			<Ex>0.0369426</Ex>
+			<Ey>35.722</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0390975</Ex>
-			<Ey>36.6477</Ey>
+			<Ex>0.0397904</Ex>
+			<Ey>38.5617</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0401379</Ex>
-			<Ey>34.9555</Ey>
+			<Ex>0.040852</Ex>
+			<Ey>37.8344</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0372298</Ex>
-			<Ey>33.9444</Ey>
+			<Ex>0.0395352</Ex>
+			<Ey>34.3723</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0393121</Ex>
-			<Ey>37.3052</Ey>
+			<Ex>0.0360245</Ex>
+			<Ey>33.2848</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0405758</Ex>
-			<Ey>35.6865</Ey>
+			<Ex>0.0369661</Ex>
+			<Ey>37.187</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0406043</Ex>
-			<Ey>34.7799</Ey>
+			<Ex>0.0384378</Ex>
+			<Ey>34.7063</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0415745</Ex>
-			<Ey>35.4757</Ey>
+			<Ex>0.0383099</Ex>
+			<Ey>37.3426</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0257197</Ex>
-			<Ey>13.4547</Ey>
+			<Ex>0.0264915</Ex>
+			<Ey>13.7483</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0258847</Ex>
-			<Ey>12.8806</Ey>
+			<Ex>0.0260395</Ex>
+			<Ey>13.1783</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0259277</Ex>
-			<Ey>13.5771</Ey>
+			<Ex>0.026197</Ex>
+			<Ey>13.708</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0248253</Ex>
-			<Ey>12.876</Ey>
+			<Ex>0.0271692</Ex>
+			<Ey>13.3761</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0251853</Ex>
-			<Ey>13.2002</Ey>
+			<Ex>0.0244043</Ex>
+			<Ey>12.7883</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0264852</Ex>
-			<Ey>13.509</Ey>
+			<Ex>0.0266485</Ex>
+			<Ey>13.7384</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0242391</Ex>
-			<Ey>12.3768</Ey>
+			<Ex>0.0271963</Ex>
+			<Ey>13.7483</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0297214</Ex>
-			<Ey>14.788</Ey>
+			<Ex>0.0256067</Ex>
+			<Ey>12.8909</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0259643</Ex>
-			<Ey>13.6431</Ey>
+			<Ex>0.0259192</Ex>
+			<Ey>12.7311</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0272017</Ex>
-			<Ey>13.6315</Ey>
+			<Ex>0.0256488</Ex>
+			<Ey>13.9194</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0341839</Ex>
-			<Ey>26.0722</Ey>
+			<Ex>0.0338206</Ex>
+			<Ey>24.4709</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0320763</Ex>
-			<Ey>25.0573</Ey>
+			<Ex>0.0311381</Ex>
+			<Ey>23.9743</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0340347</Ex>
-			<Ey>22.7585</Ey>
+			<Ex>0.0333017</Ex>
+			<Ey>23.1285</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0339919</Ex>
-			<Ey>23.2504</Ey>
+			<Ex>0.0334521</Ex>
+			<Ey>24.0523</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0324493</Ex>
-			<Ey>24.2147</Ey>
+			<Ex>0.0356286</Ex>
+			<Ey>23.5998</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0333526</Ex>
-			<Ey>25.3142</Ey>
+			<Ex>0.0363476</Ex>
+			<Ey>25.9653</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0317891</Ex>
-			<Ey>25.212</Ey>
+			<Ex>0.0330521</Ex>
+			<Ey>24.441</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0335115</Ex>
-			<Ey>22.8199</Ey>
+			<Ex>0.0319247</Ex>
+			<Ey>24.5851</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0323744</Ex>
-			<Ey>24.3856</Ey>
+			<Ex>0.0332415</Ex>
+			<Ey>22.2053</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0313796</Ex>
-			<Ey>22.5215</Ey>
+			<Ex>0.0326277</Ex>
+			<Ey>23.6878</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.156387</Ex>
-			<Ey>839.75</Ey>
+			<Ex>0.161669</Ex>
+			<Ey>860.011</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.15953</Ex>
-			<Ey>868.044</Ey>
+			<Ex>0.158184</Ex>
+			<Ey>830.817</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.149414</Ex>
-			<Ey>850.725</Ey>
+			<Ex>0.16261</Ex>
+			<Ey>859.908</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.160774</Ex>
-			<Ey>872.415</Ey>
+			<Ex>0.159455</Ex>
+			<Ey>847.806</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.16181</Ex>
-			<Ey>834.205</Ey>
+			<Ex>0.158483</Ex>
+			<Ey>857.125</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.159101</Ex>
-			<Ey>827.388</Ey>
+			<Ex>0.157778</Ex>
+			<Ey>876.962</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.167222</Ex>
-			<Ey>851.81</Ey>
+			<Ex>0.155837</Ex>
+			<Ey>832.287</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.164573</Ex>
-			<Ey>847.2</Ey>
+			<Ex>0.159116</Ex>
+			<Ey>849.834</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.164671</Ex>
-			<Ey>843.532</Ey>
+			<Ex>0.160649</Ex>
+			<Ey>839.035</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.158457</Ex>
-			<Ey>848.543</Ey>
+			<Ex>0.161185</Ex>
+			<Ey>844.206</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.123906</Ex>
-			<Ey>408.947</Ey>
+			<Ex>0.123401</Ex>
+			<Ey>400.265</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.126869</Ex>
-			<Ey>410.5</Ey>
+			<Ex>0.121602</Ex>
+			<Ey>393.591</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.127181</Ex>
-			<Ey>410.578</Ey>
+			<Ex>0.117373</Ex>
+			<Ey>398.174</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.122901</Ex>
-			<Ey>407.298</Ey>
+			<Ex>0.118367</Ex>
+			<Ey>397.445</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.115401</Ex>
-			<Ey>396.958</Ey>
+			<Ex>0.123839</Ex>
+			<Ey>403.07</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.121425</Ex>
-			<Ey>409.119</Ey>
+			<Ex>0.120165</Ex>
+			<Ey>421.233</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.120013</Ex>
-			<Ey>391.677</Ey>
+			<Ex>0.120243</Ex>
+			<Ey>403.778</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.123164</Ex>
-			<Ey>418.104</Ey>
+			<Ex>0.120331</Ex>
+			<Ey>405.264</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.12018</Ex>
-			<Ey>405.521</Ey>
+			<Ex>0.121973</Ex>
+			<Ey>402.331</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.12585</Ex>
-			<Ey>401.172</Ey>
+			<Ex>0.1161</Ex>
+			<Ey>399.577</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.122288</Ex>
-			<Ey>363.582</Ey>
+			<Ex>0.112749</Ex>
+			<Ey>364.526</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.116686</Ex>
-			<Ey>365.128</Ey>
+			<Ex>0.119915</Ex>
+			<Ey>353.316</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.122288</Ex>
-			<Ey>372.848</Ey>
+			<Ex>0.118567</Ex>
+			<Ey>374.385</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.115116</Ex>
-			<Ey>360.19</Ey>
+			<Ex>0.109835</Ex>
+			<Ey>349.559</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.118047</Ex>
-			<Ey>371.537</Ey>
+			<Ex>0.113567</Ex>
+			<Ey>357.236</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.11294</Ex>
-			<Ey>358.633</Ey>
+			<Ex>0.114859</Ex>
+			<Ey>352.173</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.118179</Ex>
-			<Ey>377.401</Ey>
+			<Ex>0.109521</Ex>
+			<Ey>353.607</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.116816</Ex>
-			<Ey>361.923</Ey>
+			<Ex>0.109859</Ex>
+			<Ey>358.395</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.117663</Ex>
-			<Ey>381.052</Ey>
+			<Ex>0.119009</Ex>
+			<Ey>347.866</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.114966</Ex>
-			<Ey>353.296</Ey>
+			<Ex>0.113503</Ex>
+			<Ey>359.553</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0926322</Ex>
-			<Ey>208.443</Ey>
+			<Ex>0.0891795</Ex>
+			<Ey>204.68</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0859316</Ex>
-			<Ey>202.408</Ey>
+			<Ex>0.0940813</Ex>
+			<Ey>211.08</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0957211</Ex>
-			<Ey>209.395</Ey>
+			<Ex>0.0897908</Ex>
+			<Ey>211.141</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0957594</Ex>
-			<Ey>205.938</Ey>
+			<Ex>0.0883062</Ex>
+			<Ey>201.369</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0895291</Ex>
-			<Ey>204.547</Ey>
+			<Ex>0.087061</Ex>
+			<Ey>200.262</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0933359</Ex>
-			<Ey>204.182</Ey>
+			<Ex>0.0931283</Ex>
+			<Ey>207.05</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0928029</Ex>
-			<Ey>204.529</Ey>
+			<Ex>0.0902541</Ex>
+			<Ey>213.5</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0927784</Ex>
-			<Ey>203.096</Ey>
+			<Ex>0.0904676</Ex>
+			<Ey>202.767</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.09116</Ex>
-			<Ey>205.497</Ey>
+			<Ex>0.0970224</Ex>
+			<Ey>211.105</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.092458</Ex>
-			<Ey>205.988</Ey>
+			<Ex>0.0892187</Ex>
+			<Ey>198.621</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.00669467</Ex>
-			<Ey>1.09983</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00699654</Ex>
-			<Ey>1.02111</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0072761</Ex>
-			<Ey>1.24946</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00695122</Ex>
-			<Ey>1.11871</Ey>
+			<Ex>0.00656538</Ex>
+			<Ey>1.01429</Ey>
 			<R>0.02</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00702308</Ex>
-			<Ey>1.18422</Ey>
+			<Ex>0.00800676</Ex>
+			<Ey>1.14191</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00709308</Ex>
+			<Ey>1.22725</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00774712</Ex>
-			<Ey>1.13521</Ey>
+			<Ex>0.00660534</Ex>
+			<Ey>1.19612</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00700415</Ex>
+			<Ey>1.0497</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00755807</Ex>
-			<Ey>1.08754</Ey>
+			<Ex>0.00775652</Ex>
+			<Ey>1.1978</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00791307</Ex>
+			<Ey>1.1306</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00664866</Ex>
-			<Ey>1.1476</Ey>
+			<Ex>0.00738711</Ex>
+			<Ey>1.21794</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00750095</Ex>
+			<Ey>1.2303</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00794364</Ex>
-			<Ey>1.14953</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00749261</Ex>
-			<Ey>1.2119</Ey>
+			<Ex>0.00675843</Ex>
+			<Ey>1.08153</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0251306</Ex>
-			<Ey>21.1597</Ey>
+			<Ex>0.0286401</Ex>
+			<Ey>23.3738</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0311749</Ex>
-			<Ey>26.2364</Ey>
+			<Ex>0.028958</Ex>
+			<Ey>25.8016</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0306667</Ex>
-			<Ey>24.6328</Ey>
+			<Ex>0.0277294</Ex>
+			<Ey>21.8291</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.028689</Ex>
-			<Ey>24.8447</Ey>
+			<Ex>0.0283948</Ex>
+			<Ey>21.1818</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0322118</Ex>
-			<Ey>26.4568</Ey>
+			<Ex>0.0274822</Ex>
+			<Ey>23.9035</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.028041</Ex>
-			<Ey>20.1195</Ey>
+			<Ex>0.0276352</Ex>
+			<Ey>27.1349</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0285933</Ex>
-			<Ey>24.5448</Ey>
+			<Ex>0.0284094</Ex>
+			<Ey>22.2374</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0272492</Ex>
-			<Ey>21.454</Ey>
+			<Ex>0.0286027</Ex>
+			<Ey>23.5192</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0271577</Ex>
-			<Ey>23.1132</Ey>
+			<Ex>0.0283793</Ex>
+			<Ey>24.4989</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0268357</Ex>
-			<Ey>21.0181</Ey>
+			<Ex>0.0286824</Ex>
+			<Ey>23.5712</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.00479323</Ex>
-			<Ey>0.543231</Ey>
+			<Ex>0.00499437</Ex>
+			<Ey>0.559412</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00513995</Ex>
+			<Ey>0.660434</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00515521</Ex>
-			<Ey>0.638954</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00538467</Ex>
-			<Ey>0.705522</Ey>
+			<Ex>0.00489605</Ex>
+			<Ey>0.592563</Ey>
 			<R>0.02</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0053514</Ex>
-			<Ey>0.540541</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0051763</Ex>
-			<Ey>0.655224</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00555081</Ex>
-			<Ey>0.593476</Ey>
+			<Ex>0.00524425</Ex>
+			<Ey>0.592519</Ey>
 			<R>0.02</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00496596</Ex>
-			<Ey>0.602736</Ey>
+			<Ex>0.00496174</Ex>
+			<Ey>0.663133</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00448318</Ex>
+			<Ey>0.518373</Ey>
 			<R>0.03</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00538494</Ex>
-			<Ey>0.640908</Ey>
+			<Ex>0.00495206</Ex>
+			<Ey>0.561354</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00555244</Ex>
+			<Ey>0.588084</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0054146</Ex>
+			<Ey>0.65753</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.00479535</Ex>
-			<Ey>0.636086</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.00502693</Ex>
-			<Ey>0.624846</Ey>
-			<R>0.03</R>
+			<Ex>0.0046892</Ex>
+			<Ey>0.609599</Ey>
+			<R>0.05</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0228392</Ex>
-			<Ey>19.183</Ey>
+			<Ex>0.0243389</Ex>
+			<Ey>16.6241</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0237271</Ex>
-			<Ey>15.0026</Ey>
+			<Ex>0.0237388</Ex>
+			<Ey>17.6086</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0247728</Ex>
-			<Ey>17.0044</Ey>
+			<Ex>0.0226063</Ex>
+			<Ey>15.7621</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0235908</Ex>
-			<Ey>17.2355</Ey>
+			<Ex>0.0247221</Ex>
+			<Ey>15.4545</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0226706</Ex>
-			<Ey>14.8207</Ey>
+			<Ex>0.0243342</Ex>
+			<Ey>14.5203</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0215037</Ex>
-			<Ey>15.2299</Ey>
+			<Ex>0.0232999</Ex>
+			<Ey>16.1247</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0233002</Ex>
-			<Ey>15.3443</Ey>
+			<Ex>0.024958</Ex>
+			<Ey>15.1974</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0222895</Ex>
-			<Ey>13.4244</Ey>
+			<Ex>0.0228358</Ex>
+			<Ey>14.592</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0224493</Ex>
-			<Ey>16.9868</Ey>
+			<Ex>0.0229924</Ex>
+			<Ey>15.4554</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0249647</Ex>
-			<Ey>14.4609</Ey>
+			<Ex>0.0240354</Ex>
+			<Ey>15.2548</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0290667</Ex>
-			<Ey>15.3649</Ey>
+			<Ex>0.0295426</Ex>
+			<Ey>15.1415</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0307076</Ex>
-			<Ey>15.0132</Ey>
+			<Ex>0.0283692</Ex>
+			<Ey>15.1077</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0283177</Ex>
-			<Ey>14.2536</Ey>
+			<Ex>0.02742</Ex>
+			<Ey>15.8791</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0290955</Ex>
-			<Ey>15.3274</Ey>
+			<Ex>0.0288028</Ex>
+			<Ey>14.0029</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0300322</Ex>
-			<Ey>15.5495</Ey>
+			<Ex>0.0287756</Ex>
+			<Ey>14.574</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0276852</Ex>
-			<Ey>14.9687</Ey>
+			<Ex>0.0289279</Ex>
+			<Ey>14.5153</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0305369</Ex>
-			<Ey>14.6076</Ey>
+			<Ex>0.0305732</Ex>
+			<Ey>15.9253</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0312476</Ex>
-			<Ey>15.4963</Ey>
+			<Ex>0.029393</Ex>
+			<Ey>14.8583</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0283317</Ex>
-			<Ey>15.1687</Ey>
+			<Ex>0.029683</Ex>
+			<Ey>15.6191</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0289243</Ex>
-			<Ey>14.4401</Ey>
+			<Ex>0.0314811</Ex>
+			<Ey>16.2275</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0392452</Ex>
-			<Ey>34.5158</Ey>
+			<Ex>0.0393604</Ex>
+			<Ey>34.754</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0402487</Ex>
-			<Ey>35.7058</Ey>
+			<Ex>0.0392496</Ex>
+			<Ey>34.2049</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0396132</Ex>
-			<Ey>34.2019</Ey>
+			<Ex>0.0384177</Ex>
+			<Ey>32.7436</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0392743</Ex>
-			<Ey>33.4365</Ey>
+			<Ex>0.0374916</Ex>
+			<Ey>33.8223</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0388797</Ex>
-			<Ey>32.6609</Ey>
+			<Ex>0.0400025</Ex>
+			<Ey>34.7928</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0385769</Ex>
-			<Ey>34.7107</Ey>
+			<Ex>0.0391344</Ex>
+			<Ey>33.2934</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0402559</Ex>
-			<Ey>34.5553</Ey>
+			<Ex>0.0396435</Ex>
+			<Ey>37.1052</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0400051</Ex>
-			<Ey>35.9156</Ey>
+			<Ex>0.0377486</Ex>
+			<Ey>36.373</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0411819</Ex>
-			<Ey>35.0242</Ey>
+			<Ex>0.0421016</Ex>
+			<Ey>36.4023</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0408784</Ex>
-			<Ey>34.5087</Ey>
+			<Ex>0.0386151</Ex>
+			<Ey>35.8731</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.0202707</Ex>
-			<Ey>7.44879</Ey>
+			<Ex>0.0190324</Ex>
+			<Ey>7.22549</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.021089</Ex>
-			<Ey>8.08304</Ey>
+			<Ex>0.0200528</Ex>
+			<Ey>7.49106</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.019412</Ex>
-			<Ey>7.8875</Ey>
+			<Ex>0.0211861</Ex>
+			<Ey>7.5479</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0193704</Ex>
-			<Ey>7.51221</Ey>
+			<Ex>0.0194336</Ex>
+			<Ey>7.21803</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0219931</Ex>
-			<Ey>7.95334</Ey>
+			<Ex>0.0201665</Ex>
+			<Ey>7.53304</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0208724</Ex>
-			<Ey>8.32174</Ey>
+			<Ex>0.0198344</Ex>
+			<Ey>7.64525</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0216921</Ex>
-			<Ey>7.70511</Ey>
+			<Ex>0.0215672</Ex>
+			<Ey>7.33239</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0195836</Ex>
-			<Ey>7.10277</Ey>
+			<Ex>0.0210739</Ex>
+			<Ey>8.45521</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0184262</Ex>
-			<Ey>7.79069</Ey>
+			<Ex>0.0223079</Ex>
+			<Ey>7.57075</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0200982</Ex>
-			<Ey>7.58743</Ey>
+			<Ex>0.0205916</Ex>
+			<Ey>7.69369</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.0345909</Ex>
-			<Ey>21.203</Ey>
+			<Ex>0.0319051</Ex>
+			<Ey>19.592</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0307593</Ex>
-			<Ey>19.3148</Ey>
+			<Ex>0.0311009</Ex>
+			<Ey>19.5579</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0290756</Ex>
-			<Ey>19.6309</Ey>
+			<Ex>0.0283364</Ex>
+			<Ey>19.5489</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0299585</Ex>
-			<Ey>18.9213</Ey>
+			<Ex>0.030287</Ex>
+			<Ey>19.3157</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0307672</Ex>
-			<Ey>20.6053</Ey>
+			<Ex>0.029031</Ex>
+			<Ey>19.5518</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.032271</Ex>
-			<Ey>20.5651</Ey>
+			<Ex>0.0323493</Ex>
+			<Ey>20.2525</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0319093</Ex>
-			<Ey>19.8674</Ey>
+			<Ex>0.0314504</Ex>
+			<Ey>21.0508</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0319004</Ex>
-			<Ey>20.6056</Ey>
+			<Ex>0.0306385</Ex>
+			<Ey>20.1161</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0295865</Ex>
-			<Ey>19.8299</Ey>
+			<Ex>0.0302367</Ex>
+			<Ey>20.1006</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0308079</Ex>
-			<Ey>19.9887</Ey>
+			<Ex>0.0326231</Ex>
+			<Ey>21.12</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.166904</Ex>
-			<Ey>718.539</Ey>
+			<Ex>0.167595</Ex>
+			<Ey>727.653</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.161251</Ex>
-			<Ey>701.645</Ey>
+			<Ex>0.161852</Ex>
+			<Ey>739.099</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.155541</Ex>
-			<Ey>731.56</Ey>
+			<Ex>0.153128</Ex>
+			<Ey>725.618</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.161759</Ex>
-			<Ey>726.844</Ey>
+			<Ex>0.158378</Ex>
+			<Ey>740.996</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.164362</Ex>
-			<Ey>732.405</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.160384</Ex>
-			<Ey>733.184</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.163716</Ex>
-			<Ey>720.338</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.16312</Ex>
-			<Ey>718.616</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.164199</Ex>
-			<Ey>728.319</Ey>
+			<Ex>0.164053</Ex>
+			<Ey>740.838</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
 			<Ex>0.164438</Ex>
-			<Ey>705.834</Ey>
+			<Ey>753.747</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.161867</Ex>
+			<Ey>734.515</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15813</Ex>
+			<Ey>717.83</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.166013</Ex>
+			<Ey>744.846</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.159028</Ex>
+			<Ey>724.432</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.131431</Ex>
-			<Ey>489.941</Ey>
+			<Ex>0.128883</Ex>
+			<Ey>494.925</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.130778</Ex>
-			<Ey>498.458</Ey>
+			<Ex>0.126407</Ex>
+			<Ey>490.453</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.130438</Ex>
-			<Ey>482.224</Ey>
+			<Ex>0.132977</Ex>
+			<Ey>499.629</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.129847</Ex>
-			<Ey>492.497</Ey>
+			<Ex>0.12567</Ex>
+			<Ey>485.387</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.128289</Ex>
-			<Ey>479.954</Ey>
+			<Ex>0.12709</Ex>
+			<Ey>492.002</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.130578</Ex>
-			<Ey>500.057</Ey>
+			<Ex>0.13162</Ex>
+			<Ey>502.961</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.129961</Ex>
-			<Ey>495.728</Ey>
+			<Ex>0.127016</Ex>
+			<Ey>489.15</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.131877</Ex>
-			<Ey>489.996</Ey>
+			<Ex>0.127492</Ex>
+			<Ey>490.868</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.129145</Ex>
-			<Ey>490.749</Ey>
+			<Ex>0.125005</Ex>
+			<Ey>496.721</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.123549</Ex>
-			<Ey>487.539</Ey>
+			<Ex>0.121349</Ex>
+			<Ey>484.725</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартное представление целого числа – номер узла в сетке дискретизации" >
 		<measuring>
-			<Ex>0.136277</Ex>
-			<Ey>450.056</Ey>
+			<Ex>0.134108</Ex>
+			<Ey>447.683</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.135358</Ex>
-			<Ey>438.689</Ey>
+			<Ex>0.135914</Ex>
+			<Ey>441.694</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.129761</Ex>
-			<Ey>439.86</Ey>
+			<Ex>0.136149</Ex>
+			<Ey>433.926</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.135648</Ex>
-			<Ey>431.025</Ey>
+			<Ex>0.138117</Ex>
+			<Ey>443.173</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.133334</Ex>
-			<Ey>452.518</Ey>
+			<Ex>0.139208</Ex>
+			<Ey>433.422</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.140433</Ex>
-			<Ey>450.346</Ey>
+			<Ex>0.134538</Ex>
+			<Ey>442.914</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.135404</Ex>
-			<Ey>460.605</Ey>
+			<Ex>0.140421</Ex>
+			<Ey>451.322</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.139562</Ex>
-			<Ey>430.404</Ey>
+			<Ex>0.131482</Ex>
+			<Ey>441.229</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.136258</Ex>
-			<Ey>435.734</Ey>
+			<Ex>0.138683</Ex>
+			<Ey>446.498</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.139423</Ex>
-			<Ey>425.935</Ey>
+			<Ex>0.127487</Ex>
+			<Ey>419.279</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" parameters_of_algorithm_5="Тип преобразования задачи вещественной оптимизации в задачу бинарной оптимизации = Стандартный рефлексивный Грей-код" >
 		<measuring>
-			<Ex>0.107804</Ex>
-			<Ey>324.238</Ey>
+			<Ex>0.102204</Ex>
+			<Ey>302.971</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.109799</Ex>
-			<Ey>305.373</Ey>
+			<Ex>0.105253</Ex>
+			<Ey>301.221</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.103743</Ex>
-			<Ey>320.593</Ey>
+			<Ex>0.114</Ex>
+			<Ey>308.797</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.108424</Ex>
-			<Ey>306.195</Ey>
+			<Ex>0.107562</Ex>
+			<Ey>301.709</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.109347</Ex>
-			<Ey>299.776</Ey>
+			<Ex>0.104937</Ex>
+			<Ey>309.863</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.104701</Ex>
-			<Ey>308.722</Ey>
+			<Ex>0.108368</Ex>
+			<Ey>315.533</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10776</Ex>
-			<Ey>309.195</Ey>
+			<Ex>0.109915</Ex>
+			<Ey>308.506</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.104126</Ex>
-			<Ey>307.112</Ey>
+			<Ex>0.107565</Ex>
+			<Ey>313.229</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.109966</Ex>
-			<Ey>302.347</Ey>
+			<Ex>0.103813</Ex>
+			<Ey>308.664</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.102319</Ex>
-			<Ey>300.171</Ey>
+			<Ex>0.108744</Ex>
+			<Ey>309.46</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
