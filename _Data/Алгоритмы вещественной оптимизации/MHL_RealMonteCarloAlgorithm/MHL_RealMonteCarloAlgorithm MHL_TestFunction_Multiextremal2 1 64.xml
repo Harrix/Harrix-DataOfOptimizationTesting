@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<harrix_file_format>
+	<format>Harrix Optimization Testing</format>
+	<version>1.0</version>
+	<link>https://github.com/Harrix/HarrixFileFormats</link>
+</harrix_file_format>
+<about>
+	<author>Сергиенко Антон Борисович</author>
+	<date>24.12.2013 12:41:46</date>
+	<email>sergienkoanton@mail.ru</email>
+</about>
+<about_data>
+	<!-- Обозначение алгоритма (по названию функции, которая его реализует) -->
+	<name_algorithm>MHL_RealMonteCarloAlgorithm</name_algorithm>
+	<!-- Полное название алгоритма -->
+	<full_name_algorithm>Метод Монте-Карло для решения задач на вещественных строках</full_name_algorithm>
+	<!-- Ссылка на описание алгоритма оптимизации (если нет, то NULL) -->
+	<link_algorithm>https://github.com/Harrix/HarrixOptimizationAlgorithms</link_algorithm>
+	<!-- Название тестовой функции (по названию функции, которая его реализует) -->
+	<name_test_function>MHL_TestFunction_Multiextremal2</name_test_function>
+	<!-- Полное название тестовой функции -->
+	<full_name_test_function>Функция Multiextremal2</full_name_test_function>
+	<!-- Ссылка на описание тестовой функции (если нет, то NULL) -->
+	<link_test_function>https://github.com/Harrix/HarrixTestFunctions</link_test_function>
+	<!-- Размерность задачи оптимизации -->
+	<dimension_test_function>1</dimension_test_function>
+	<!-- Количество измерений для каждого варианта настроек алгоритма (сколько точек получим) -->
+	<number_of_measuring>10</number_of_measuring>
+	<!-- Количество запусков алгоритма в каждом из измерений -->
+	<number_of_runs>100</number_of_runs>
+	<!-- Максимальное допустимое число вычислений целевой функции -->
+	<max_count_of_fitness>64</max_count_of_fitness>
+	<!-- Количество проверяемых параметров алгоритма оптимизации -->
+	<number_of_parameters>0</number_of_parameters>
+	<!-- Количество комбинаций вариантов настроек -->
+	<number_of_experiments>1</number_of_experiments>
+	<!-- Все ли комбинации вариантов настроек просмотрены -->
+	<all_combinations>1</all_combinations>
+</about_data>
+<data>
+	<experiment>
+		<measuring>
+			<Ex>0.811715</Ex>
+			<Ey>0.183756</Ey>
+			<R>0.22</R>
+		</measuring>
+		<measuring>
+			<Ex>0.882584</Ex>
+			<Ey>0.181251</Ey>
+			<R>0.15</R>
+		</measuring>
+		<measuring>
+			<Ex>0.775366</Ex>
+			<Ey>0.163889</Ey>
+			<R>0.31</R>
+		</measuring>
+		<measuring>
+			<Ex>0.829496</Ex>
+			<Ey>0.164925</Ey>
+			<R>0.28</R>
+		</measuring>
+		<measuring>
+			<Ex>0.729104</Ex>
+			<Ey>0.151652</Ey>
+			<R>0.37</R>
+		</measuring>
+		<measuring>
+			<Ex>0.597946</Ex>
+			<Ey>0.151765</Ey>
+			<R>0.34</R>
+		</measuring>
+		<measuring>
+			<Ex>0.652685</Ex>
+			<Ey>0.148276</Ey>
+			<R>0.33</R>
+		</measuring>
+		<measuring>
+			<Ex>0.750761</Ex>
+			<Ey>0.163898</Ey>
+			<R>0.26</R>
+		</measuring>
+		<measuring>
+			<Ex>1.01129</Ex>
+			<Ey>0.192016</Ey>
+			<R>0.19</R>
+		</measuring>
+		<measuring>
+			<Ex>0.856848</Ex>
+			<Ey>0.167417</Ey>
+			<R>0.28</R>
+		</measuring>
+	</experiment>
+</data>
+</document>

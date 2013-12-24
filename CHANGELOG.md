@@ -1,6 +1,13 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.29
+----
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Himmelblau со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Multiextremal со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Multiextremal2 со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Sombrero со всеми размерностями.
+
 1.28
 ----
  * Обновлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_RotatedHyperEllipsoid и MHL_TestFunction_HyperEllipsoid со всеми размерностями (почему? потому что просто провел по ошибке повторно те же исследования).
