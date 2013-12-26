@@ -1,6 +1,19 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.31
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_Himmelblau со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Himmelblau со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_Himmelblau со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_Himmelblau со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Himmelblau со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_Katnikov со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Katnikov со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_Katnikov со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_Katnikov со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Katnikov со всеми размерностями.
+
 1.30
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_HyperEllipsoid со всеми размерностями.
