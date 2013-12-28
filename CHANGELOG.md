@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.35
+----
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции  MHL_TestFunction_Himmelblau, MHL_TestFunction_Katnikov, MHL_TestFunction_Multiextremal, MHL_TestFunction_Multiextremal2, MHL_TestFunction_Multiextremal3, MHL_TestFunction_Multiextremal4, MHL_TestFunction_Sombrero, MHL_TestFunction_Wave со всеми размерностями.
+
 1.34
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции  MHL_TestFunction_Multiextremal2 со всеми размерностями.
