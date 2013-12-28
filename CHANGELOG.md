@@ -1,6 +1,15 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.34
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции  MHL_TestFunction_Multiextremal2 со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_Multiextremal2 со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции  MHL_TestFunction_Multiextremal со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции  MHL_TestFunction_Multiextremal2 со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции  MHL_TestFunction_Multiextremal3 со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_Multiextremal2 со всеми размерностями.
+
 1.33
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции  MHL_TestFunction_Multiextremal4 со всеми размерностями.
