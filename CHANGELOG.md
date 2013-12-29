@@ -1,9 +1,18 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.40
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функциях MHL_TestFunction_Rana, MHL_TestFunction_ShekelsFoxholes со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функциях MHL_TestFunction_Rana, MHL_TestFunction_ShekelsFoxholes со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функциях MHL_TestFunction_Rana, MHL_TestFunction_ShekelsFoxholes со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функциях MHL_TestFunction_Rana, MHL_TestFunction_ShekelsFoxholes со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функциях MHL_TestFunction_Rana, MHL_TestFunction_ShekelsFoxholes со всеми размерностями.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функциях MHL_TestFunction_Rana, MHL_TestFunction_ShekelsFoxholes со всеми размерностями.
+
 1.39
 ----
- * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_StepFunction со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC с использованием на функции MHL_TestFunction_StepFunction со всеми размерностями.
 
 1.38
 ----
