@@ -1,6 +1,14 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.41
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функциях  MHL_TestFunction_EggHolder со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функциях MHL_TestFunction_EggHolder, MHL_TestFunction_RastriginWithChange, MHL_TestFunction_RastriginWithTurning со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функциях MHL_TestFunction_RastriginWithTurning со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функциях MHL_TestFunction_EggHolder, MHL_TestFunction_RastriginWithChange, MHL_TestFunction_RastriginWithTurning со всеми размерностями.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функциях MHL_TestFunction_EggHolder со всеми размерностями.
+
 1.40
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функциях MHL_TestFunction_Rana, MHL_TestFunction_ShekelsFoxholes со всеми размерностями.
