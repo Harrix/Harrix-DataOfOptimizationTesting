@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.44
+----
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Schwefel со всеми размерностями.
+
 1.43
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функциях MHL_TestFunction_HyperEllipsoid со всеми размерностями.
