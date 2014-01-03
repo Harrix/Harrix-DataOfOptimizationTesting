@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.49
+----
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции  MHL_TestFunction_GaussianQuartic со всеми размерностями.
+
 1.48
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_InvertedRosenbrock со всеми размерностями.
