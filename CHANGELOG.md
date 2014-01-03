@@ -1,6 +1,14 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.48
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_InvertedRosenbrock со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_InvertedRosenbrock со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_InvertedRosenbrock со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_InvertedRosenbrock со всеми размерностями.
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_InvertedRosenbrock со всеми размерностями.
+
 1.47
 ----
  * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_InvertedRosenbrock со всеми размерностями.
