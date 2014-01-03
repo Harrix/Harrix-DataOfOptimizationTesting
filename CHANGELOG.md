@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.50
+----
+ * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_RastriginNovgorod со всеми размерностями.
+
 1.49
 ----
  * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции  MHL_TestFunction_GaussianQuartic со всеми размерностями.

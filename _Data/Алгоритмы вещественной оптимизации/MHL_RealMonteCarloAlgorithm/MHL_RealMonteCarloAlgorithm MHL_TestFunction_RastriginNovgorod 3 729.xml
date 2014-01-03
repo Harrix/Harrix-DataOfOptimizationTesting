@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<harrix_file_format>
+	<format>Harrix Optimization Testing</format>
+	<version>1.0</version>
+	<link>https://github.com/Harrix/HarrixFileFormats</link>
+</harrix_file_format>
+<about>
+	<author>Сергиенко Антон Борисович</author>
+	<date>04.01.2014 00:25:12</date>
+	<email>sergienkoanton@mail.ru</email>
+</about>
+<about_data>
+	<!-- Обозначение алгоритма (по названию функции, которая его реализует) -->
+	<name_algorithm>MHL_RealMonteCarloAlgorithm</name_algorithm>
+	<!-- Полное название алгоритма -->
+	<full_name_algorithm>Метод Монте-Карло для решения задач на вещественных строках</full_name_algorithm>
+	<!-- Ссылка на описание алгоритма оптимизации (если нет, то NULL) -->
+	<link_algorithm>https://github.com/Harrix/HarrixOptimizationAlgorithms</link_algorithm>
+	<!-- Название тестовой функции (по названию функции, которая его реализует) -->
+	<name_test_function>MHL_TestFunction_RastriginNovgorod</name_test_function>
+	<!-- Полное название тестовой функции -->
+	<full_name_test_function>Функция Растригина новгородская</full_name_test_function>
+	<!-- Ссылка на описание тестовой функции (если нет, то NULL) -->
+	<link_test_function>https://github.com/Harrix/HarrixTestFunctions</link_test_function>
+	<!-- Размерность задачи оптимизации -->
+	<dimension_test_function>3</dimension_test_function>
+	<!-- Количество измерений для каждого варианта настроек алгоритма (сколько точек получим) -->
+	<number_of_measuring>10</number_of_measuring>
+	<!-- Количество запусков алгоритма в каждом из измерений -->
+	<number_of_runs>100</number_of_runs>
+	<!-- Максимальное допустимое число вычислений целевой функции -->
+	<max_count_of_fitness>729</max_count_of_fitness>
+	<!-- Количество проверяемых параметров алгоритма оптимизации -->
+	<number_of_parameters>0</number_of_parameters>
+	<!-- Количество комбинаций вариантов настроек -->
+	<number_of_experiments>1</number_of_experiments>
+	<!-- Все ли комбинации вариантов настроек просмотрены -->
+	<all_combinations>1</all_combinations>
+</about_data>
+<data>
+	<experiment>
+		<measuring>
+			<Ex>0.112182</Ex>
+			<Ey>0.379082</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.119654</Ex>
+			<Ey>0.413896</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.112078</Ex>
+			<Ey>0.398728</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.118182</Ex>
+			<Ey>0.386015</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.117786</Ex>
+			<Ey>0.37225</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.112719</Ex>
+			<Ey>0.393088</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0999884</Ex>
+			<Ey>0.341073</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.116214</Ex>
+			<Ey>0.365141</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.102754</Ex>
+			<Ey>0.285082</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11495</Ex>
+			<Ey>0.410599</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+</data>
+</document>
