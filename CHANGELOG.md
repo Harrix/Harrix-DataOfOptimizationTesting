@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.53
+----
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функциях MHL_TestFunction_EggHolder, MHL_TestFunction_Rana, MHL_TestFunction_RastriginWithTurning, MHL_TestFunction_ShekelsFoxholes, MHL_TestFunction_RastriginWithTurning со всеми размерностями.
+
 1.52
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_RastriginWithChange со всеми размерностями.
