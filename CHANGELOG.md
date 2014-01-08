@@ -1,6 +1,12 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.56
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_RastriginNovgorod со всеми размерностями.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RastriginNovgorod со всеми размерностями.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функциях MHL_TestFunction_HyperEllipsoid со всеми размерностями кроме 30.
+
 1.55
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_RotatedHyperEllipsoid со всеми размерностями.
