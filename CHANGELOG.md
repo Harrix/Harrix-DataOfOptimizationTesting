@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.57
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_GaussianQuartic со всеми размерностями.
+
 1.56
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_RastriginNovgorod со всеми размерностями.
