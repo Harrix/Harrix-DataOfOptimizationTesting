@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.60
+----
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Griewangk со всеми размерностями.
+ 
 1.59
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_StepFunction со всеми размерностями.
