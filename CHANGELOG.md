@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.62
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWCC на функции  MHL_TestFunction_Schwefel со всеми размерностями.
+
 1.61
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_Griewangk размерностями 2, 3, 4, 5, 10.
