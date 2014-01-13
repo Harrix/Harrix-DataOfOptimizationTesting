@@ -1,6 +1,12 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.64
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_GaussianQuartic размерностями 2, 3, 4, 5, 10, 20.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_RastriginNovgorod размерностями 2, 3, 4, 5, 10.
+ * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Schwefel размерностями 2, 3, 4, 5.
+
 1.63
 ----
  * Добавлены повторные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RastriginNovgorod со всеми размерностями.
