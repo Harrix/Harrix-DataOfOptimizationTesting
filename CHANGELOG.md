@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.65
+----
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на другой машине на функции MHL_TestFunction_RastriginNovgorod размерностями 2, 3, 4, 5, 10, 20.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на другой машине на функции MHL_TestFunction_ParaboloidOfRevolution размерностями 2, 3, 4, 5, 10.
+
 1.64
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_GaussianQuartic размерностями 2, 3, 4, 5, 10, 20.
