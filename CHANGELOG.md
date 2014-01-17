@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.68
+----
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на другой машине на функции MHL_TestFunction_GaussianQuartic размерностями 2, 3, 4, 5, 10.
+
 1.67
 ----
  * Добавлены повторные данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_Griewangk размерностями 20.
