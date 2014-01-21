@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.75
+----
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RotatedHyperEllipsoid размерности 3, 4, 5, 10, 2 на другой машине.
+
 1.74
 ----
  * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RotatedHyperEllipsoid размерности 2 на другой машине.
