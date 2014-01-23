@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.77
+----
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_StepFunction со всеми размерностями на другой машине.
+ 
 1.76
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_RastriginNovgorod со всеми размерностями.
