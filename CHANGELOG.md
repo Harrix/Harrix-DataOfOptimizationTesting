@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.78
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_GaussianQuartic размерности 30.
+
 1.77
 ----
  * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_StepFunction со всеми размерностями на другой машине.
