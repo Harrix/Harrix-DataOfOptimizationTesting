@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.79
+----
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Schwefel размерности 3, 4, 5, 10, 20 на другой машине.
+
 1.78
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_GaussianQuartic размерности 30.
@@ -15,7 +19,7 @@ HarrixDataOfOptimizationTesting
 
 1.75
 ----
- * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RotatedHyperEllipsoid размерности 3, 4, 5, 10, 2 на другой машине.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RotatedHyperEllipsoid размерности 3, 4, 5, 10, 20 на другой машине.
 
 1.74
 ----
