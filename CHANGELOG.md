@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.81
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции  MHL_TestFunction_RastriginNovgorod размерности 30.
+
 1.80
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_Schwefel со всеми размерностями.
