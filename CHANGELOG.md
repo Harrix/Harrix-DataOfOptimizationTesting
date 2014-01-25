@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.82
+----
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rosenbrock размерности 2, 3, 4, 5, 10, 20, 30 на другой машине.
+
 1.81
 ----
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции  MHL_TestFunction_RastriginNovgorod размерности 30.
