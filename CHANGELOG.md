@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.84
+----
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_GaussianQuartic со всеми размерностями.
+
 1.83
 ----
  * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rastrigin размерности 2, 3, 4, 5, 10, 20 на другой машине.
