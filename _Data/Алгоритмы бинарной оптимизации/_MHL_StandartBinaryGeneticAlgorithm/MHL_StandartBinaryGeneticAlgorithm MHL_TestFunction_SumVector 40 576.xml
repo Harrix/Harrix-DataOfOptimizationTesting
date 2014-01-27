@@ -7,7 +7,7 @@
 </harrix_file_format>
 <about>
 	<author>Сергиенко Антон Борисович</author>
-	<date>17.10.2013 02:32:44</date>
+	<date>27.01.2014 13:40:26</date>
 	<email>sergienkoanton@mail.ru</email>
 </about>
 <about_data>
@@ -41,44 +41,39 @@
 <data>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.0785</Ex>
-			<Ey>0.0785</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.075</Ex>
-			<Ey>0.075</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
 			<Ex>0.07575</Ex>
 			<Ey>0.07575</Ey>
-			<R>0.02</R>
+			<R>0.03</R>
 		</measuring>
 		<measuring>
-			<Ex>0.082</Ex>
-			<Ey>0.082</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07525</Ex>
-			<Ey>0.07525</Ey>
+			<Ex>0.0835</Ex>
+			<Ey>0.0835</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0775</Ex>
-			<Ey>0.0775</Ey>
-			<R>0.03</R>
+			<Ex>0.07975</Ex>
+			<Ey>0.07975</Ey>
+			<R>0</R>
 		</measuring>
 		<measuring>
 			<Ex>0.0805</Ex>
 			<Ey>0.0805</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07775</Ex>
+			<Ey>0.07775</Ey>
 			<R>0.02</R>
 		</measuring>
 		<measuring>
-			<Ex>0.07825</Ex>
-			<Ey>0.07825</Ey>
-			<R>0.03</R>
+			<Ex>0.0805</Ex>
+			<Ey>0.0805</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.08375</Ex>
+			<Ey>0.08375</Ey>
+			<R>0</R>
 		</measuring>
 		<measuring>
 			<Ex>0.07975</Ex>
@@ -86,78 +81,88 @@
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0775</Ex>
-			<Ey>0.0775</Ey>
+			<Ex>0.076</Ex>
+			<Ey>0.076</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0765</Ex>
+			<Ey>0.0765</Ey>
 			<R>0.02</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.06225</Ex>
-			<Ey>0.06225</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.062</Ex>
-			<Ey>0.062</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05475</Ex>
-			<Ey>0.05475</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0545</Ex>
-			<Ey>0.0545</Ey>
+			<Ex>0.059</Ex>
+			<Ey>0.059</Ey>
 			<R>0.06</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0555</Ex>
-			<Ey>0.0555</Ey>
-			<R>0.06</R>
+			<Ex>0.05825</Ex>
+			<Ey>0.05825</Ey>
+			<R>0.07</R>
 		</measuring>
 		<measuring>
-			<Ex>0.05875</Ex>
-			<Ey>0.05875</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05325</Ex>
-			<Ey>0.05325</Ey>
-			<R>0.1</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05525</Ex>
-			<Ey>0.05525</Ey>
-			<R>0.04</R>
+			<Ex>0.05625</Ex>
+			<Ey>0.05625</Ey>
+			<R>0.08</R>
 		</measuring>
 		<measuring>
 			<Ex>0.05375</Ex>
 			<Ey>0.05375</Ey>
-			<R>0.08</R>
+			<R>0.06</R>
 		</measuring>
 		<measuring>
-			<Ex>0.056</Ex>
-			<Ey>0.056</Ey>
+			<Ex>0.055</Ex>
+			<Ey>0.055</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0585</Ex>
+			<Ey>0.0585</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0565</Ex>
+			<Ey>0.0565</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0575</Ex>
+			<Ey>0.0575</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.058</Ex>
+			<Ey>0.058</Ey>
 			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0605</Ex>
+			<Ey>0.0605</Ey>
+			<R>0.04</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.08825</Ex>
-			<Ey>0.08825</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.088</Ex>
-			<Ey>0.088</Ey>
+			<Ex>0.08525</Ex>
+			<Ey>0.08525</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.08625</Ex>
-			<Ey>0.08625</Ey>
-			<R>0.02</R>
+			<Ex>0.08925</Ex>
+			<Ey>0.08925</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.09175</Ex>
+			<Ey>0.09175</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.08725</Ex>
+			<Ey>0.08725</Ey>
+			<R>0</R>
 		</measuring>
 		<measuring>
 			<Ex>0.0855</Ex>
@@ -165,310 +170,23 @@
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.09275</Ex>
-			<Ey>0.09275</Ey>
-			<R>0.01</R>
+			<Ex>0.0895</Ex>
+			<Ey>0.0895</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.08075</Ex>
+			<Ey>0.08075</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.083</Ex>
+			<Ey>0.083</Ey>
+			<R>0</R>
 		</measuring>
 		<measuring>
 			<Ex>0.09075</Ex>
 			<Ey>0.09075</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0885</Ex>
-			<Ey>0.0885</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.084</Ex>
-			<Ey>0.084</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0905</Ex>
-			<Ey>0.0905</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08575</Ex>
-			<Ey>0.08575</Ey>
-			<R>0</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.05325</Ex>
-			<Ey>0.05325</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05725</Ex>
-			<Ey>0.05725</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05125</Ex>
-			<Ey>0.05125</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0505</Ex>
-			<Ey>0.0505</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0585</Ex>
-			<Ey>0.0585</Ey>
-			<R>0.06</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05325</Ex>
-			<Ey>0.05325</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.055</Ex>
-			<Ey>0.055</Ey>
-			<R>0.07</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0575</Ex>
-			<Ey>0.0575</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0455</Ex>
-			<Ey>0.0455</Ey>
-			<R>0.1</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0545</Ex>
-			<Ey>0.0545</Ey>
-			<R>0.02</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.155</Ex>
-			<Ey>0.155</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.16075</Ex>
-			<Ey>0.16075</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15525</Ex>
-			<Ey>0.15525</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.159</Ex>
-			<Ey>0.159</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1525</Ex>
-			<Ey>0.1525</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15725</Ex>
-			<Ey>0.15725</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15825</Ex>
-			<Ey>0.15825</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15825</Ex>
-			<Ey>0.15825</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.156</Ex>
-			<Ey>0.156</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1535</Ex>
-			<Ey>0.1535</Ey>
-			<R>0</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.1145</Ex>
-			<Ey>0.1145</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.112</Ex>
-			<Ey>0.112</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11525</Ex>
-			<Ey>0.11525</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11625</Ex>
-			<Ey>0.11625</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11475</Ex>
-			<Ey>0.11475</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1165</Ex>
-			<Ey>0.1165</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.115</Ex>
-			<Ey>0.115</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.10925</Ex>
-			<Ey>0.10925</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11525</Ex>
-			<Ey>0.11525</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1125</Ex>
-			<Ey>0.1125</Ey>
-			<R>0</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.06625</Ex>
-			<Ey>0.06625</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0615</Ex>
-			<Ey>0.0615</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06625</Ex>
-			<Ey>0.06625</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07025</Ex>
-			<Ey>0.07025</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.064</Ex>
-			<Ey>0.064</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06725</Ex>
-			<Ey>0.06725</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06275</Ex>
-			<Ey>0.06275</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07025</Ex>
-			<Ey>0.07025</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0625</Ex>
-			<Ey>0.0625</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06675</Ex>
-			<Ey>0.06675</Ey>
-			<R>0.03</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.048</Ex>
-			<Ey>0.048</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04525</Ex>
-			<Ey>0.04525</Ey>
-			<R>0.12</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04225</Ex>
-			<Ey>0.04225</Ey>
-			<R>0.15</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04475</Ex>
-			<Ey>0.04475</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04025</Ex>
-			<Ey>0.04025</Ey>
-			<R>0.13</R>
-		</measuring>
-		<measuring>
-			<Ex>0.048</Ex>
-			<Ey>0.048</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0475</Ex>
-			<Ey>0.0475</Ey>
-			<R>0.1</R>
-		</measuring>
-		<measuring>
-			<Ex>0.047</Ex>
-			<Ey>0.047</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0475</Ex>
-			<Ey>0.0475</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0475</Ex>
-			<Ey>0.0475</Ey>
-			<R>0.12</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.07475</Ex>
-			<Ey>0.07475</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08225</Ex>
-			<Ey>0.08225</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07975</Ex>
-			<Ey>0.07975</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
@@ -476,98 +194,78 @@
 			<Ey>0.0825</Ey>
 			<R>0</R>
 		</measuring>
-		<measuring>
-			<Ex>0.08325</Ex>
-			<Ey>0.08325</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08325</Ex>
-			<Ey>0.08325</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07475</Ex>
-			<Ey>0.07475</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07625</Ex>
-			<Ey>0.07625</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0765</Ex>
-			<Ey>0.0765</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0795</Ex>
-			<Ey>0.0795</Ey>
-			<R>0.01</R>
-		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.04475</Ex>
-			<Ey>0.04475</Ey>
-			<R>0.11</R>
+			<Ex>0.0575</Ex>
+			<Ey>0.0575</Ey>
+			<R>0.05</R>
 		</measuring>
 		<measuring>
-			<Ex>0.04725</Ex>
-			<Ey>0.04725</Ey>
+			<Ex>0.05475</Ex>
+			<Ey>0.05475</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05225</Ex>
+			<Ey>0.05225</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05625</Ex>
+			<Ey>0.05625</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05175</Ex>
+			<Ey>0.05175</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.051</Ex>
+			<Ey>0.051</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0545</Ex>
+			<Ey>0.0545</Ey>
 			<R>0.07</R>
 		</measuring>
 		<measuring>
-			<Ex>0.04725</Ex>
-			<Ey>0.04725</Ey>
-			<R>0.09</R>
+			<Ex>0.054</Ex>
+			<Ey>0.054</Ey>
+			<R>0.06</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0465</Ex>
-			<Ey>0.0465</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04675</Ex>
-			<Ey>0.04675</Ey>
-			<R>0.12</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04675</Ex>
-			<Ey>0.04675</Ey>
-			<R>0.1</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04825</Ex>
-			<Ey>0.04825</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04525</Ex>
-			<Ey>0.04525</Ey>
+			<Ex>0.0545</Ex>
+			<Ey>0.0545</Ey>
 			<R>0.08</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0455</Ex>
-			<Ey>0.0455</Ey>
-			<R>0.11</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04625</Ex>
-			<Ey>0.04625</Ey>
-			<R>0.11</R>
+			<Ex>0.053</Ex>
+			<Ey>0.053</Ey>
+			<R>0.1</R>
 		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.15775</Ex>
-			<Ey>0.15775</Ey>
+			<Ex>0.15875</Ex>
+			<Ey>0.15875</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.15425</Ex>
-			<Ey>0.15425</Ey>
+			<Ex>0.14975</Ex>
+			<Ey>0.14975</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15575</Ex>
+			<Ey>0.15575</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1595</Ex>
+			<Ey>0.1595</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -576,33 +274,300 @@
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.161</Ex>
-			<Ey>0.161</Ey>
+			<Ex>0.15975</Ex>
+			<Ey>0.15975</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1625</Ex>
-			<Ey>0.1625</Ey>
+			<Ex>0.16025</Ex>
+			<Ey>0.16025</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1575</Ex>
-			<Ey>0.1575</Ey>
+			<Ex>0.1615</Ex>
+			<Ey>0.1615</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.157</Ex>
-			<Ey>0.157</Ey>
+			<Ex>0.15175</Ex>
+			<Ey>0.15175</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.16075</Ex>
-			<Ey>0.16075</Ey>
+			<Ex>0.15075</Ex>
+			<Ey>0.15075</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.1135</Ex>
+			<Ey>0.1135</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.15725</Ex>
-			<Ey>0.15725</Ey>
+			<Ex>0.10975</Ex>
+			<Ey>0.10975</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11575</Ex>
+			<Ey>0.11575</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1125</Ex>
+			<Ey>0.1125</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1125</Ex>
+			<Ey>0.1125</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11075</Ex>
+			<Ey>0.11075</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1155</Ex>
+			<Ey>0.1155</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11825</Ex>
+			<Ey>0.11825</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11575</Ex>
+			<Ey>0.11575</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11175</Ex>
+			<Ey>0.11175</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.067</Ex>
+			<Ey>0.067</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0605</Ex>
+			<Ey>0.0605</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0615</Ex>
+			<Ey>0.0615</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06575</Ex>
+			<Ey>0.06575</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06475</Ex>
+			<Ey>0.06475</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.066</Ex>
+			<Ey>0.066</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0645</Ex>
+			<Ey>0.0645</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07</Ex>
+			<Ey>0.07</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0625</Ex>
+			<Ey>0.0625</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0695</Ex>
+			<Ey>0.0695</Ey>
+			<R>0.03</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.04725</Ex>
+			<Ey>0.04725</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04725</Ex>
+			<Ey>0.04725</Ey>
+			<R>0.09</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04775</Ex>
+			<Ey>0.04775</Ey>
+			<R>0.1</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04475</Ex>
+			<Ey>0.04475</Ey>
+			<R>0.11</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0405</Ex>
+			<Ey>0.0405</Ey>
+			<R>0.15</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04725</Ex>
+			<Ey>0.04725</Ey>
+			<R>0.08</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0445</Ex>
+			<Ey>0.0445</Ey>
+			<R>0.1</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0425</Ex>
+			<Ey>0.0425</Ey>
+			<R>0.14</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04775</Ex>
+			<Ey>0.04775</Ey>
+			<R>0.12</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0405</Ex>
+			<Ey>0.0405</Ey>
+			<R>0.18</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.07925</Ex>
+			<Ey>0.07925</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07575</Ex>
+			<Ey>0.07575</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.077</Ex>
+			<Ey>0.077</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.08325</Ex>
+			<Ey>0.08325</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0775</Ex>
+			<Ey>0.0775</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07525</Ex>
+			<Ey>0.07525</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.076</Ex>
+			<Ey>0.076</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.082</Ex>
+			<Ey>0.082</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0815</Ex>
+			<Ey>0.0815</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0865</Ex>
+			<Ey>0.0865</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.03975</Ex>
+			<Ey>0.03975</Ey>
+			<R>0.12</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04775</Ex>
+			<Ey>0.04775</Ey>
+			<R>0.08</R>
+		</measuring>
+		<measuring>
+			<Ex>0.041</Ex>
+			<Ey>0.041</Ey>
+			<R>0.14</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04975</Ex>
+			<Ey>0.04975</Ey>
+			<R>0.08</R>
+		</measuring>
+		<measuring>
+			<Ex>0.049</Ex>
+			<Ey>0.049</Ey>
+			<R>0.11</R>
+		</measuring>
+		<measuring>
+			<Ex>0.043</Ex>
+			<Ey>0.043</Ey>
+			<R>0.12</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04675</Ex>
+			<Ey>0.04675</Ey>
+			<R>0.08</R>
+		</measuring>
+		<measuring>
+			<Ex>0.048</Ex>
+			<Ey>0.048</Ey>
+			<R>0.1</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04625</Ex>
+			<Ey>0.04625</Ey>
+			<R>0.07</R>
+		</measuring>
+		<measuring>
+			<Ex>0.049</Ex>
+			<Ey>0.049</Ey>
+			<R>0.07</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.1555</Ex>
+			<Ey>0.1555</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1565</Ex>
+			<Ey>0.1565</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -610,41 +575,66 @@
 			<Ey>0.1535</Ey>
 			<R>0</R>
 		</measuring>
+		<measuring>
+			<Ex>0.1525</Ex>
+			<Ey>0.1525</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1525</Ex>
+			<Ey>0.1525</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1505</Ex>
+			<Ey>0.1505</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1605</Ex>
+			<Ey>0.1605</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.154</Ex>
+			<Ey>0.154</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15275</Ex>
+			<Ey>0.15275</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15125</Ex>
+			<Ey>0.15125</Ey>
+			<R>0</R>
+		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
+			<Ex>0.11725</Ex>
+			<Ey>0.11725</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11425</Ex>
+			<Ey>0.11425</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.112</Ex>
+			<Ey>0.112</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.108</Ex>
+			<Ey>0.108</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
 			<Ex>0.1095</Ex>
 			<Ey>0.1095</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.117</Ex>
-			<Ey>0.117</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11</Ex>
-			<Ey>0.11</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.109</Ex>
-			<Ey>0.109</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11225</Ex>
-			<Ey>0.11225</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1115</Ex>
-			<Ey>0.1115</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.113</Ex>
-			<Ey>0.113</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -653,248 +643,253 @@
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1115</Ex>
-			<Ey>0.1115</Ey>
+			<Ex>0.1165</Ex>
+			<Ey>0.1165</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.11</Ex>
-			<Ey>0.11</Ey>
+			<Ex>0.11475</Ex>
+			<Ey>0.11475</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11225</Ex>
+			<Ey>0.11225</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10725</Ex>
+			<Ey>0.10725</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.0255</Ex>
-			<Ey>0.0255</Ey>
-			<R>0.32</R>
+			<Ex>0.02275</Ex>
+			<Ey>0.02275</Ey>
+			<R>0.36</R>
 		</measuring>
 		<measuring>
-			<Ex>0.02425</Ex>
-			<Ey>0.02425</Ey>
+			<Ex>0.02625</Ex>
+			<Ey>0.02625</Ey>
+			<R>0.35</R>
+		</measuring>
+		<measuring>
+			<Ex>0.02325</Ex>
+			<Ey>0.02325</Ey>
 			<R>0.38</R>
 		</measuring>
 		<measuring>
-			<Ex>0.02425</Ex>
-			<Ey>0.02425</Ey>
+			<Ex>0.02125</Ex>
+			<Ey>0.02125</Ey>
+			<R>0.45</R>
+		</measuring>
+		<measuring>
+			<Ex>0.02275</Ex>
+			<Ey>0.02275</Ey>
+			<R>0.4</R>
+		</measuring>
+		<measuring>
+			<Ex>0.02275</Ex>
+			<Ey>0.02275</Ey>
+			<R>0.38</R>
+		</measuring>
+		<measuring>
+			<Ex>0.02325</Ex>
+			<Ey>0.02325</Ey>
 			<R>0.37</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0265</Ex>
-			<Ey>0.0265</Ey>
+			<Ex>0.02675</Ex>
+			<Ey>0.02675</Ey>
 			<R>0.3</R>
 		</measuring>
 		<measuring>
-			<Ex>0.024</Ex>
-			<Ey>0.024</Ey>
-			<R>0.32</R>
+			<Ex>0.0205</Ex>
+			<Ey>0.0205</Ey>
+			<R>0.44</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0235</Ex>
-			<Ey>0.0235</Ey>
-			<R>0.37</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02175</Ex>
-			<Ey>0.02175</Ey>
-			<R>0.41</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02725</Ex>
-			<Ey>0.02725</Ey>
-			<R>0.28</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0235</Ex>
-			<Ey>0.0235</Ey>
-			<R>0.38</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0235</Ex>
-			<Ey>0.0235</Ey>
+			<Ex>0.02575</Ex>
+			<Ey>0.02575</Ey>
 			<R>0.35</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.01475</Ex>
-			<Ey>0.01475</Ey>
-			<R>0.54</R>
+			<Ex>0.01825</Ex>
+			<Ey>0.01825</Ey>
+			<R>0.45</R>
 		</measuring>
 		<measuring>
-			<Ex>0.016</Ex>
-			<Ey>0.016</Ey>
+			<Ex>0.01825</Ex>
+			<Ey>0.01825</Ey>
+			<R>0.43</R>
+		</measuring>
+		<measuring>
+			<Ex>0.018</Ex>
+			<Ey>0.018</Ey>
+			<R>0.45</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01625</Ex>
+			<Ey>0.01625</Ey>
 			<R>0.52</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0135</Ex>
-			<Ey>0.0135</Ey>
+			<Ex>0.01625</Ex>
+			<Ey>0.01625</Ey>
 			<R>0.54</R>
 		</measuring>
 		<measuring>
-			<Ex>0.017</Ex>
-			<Ey>0.017</Ey>
+			<Ex>0.018</Ex>
+			<Ey>0.018</Ey>
+			<R>0.4</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0165</Ex>
+			<Ey>0.0165</Ey>
+			<R>0.52</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01775</Ex>
+			<Ey>0.01775</Ey>
 			<R>0.47</R>
 		</measuring>
 		<measuring>
-			<Ex>0.014</Ex>
-			<Ey>0.014</Ey>
-			<R>0.57</R>
+			<Ex>0.01925</Ex>
+			<Ey>0.01925</Ey>
+			<R>0.42</R>
 		</measuring>
 		<measuring>
-			<Ex>0.014</Ex>
-			<Ey>0.014</Ey>
-			<R>0.53</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01975</Ex>
-			<Ey>0.01975</Ey>
-			<R>0.41</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0175</Ex>
-			<Ey>0.0175</Ey>
-			<R>0.52</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02075</Ex>
-			<Ey>0.02075</Ey>
-			<R>0.52</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01475</Ex>
-			<Ey>0.01475</Ey>
-			<R>0.53</R>
+			<Ex>0.0165</Ex>
+			<Ey>0.0165</Ey>
+			<R>0.51</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.049</Ex>
-			<Ey>0.049</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05325</Ex>
-			<Ey>0.05325</Ey>
-			<R>0.07</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04825</Ex>
-			<Ey>0.04825</Ey>
+			<Ex>0.056</Ex>
+			<Ey>0.056</Ey>
 			<R>0.08</R>
 		</measuring>
 		<measuring>
-			<Ex>0.054</Ex>
-			<Ey>0.054</Ey>
+			<Ex>0.055</Ex>
+			<Ey>0.055</Ey>
 			<R>0.05</R>
 		</measuring>
 		<measuring>
-			<Ex>0.05</Ex>
-			<Ey>0.05</Ey>
-			<R>0.05</R>
+			<Ex>0.04925</Ex>
+			<Ey>0.04925</Ey>
+			<R>0.03</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0505</Ex>
-			<Ey>0.0505</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04975</Ex>
-			<Ey>0.04975</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0515</Ex>
-			<Ey>0.0515</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0545</Ex>
-			<Ey>0.0545</Ey>
+			<Ex>0.052</Ex>
+			<Ey>0.052</Ey>
 			<R>0.06</R>
 		</measuring>
 		<measuring>
-			<Ex>0.05325</Ex>
-			<Ey>0.05325</Ey>
+			<Ex>0.049</Ex>
+			<Ey>0.049</Ey>
+			<R>0.07</R>
+		</measuring>
+		<measuring>
+			<Ex>0.056</Ex>
+			<Ey>0.056</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05725</Ex>
+			<Ey>0.05725</Ey>
 			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.057</Ex>
+			<Ey>0.057</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04925</Ex>
+			<Ey>0.04925</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0525</Ex>
+			<Ey>0.0525</Ey>
+			<R>0.06</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.024</Ex>
-			<Ey>0.024</Ey>
-			<R>0.29</R>
+			<Ex>0.0275</Ex>
+			<Ey>0.0275</Ey>
+			<R>0.28</R>
 		</measuring>
 		<measuring>
-			<Ex>0.024</Ex>
-			<Ey>0.024</Ey>
-			<R>0.37</R>
+			<Ex>0.022</Ex>
+			<Ey>0.022</Ey>
+			<R>0.39</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0235</Ex>
-			<Ey>0.0235</Ey>
-			<R>0.32</R>
+			<Ex>0.02375</Ex>
+			<Ey>0.02375</Ey>
+			<R>0.31</R>
 		</measuring>
 		<measuring>
-			<Ex>0.02475</Ex>
-			<Ey>0.02475</Ey>
+			<Ex>0.025</Ex>
+			<Ey>0.025</Ey>
 			<R>0.33</R>
 		</measuring>
 		<measuring>
 			<Ex>0.02375</Ex>
 			<Ey>0.02375</Ey>
-			<R>0.32</R>
+			<R>0.34</R>
 		</measuring>
 		<measuring>
 			<Ex>0.0245</Ex>
 			<Ey>0.0245</Ey>
-			<R>0.34</R>
+			<R>0.29</R>
 		</measuring>
 		<measuring>
-			<Ex>0.02675</Ex>
-			<Ey>0.02675</Ey>
-			<R>0.31</R>
+			<Ex>0.024</Ex>
+			<Ey>0.024</Ey>
+			<R>0.3</R>
+		</measuring>
+		<measuring>
+			<Ex>0.023</Ex>
+			<Ey>0.023</Ey>
+			<R>0.36</R>
 		</measuring>
 		<measuring>
 			<Ex>0.02375</Ex>
 			<Ey>0.02375</Ey>
-			<R>0.31</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0255</Ex>
-			<Ey>0.0255</Ey>
-			<R>0.25</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0205</Ex>
-			<Ey>0.0205</Ey>
 			<R>0.36</R>
+		</measuring>
+		<measuring>
+			<Ex>0.02525</Ex>
+			<Ey>0.02525</Ey>
+			<R>0.32</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.142</Ex>
-			<Ey>0.142</Ey>
+			<Ex>0.14925</Ex>
+			<Ey>0.14925</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.142</Ex>
-			<Ey>0.142</Ey>
+			<Ex>0.14675</Ex>
+			<Ey>0.14675</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.14175</Ex>
-			<Ey>0.14175</Ey>
+			<Ex>0.14425</Ex>
+			<Ey>0.14425</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1415</Ex>
-			<Ey>0.1415</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.13725</Ex>
-			<Ey>0.13725</Ey>
+			<Ex>0.14225</Ex>
+			<Ey>0.14225</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -903,45 +898,35 @@
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1375</Ex>
-			<Ey>0.1375</Ey>
+			<Ex>0.14075</Ex>
+			<Ey>0.14075</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.14475</Ex>
-			<Ey>0.14475</Ey>
+			<Ex>0.1405</Ex>
+			<Ey>0.1405</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1445</Ex>
-			<Ey>0.1445</Ey>
+			<Ex>0.142</Ex>
+			<Ey>0.142</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.143</Ex>
-			<Ey>0.143</Ey>
+			<Ex>0.13875</Ex>
+			<Ey>0.13875</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.147</Ex>
+			<Ey>0.147</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Пропорциональная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.109</Ex>
-			<Ey>0.109</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.10525</Ex>
-			<Ey>0.10525</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1055</Ex>
-			<Ey>0.1055</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.101</Ex>
-			<Ey>0.101</Ey>
+			<Ex>0.10575</Ex>
+			<Ey>0.10575</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -952,932 +937,16 @@
 		<measuring>
 			<Ex>0.1</Ex>
 			<Ey>0.1</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.10725</Ex>
-			<Ey>0.10725</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.10275</Ex>
-			<Ey>0.10275</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11025</Ex>
-			<Ey>0.11025</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.10075</Ex>
-			<Ey>0.10075</Ey>
-			<R>0</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.08025</Ex>
-			<Ey>0.08025</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08025</Ex>
-			<Ey>0.08025</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.076</Ex>
-			<Ey>0.076</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07575</Ex>
-			<Ey>0.07575</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08075</Ex>
-			<Ey>0.08075</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.078</Ex>
-			<Ey>0.078</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06975</Ex>
-			<Ey>0.06975</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0765</Ex>
-			<Ey>0.0765</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.074</Ex>
-			<Ey>0.074</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08</Ex>
-			<Ey>0.08</Ey>
-			<R>0.02</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.05425</Ex>
-			<Ey>0.05425</Ey>
-			<R>0.1</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05225</Ex>
-			<Ey>0.05225</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05</Ex>
-			<Ey>0.05</Ey>
-			<R>0.13</R>
-		</measuring>
-		<measuring>
-			<Ex>0.052</Ex>
-			<Ey>0.052</Ey>
-			<R>0.11</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0575</Ex>
-			<Ey>0.0575</Ey>
-			<R>0.06</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05075</Ex>
-			<Ey>0.05075</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0525</Ex>
-			<Ey>0.0525</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.052</Ex>
-			<Ey>0.052</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05475</Ex>
-			<Ey>0.05475</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05375</Ex>
-			<Ey>0.05375</Ey>
-			<R>0.09</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.08</Ex>
-			<Ey>0.08</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07825</Ex>
-			<Ey>0.07825</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08325</Ex>
-			<Ey>0.08325</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.082</Ex>
-			<Ey>0.082</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08475</Ex>
-			<Ey>0.08475</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08575</Ex>
-			<Ey>0.08575</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08275</Ex>
-			<Ey>0.08275</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.086</Ex>
-			<Ey>0.086</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07875</Ex>
-			<Ey>0.07875</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.08625</Ex>
-			<Ey>0.08625</Ey>
-			<R>0</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.04525</Ex>
-			<Ey>0.04525</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04625</Ex>
-			<Ey>0.04625</Ey>
-			<R>0.07</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05325</Ex>
-			<Ey>0.05325</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.045</Ex>
-			<Ey>0.045</Ey>
-			<R>0.11</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04775</Ex>
-			<Ey>0.04775</Ey>
-			<R>0.07</R>
-		</measuring>
-		<measuring>
-			<Ex>0.048</Ex>
-			<Ey>0.048</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.047</Ex>
-			<Ey>0.047</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05175</Ex>
-			<Ey>0.05175</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05075</Ex>
-			<Ey>0.05075</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0495</Ex>
-			<Ey>0.0495</Ey>
-			<R>0.08</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.15725</Ex>
-			<Ey>0.15725</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1575</Ex>
-			<Ey>0.1575</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1555</Ex>
-			<Ey>0.1555</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15675</Ex>
-			<Ey>0.15675</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.149</Ex>
-			<Ey>0.149</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.152</Ex>
-			<Ey>0.152</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.155</Ex>
-			<Ey>0.155</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1505</Ex>
-			<Ey>0.1505</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.161</Ex>
-			<Ey>0.161</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.152</Ex>
-			<Ey>0.152</Ey>
-			<R>0</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.1145</Ex>
-			<Ey>0.1145</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.12075</Ex>
-			<Ey>0.12075</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1095</Ex>
-			<Ey>0.1095</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1155</Ex>
-			<Ey>0.1155</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11025</Ex>
-			<Ey>0.11025</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1165</Ex>
-			<Ey>0.1165</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11325</Ex>
-			<Ey>0.11325</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1175</Ex>
-			<Ey>0.1175</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1135</Ex>
-			<Ey>0.1135</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11</Ex>
-			<Ey>0.11</Ey>
-			<R>0.01</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.0645</Ex>
-			<Ey>0.0645</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0555</Ex>
-			<Ey>0.0555</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.067</Ex>
-			<Ey>0.067</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.064</Ex>
-			<Ey>0.064</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0665</Ex>
-			<Ey>0.0665</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06075</Ex>
-			<Ey>0.06075</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.061</Ex>
-			<Ey>0.061</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0595</Ex>
-			<Ey>0.0595</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06275</Ex>
-			<Ey>0.06275</Ey>
-			<R>0.06</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06275</Ex>
-			<Ey>0.06275</Ey>
-			<R>0.02</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.04075</Ex>
-			<Ey>0.04075</Ey>
-			<R>0.17</R>
-		</measuring>
-		<measuring>
-			<Ex>0.045</Ex>
-			<Ey>0.045</Ey>
-			<R>0.16</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0415</Ex>
-			<Ey>0.0415</Ey>
-			<R>0.13</R>
-		</measuring>
-		<measuring>
-			<Ex>0.044</Ex>
-			<Ey>0.044</Ey>
-			<R>0.13</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04125</Ex>
-			<Ey>0.04125</Ey>
-			<R>0.1</R>
-		</measuring>
-		<measuring>
-			<Ex>0.043</Ex>
-			<Ey>0.043</Ey>
-			<R>0.13</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04375</Ex>
-			<Ey>0.04375</Ey>
-			<R>0.16</R>
-		</measuring>
-		<measuring>
-			<Ex>0.039</Ex>
-			<Ey>0.039</Ey>
-			<R>0.19</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04075</Ex>
-			<Ey>0.04075</Ey>
-			<R>0.11</R>
-		</measuring>
-		<measuring>
-			<Ex>0.03475</Ex>
-			<Ey>0.03475</Ey>
-			<R>0.19</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.07375</Ex>
-			<Ey>0.07375</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.075</Ex>
-			<Ey>0.075</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.073</Ex>
-			<Ey>0.073</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.077</Ex>
-			<Ey>0.077</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.078</Ex>
-			<Ey>0.078</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0735</Ex>
-			<Ey>0.0735</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.074</Ex>
-			<Ey>0.074</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06825</Ex>
-			<Ey>0.06825</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0765</Ex>
-			<Ey>0.0765</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.076</Ex>
-			<Ey>0.076</Ey>
-			<R>0.03</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.0455</Ex>
-			<Ey>0.0455</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.042</Ex>
-			<Ey>0.042</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0425</Ex>
-			<Ey>0.0425</Ey>
-			<R>0.11</R>
-		</measuring>
-		<measuring>
-			<Ex>0.03825</Ex>
-			<Ey>0.03825</Ey>
-			<R>0.18</R>
-		</measuring>
-		<measuring>
-			<Ex>0.043</Ex>
-			<Ey>0.043</Ey>
-			<R>0.16</R>
-		</measuring>
-		<measuring>
-			<Ex>0.044</Ex>
-			<Ey>0.044</Ey>
-			<R>0.11</R>
-		</measuring>
-		<measuring>
-			<Ex>0.03925</Ex>
-			<Ey>0.03925</Ey>
-			<R>0.1</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0365</Ex>
-			<Ey>0.0365</Ey>
-			<R>0.19</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04</Ex>
-			<Ey>0.04</Ey>
-			<R>0.13</R>
-		</measuring>
-		<measuring>
-			<Ex>0.041</Ex>
-			<Ey>0.041</Ey>
-			<R>0.14</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.1545</Ex>
-			<Ey>0.1545</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15075</Ex>
-			<Ey>0.15075</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15025</Ex>
-			<Ey>0.15025</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15925</Ex>
-			<Ey>0.15925</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15175</Ex>
-			<Ey>0.15175</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1485</Ex>
-			<Ey>0.1485</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15375</Ex>
-			<Ey>0.15375</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15025</Ex>
-			<Ey>0.15025</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15025</Ex>
-			<Ey>0.15025</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.15025</Ex>
-			<Ey>0.15025</Ey>
-			<R>0</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.10875</Ex>
-			<Ey>0.10875</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1145</Ex>
-			<Ey>0.1145</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11525</Ex>
-			<Ey>0.11525</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11325</Ex>
-			<Ey>0.11325</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1105</Ex>
-			<Ey>0.1105</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11425</Ex>
-			<Ey>0.11425</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11275</Ex>
-			<Ey>0.11275</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.111</Ex>
-			<Ey>0.111</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1125</Ex>
-			<Ey>0.1125</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.11375</Ex>
-			<Ey>0.11375</Ey>
-			<R>0</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.02175</Ex>
-			<Ey>0.02175</Ey>
-			<R>0.38</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02</Ex>
-			<Ey>0.02</Ey>
-			<R>0.45</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02425</Ex>
-			<Ey>0.02425</Ey>
-			<R>0.33</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02225</Ex>
-			<Ey>0.02225</Ey>
-			<R>0.36</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02175</Ex>
-			<Ey>0.02175</Ey>
-			<R>0.4</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02275</Ex>
-			<Ey>0.02275</Ey>
-			<R>0.38</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0245</Ex>
-			<Ey>0.0245</Ey>
-			<R>0.33</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0215</Ex>
-			<Ey>0.0215</Ey>
-			<R>0.43</R>
-		</measuring>
-		<measuring>
-			<Ex>0.028</Ex>
-			<Ey>0.028</Ey>
-			<R>0.33</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0245</Ex>
-			<Ey>0.0245</Ey>
-			<R>0.35</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.01075</Ex>
-			<Ey>0.01075</Ey>
-			<R>0.6</R>
-		</measuring>
-		<measuring>
-			<Ex>0.014</Ex>
-			<Ey>0.014</Ey>
-			<R>0.54</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01225</Ex>
-			<Ey>0.01225</Ey>
-			<R>0.58</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01525</Ex>
-			<Ey>0.01525</Ey>
-			<R>0.47</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01525</Ex>
-			<Ey>0.01525</Ey>
-			<R>0.52</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01325</Ex>
-			<Ey>0.01325</Ey>
-			<R>0.62</R>
-		</measuring>
-		<measuring>
-			<Ex>0.012</Ex>
-			<Ey>0.012</Ey>
-			<R>0.58</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01225</Ex>
-			<Ey>0.01225</Ey>
-			<R>0.61</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01175</Ex>
-			<Ey>0.01175</Ey>
-			<R>0.58</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0145</Ex>
-			<Ey>0.0145</Ey>
-			<R>0.55</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.04675</Ex>
-			<Ey>0.04675</Ey>
-			<R>0.07</R>
-		</measuring>
-		<measuring>
-			<Ex>0.046</Ex>
-			<Ey>0.046</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.03925</Ex>
-			<Ey>0.03925</Ey>
-			<R>0.13</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0485</Ex>
-			<Ey>0.0485</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0475</Ex>
-			<Ey>0.0475</Ey>
-			<R>0.06</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0425</Ex>
-			<Ey>0.0425</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04675</Ex>
-			<Ey>0.04675</Ey>
-			<R>0.06</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04675</Ex>
-			<Ey>0.04675</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04425</Ex>
-			<Ey>0.04425</Ey>
-			<R>0.05</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0455</Ex>
-			<Ey>0.0455</Ey>
-			<R>0.06</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.01775</Ex>
-			<Ey>0.01775</Ey>
-			<R>0.51</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0175</Ex>
-			<Ey>0.0175</Ey>
-			<R>0.47</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01875</Ex>
-			<Ey>0.01875</Ey>
-			<R>0.41</R>
-		</measuring>
-		<measuring>
-			<Ex>0.018</Ex>
-			<Ey>0.018</Ey>
-			<R>0.46</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01925</Ex>
-			<Ey>0.01925</Ey>
-			<R>0.42</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0175</Ex>
-			<Ey>0.0175</Ey>
-			<R>0.49</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02075</Ex>
-			<Ey>0.02075</Ey>
-			<R>0.4</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02225</Ex>
-			<Ey>0.02225</Ey>
-			<R>0.33</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01675</Ex>
-			<Ey>0.01675</Ey>
-			<R>0.47</R>
-		</measuring>
-		<measuring>
-			<Ex>0.02125</Ex>
-			<Ey>0.02125</Ey>
-			<R>0.44</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.14425</Ex>
-			<Ey>0.14425</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1405</Ex>
-			<Ey>0.1405</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1355</Ex>
-			<Ey>0.1355</Ey>
 			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.14</Ex>
-			<Ey>0.14</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.13975</Ex>
-			<Ey>0.13975</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1375</Ex>
-			<Ey>0.1375</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.143</Ex>
-			<Ey>0.143</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1385</Ex>
-			<Ey>0.1385</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.14025</Ex>
-			<Ey>0.14025</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.14</Ex>
-			<Ey>0.14</Ey>
-			<R>0</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.09825</Ex>
-			<Ey>0.09825</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.106</Ex>
-			<Ey>0.106</Ey>
-			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10525</Ex>
-			<Ey>0.10525</Ey>
+			<Ex>0.1</Ex>
+			<Ey>0.1</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1005</Ex>
-			<Ey>0.1005</Ey>
+			<Ex>0.10425</Ex>
+			<Ey>0.10425</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -1891,165 +960,36 @@
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10175</Ex>
-			<Ey>0.10175</Ey>
+			<Ex>0.10325</Ex>
+			<Ey>0.10325</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.104</Ex>
-			<Ey>0.104</Ey>
+			<Ex>0.10675</Ex>
+			<Ey>0.10675</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10575</Ex>
-			<Ey>0.10575</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1035</Ex>
-			<Ey>0.1035</Ey>
+			<Ex>0.1095</Ex>
+			<Ey>0.1095</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.0665</Ex>
-			<Ey>0.0665</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07025</Ex>
-			<Ey>0.07025</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06925</Ex>
-			<Ey>0.06925</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06875</Ex>
-			<Ey>0.06875</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.075</Ex>
-			<Ey>0.075</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06825</Ex>
-			<Ey>0.06825</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07</Ex>
-			<Ey>0.07</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06675</Ex>
-			<Ey>0.06675</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06775</Ex>
-			<Ey>0.06775</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0735</Ex>
-			<Ey>0.0735</Ey>
-			<R>0.02</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.047</Ex>
-			<Ey>0.047</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0465</Ex>
-			<Ey>0.0465</Ey>
-			<R>0.11</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0485</Ex>
-			<Ey>0.0485</Ey>
-			<R>0.12</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0445</Ex>
-			<Ey>0.0445</Ey>
-			<R>0.13</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04825</Ex>
-			<Ey>0.04825</Ey>
-			<R>0.14</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04975</Ex>
-			<Ey>0.04975</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04825</Ex>
-			<Ey>0.04825</Ey>
-			<R>0.08</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0535</Ex>
-			<Ey>0.0535</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04975</Ex>
-			<Ey>0.04975</Ey>
-			<R>0.09</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0475</Ex>
-			<Ey>0.0475</Ey>
-			<R>0.13</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.072</Ex>
-			<Ey>0.072</Ey>
-			<R>0.01</R>
-		</measuring>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
 			<Ex>0.0765</Ex>
 			<Ey>0.0765</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07525</Ex>
-			<Ey>0.07525</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.07125</Ex>
-			<Ey>0.07125</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07225</Ex>
-			<Ey>0.07225</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.07425</Ex>
-			<Ey>0.07425</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.075</Ex>
-			<Ey>0.075</Ey>
+			<Ex>0.0785</Ex>
+			<Ey>0.0785</Ey>
 			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07175</Ex>
+			<Ey>0.07175</Ey>
+			<R>0</R>
 		</measuring>
 		<measuring>
 			<Ex>0.0745</Ex>
@@ -2057,36 +997,145 @@
 			<R>0.02</R>
 		</measuring>
 		<measuring>
-			<Ex>0.07275</Ex>
-			<Ey>0.07275</Ey>
-			<R>0.02</R>
+			<Ex>0.07875</Ex>
+			<Ey>0.07875</Ey>
+			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.076</Ex>
-			<Ey>0.076</Ey>
-			<R>0.02</R>
+			<Ex>0.0805</Ex>
+			<Ey>0.0805</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07675</Ex>
+			<Ey>0.07675</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0795</Ex>
+			<Ey>0.0795</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07675</Ex>
+			<Ey>0.07675</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07975</Ex>
+			<Ey>0.07975</Ey>
+			<R>0</R>
 		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.04175</Ex>
-			<Ey>0.04175</Ey>
+			<Ex>0.056</Ex>
+			<Ey>0.056</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05425</Ex>
+			<Ey>0.05425</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.052</Ex>
+			<Ey>0.052</Ey>
+			<R>0.09</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05125</Ex>
+			<Ey>0.05125</Ey>
+			<R>0.1</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05575</Ex>
+			<Ey>0.05575</Ey>
+			<R>0.08</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05625</Ex>
+			<Ey>0.05625</Ey>
+			<R>0.09</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05275</Ex>
+			<Ey>0.05275</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05325</Ex>
+			<Ey>0.05325</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.053</Ex>
+			<Ey>0.053</Ey>
+			<R>0.07</R>
+		</measuring>
+		<measuring>
+			<Ex>0.054</Ex>
+			<Ey>0.054</Ey>
+			<R>0.06</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.08</Ex>
+			<Ey>0.08</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0815</Ex>
+			<Ey>0.0815</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.083</Ex>
+			<Ey>0.083</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0835</Ex>
+			<Ey>0.0835</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.08475</Ex>
+			<Ey>0.08475</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07925</Ex>
+			<Ey>0.07925</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.08275</Ex>
+			<Ey>0.08275</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.08275</Ex>
+			<Ey>0.08275</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0845</Ex>
+			<Ey>0.0845</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0785</Ex>
+			<Ey>0.0785</Ey>
+			<R>0.03</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.04725</Ex>
+			<Ey>0.04725</Ey>
 			<R>0.11</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04475</Ex>
-			<Ey>0.04475</Ey>
-			<R>0.11</R>
-		</measuring>
-		<measuring>
-			<Ex>0.03925</Ex>
-			<Ey>0.03925</Ey>
-			<R>0.14</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0405</Ex>
-			<Ey>0.0405</Ey>
-			<R>0.15</R>
 		</measuring>
 		<measuring>
 			<Ex>0.045</Ex>
@@ -2094,65 +1143,75 @@
 			<R>0.1</R>
 		</measuring>
 		<measuring>
-			<Ex>0.04025</Ex>
-			<Ey>0.04025</Ey>
-			<R>0.14</R>
+			<Ex>0.0455</Ex>
+			<Ey>0.0455</Ey>
+			<R>0.05</R>
 		</measuring>
 		<measuring>
-			<Ex>0.038</Ex>
-			<Ey>0.038</Ey>
-			<R>0.11</R>
+			<Ex>0.0495</Ex>
+			<Ey>0.0495</Ey>
+			<R>0.07</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0405</Ex>
-			<Ey>0.0405</Ey>
-			<R>0.12</R>
+			<Ex>0.047</Ex>
+			<Ey>0.047</Ey>
+			<R>0.04</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0415</Ex>
-			<Ey>0.0415</Ey>
+			<Ex>0.04925</Ex>
+			<Ey>0.04925</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.049</Ex>
+			<Ey>0.049</Ey>
+			<R>0.07</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04675</Ex>
+			<Ey>0.04675</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.047</Ex>
+			<Ey>0.047</Ey>
 			<R>0.09</R>
 		</measuring>
 		<measuring>
-			<Ex>0.04175</Ex>
-			<Ey>0.04175</Ey>
-			<R>0.08</R>
+			<Ex>0.04825</Ex>
+			<Ey>0.04825</Ey>
+			<R>0.1</R>
 		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.1475</Ex>
-			<Ey>0.1475</Ey>
+			<Ex>0.15425</Ex>
+			<Ey>0.15425</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.151</Ex>
-			<Ey>0.151</Ey>
+			<Ex>0.156</Ex>
+			<Ey>0.156</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.15225</Ex>
-			<Ey>0.15225</Ey>
+			<Ex>0.15425</Ex>
+			<Ey>0.15425</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.15125</Ex>
-			<Ey>0.15125</Ey>
+			<Ex>0.15775</Ex>
+			<Ey>0.15775</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.14475</Ex>
-			<Ey>0.14475</Ey>
+			<Ex>0.1535</Ex>
+			<Ey>0.1535</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.14825</Ex>
-			<Ey>0.14825</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1545</Ex>
-			<Ey>0.1545</Ey>
+			<Ex>0.1555</Ex>
+			<Ey>0.1555</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -2161,35 +1220,50 @@
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.148</Ex>
-			<Ey>0.148</Ey>
+			<Ex>0.15075</Ex>
+			<Ey>0.15075</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.149</Ex>
-			<Ey>0.149</Ey>
+			<Ex>0.15725</Ex>
+			<Ey>0.15725</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15725</Ex>
+			<Ey>0.15725</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.1075</Ex>
-			<Ey>0.1075</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1085</Ex>
-			<Ey>0.1085</Ey>
+			<Ex>0.10975</Ex>
+			<Ey>0.10975</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1065</Ex>
-			<Ey>0.1065</Ey>
+			<Ex>0.10975</Ex>
+			<Ey>0.10975</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10925</Ex>
-			<Ey>0.10925</Ey>
+			<Ex>0.1145</Ex>
+			<Ey>0.1145</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11275</Ex>
+			<Ey>0.11275</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10975</Ex>
+			<Ey>0.10975</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1125</Ex>
+			<Ey>0.1125</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -2198,278 +1272,550 @@
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1085</Ex>
-			<Ey>0.1085</Ey>
+			<Ex>0.10825</Ex>
+			<Ey>0.10825</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.11025</Ex>
-			<Ey>0.11025</Ey>
+			<Ex>0.11275</Ex>
+			<Ey>0.11275</Ey>
 			<R>0</R>
 		</measuring>
+		<measuring>
+			<Ex>0.1145</Ex>
+			<Ey>0.1145</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.06225</Ex>
+			<Ey>0.06225</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06175</Ex>
+			<Ey>0.06175</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05575</Ex>
+			<Ey>0.05575</Ey>
+			<R>0.09</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06225</Ex>
+			<Ey>0.06225</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06175</Ex>
+			<Ey>0.06175</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0605</Ex>
+			<Ey>0.0605</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.064</Ex>
+			<Ey>0.064</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05875</Ex>
+			<Ey>0.05875</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.056</Ex>
+			<Ey>0.056</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0615</Ex>
+			<Ey>0.0615</Ey>
+			<R>0.02</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.042</Ex>
+			<Ey>0.042</Ey>
+			<R>0.18</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0435</Ex>
+			<Ey>0.0435</Ey>
+			<R>0.15</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0405</Ex>
+			<Ey>0.0405</Ey>
+			<R>0.14</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0415</Ex>
+			<Ey>0.0415</Ey>
+			<R>0.11</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0405</Ex>
+			<Ey>0.0405</Ey>
+			<R>0.23</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0395</Ex>
+			<Ey>0.0395</Ey>
+			<R>0.15</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04525</Ex>
+			<Ey>0.04525</Ey>
+			<R>0.11</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03875</Ex>
+			<Ey>0.03875</Ey>
+			<R>0.17</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03925</Ex>
+			<Ey>0.03925</Ey>
+			<R>0.17</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04575</Ex>
+			<Ey>0.04575</Ey>
+			<R>0.07</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.07875</Ex>
+			<Ey>0.07875</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07825</Ex>
+			<Ey>0.07825</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.071</Ex>
+			<Ey>0.071</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07725</Ex>
+			<Ey>0.07725</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07675</Ex>
+			<Ey>0.07675</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07225</Ex>
+			<Ey>0.07225</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06875</Ex>
+			<Ey>0.06875</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0765</Ex>
+			<Ey>0.0765</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0735</Ex>
+			<Ey>0.0735</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.076</Ex>
+			<Ey>0.076</Ey>
+			<R>0.01</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.0395</Ex>
+			<Ey>0.0395</Ey>
+			<R>0.11</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04275</Ex>
+			<Ey>0.04275</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04075</Ex>
+			<Ey>0.04075</Ey>
+			<R>0.09</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03725</Ex>
+			<Ey>0.03725</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0445</Ex>
+			<Ey>0.0445</Ey>
+			<R>0.11</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03975</Ex>
+			<Ey>0.03975</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04225</Ex>
+			<Ey>0.04225</Ey>
+			<R>0.12</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04425</Ex>
+			<Ey>0.04425</Ey>
+			<R>0.08</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04725</Ex>
+			<Ey>0.04725</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04125</Ex>
+			<Ey>0.04125</Ey>
+			<R>0.19</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.15275</Ex>
+			<Ey>0.15275</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1545</Ex>
+			<Ey>0.1545</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15375</Ex>
+			<Ey>0.15375</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.14675</Ex>
+			<Ey>0.14675</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15375</Ex>
+			<Ey>0.15375</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.153</Ex>
+			<Ey>0.153</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.14975</Ex>
+			<Ey>0.14975</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1495</Ex>
+			<Ey>0.1495</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15075</Ex>
+			<Ey>0.15075</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.157</Ex>
+			<Ey>0.157</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
 			<Ex>0.1115</Ex>
 			<Ey>0.1115</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.11075</Ex>
-			<Ey>0.11075</Ey>
+			<Ex>0.10925</Ex>
+			<Ey>0.10925</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10775</Ex>
-			<Ey>0.10775</Ey>
+			<Ex>0.1125</Ex>
+			<Ey>0.1125</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11575</Ex>
+			<Ey>0.11575</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10925</Ex>
+			<Ey>0.10925</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.118</Ex>
+			<Ey>0.118</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11625</Ex>
+			<Ey>0.11625</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11325</Ex>
+			<Ey>0.11325</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11275</Ex>
+			<Ey>0.11275</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.109</Ex>
+			<Ey>0.109</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.0525</Ex>
-			<Ey>0.0525</Ey>
-			<R>0.04</R>
+			<Ex>0.01775</Ex>
+			<Ey>0.01775</Ey>
+			<R>0.48</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0545</Ex>
-			<Ey>0.0545</Ey>
+			<Ex>0.021</Ex>
+			<Ey>0.021</Ey>
+			<R>0.38</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0215</Ex>
+			<Ey>0.0215</Ey>
+			<R>0.41</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01775</Ex>
+			<Ey>0.01775</Ey>
+			<R>0.46</R>
+		</measuring>
+		<measuring>
+			<Ex>0.02175</Ex>
+			<Ey>0.02175</Ey>
+			<R>0.35</R>
+		</measuring>
+		<measuring>
+			<Ex>0.02025</Ex>
+			<Ey>0.02025</Ey>
+			<R>0.41</R>
+		</measuring>
+		<measuring>
+			<Ex>0.018</Ex>
+			<Ey>0.018</Ey>
+			<R>0.46</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01575</Ex>
+			<Ey>0.01575</Ey>
+			<R>0.52</R>
+		</measuring>
+		<measuring>
+			<Ex>0.02175</Ex>
+			<Ey>0.02175</Ey>
+			<R>0.41</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0225</Ex>
+			<Ey>0.0225</Ey>
+			<R>0.39</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.01325</Ex>
+			<Ey>0.01325</Ey>
+			<R>0.56</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0135</Ex>
+			<Ey>0.0135</Ey>
+			<R>0.58</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01325</Ex>
+			<Ey>0.01325</Ey>
+			<R>0.58</R>
+		</measuring>
+		<measuring>
+			<Ex>0.016</Ex>
+			<Ey>0.016</Ey>
+			<R>0.49</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0105</Ex>
+			<Ey>0.0105</Ey>
+			<R>0.65</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01225</Ex>
+			<Ey>0.01225</Ey>
+			<R>0.6</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01025</Ex>
+			<Ey>0.01025</Ey>
+			<R>0.65</R>
+		</measuring>
+		<measuring>
+			<Ex>0.012</Ex>
+			<Ey>0.012</Ey>
+			<R>0.57</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01275</Ex>
+			<Ey>0.01275</Ey>
+			<R>0.56</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01325</Ex>
+			<Ey>0.01325</Ey>
+			<R>0.56</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.04425</Ex>
+			<Ey>0.04425</Ey>
+			<R>0.07</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04875</Ex>
+			<Ey>0.04875</Ey>
 			<R>0.1</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0485</Ex>
-			<Ey>0.0485</Ey>
-			<R>0.07</R>
+			<Ex>0.04525</Ex>
+			<Ey>0.04525</Ey>
+			<R>0.1</R>
 		</measuring>
 		<measuring>
-			<Ex>0.05175</Ex>
-			<Ey>0.05175</Ey>
+			<Ex>0.04625</Ex>
+			<Ey>0.04625</Ey>
 			<R>0.09</R>
 		</measuring>
 		<measuring>
-			<Ex>0.061</Ex>
-			<Ey>0.061</Ey>
-			<R>0.06</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0555</Ex>
-			<Ey>0.0555</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.05525</Ex>
-			<Ey>0.05525</Ey>
-			<R>0.04</R>
-		</measuring>
-		<measuring>
-			<Ex>0.055</Ex>
-			<Ey>0.055</Ey>
+			<Ex>0.0445</Ex>
+			<Ey>0.0445</Ey>
 			<R>0.07</R>
 		</measuring>
 		<measuring>
-			<Ex>0.05225</Ex>
-			<Ey>0.05225</Ey>
-			<R>0.06</R>
+			<Ex>0.047</Ex>
+			<Ey>0.047</Ey>
+			<R>0.08</R>
 		</measuring>
 		<measuring>
-			<Ex>0.05075</Ex>
-			<Ey>0.05075</Ey>
-			<R>0.12</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
-		<measuring>
-			<Ex>0.03425</Ex>
-			<Ey>0.03425</Ey>
-			<R>0.22</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0395</Ex>
-			<Ey>0.0395</Ey>
-			<R>0.19</R>
-		</measuring>
-		<measuring>
-			<Ex>0.036</Ex>
-			<Ey>0.036</Ey>
-			<R>0.16</R>
-		</measuring>
-		<measuring>
-			<Ex>0.035</Ex>
-			<Ey>0.035</Ey>
-			<R>0.18</R>
-		</measuring>
-		<measuring>
-			<Ex>0.04025</Ex>
-			<Ey>0.04025</Ey>
-			<R>0.15</R>
-		</measuring>
-		<measuring>
-			<Ex>0.03725</Ex>
-			<Ey>0.03725</Ey>
-			<R>0.19</R>
-		</measuring>
-		<measuring>
-			<Ex>0.038</Ex>
-			<Ey>0.038</Ey>
-			<R>0.15</R>
-		</measuring>
-		<measuring>
-			<Ex>0.03675</Ex>
-			<Ey>0.03675</Ey>
-			<R>0.23</R>
-		</measuring>
-		<measuring>
-			<Ex>0.032</Ex>
-			<Ey>0.032</Ey>
-			<R>0.23</R>
-		</measuring>
-		<measuring>
-			<Ex>0.03875</Ex>
-			<Ey>0.03875</Ey>
-			<R>0.12</R>
-		</measuring>
-	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
-		<measuring>
-			<Ex>0.06375</Ex>
-			<Ey>0.06375</Ey>
-			<R>0.03</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0625</Ex>
-			<Ey>0.0625</Ey>
+			<Ex>0.04525</Ex>
+			<Ey>0.04525</Ey>
 			<R>0.05</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0635</Ex>
-			<Ey>0.0635</Ey>
-			<R>0.01</R>
+			<Ex>0.04275</Ex>
+			<Ey>0.04275</Ey>
+			<R>0.12</R>
 		</measuring>
 		<measuring>
-			<Ex>0.06575</Ex>
-			<Ey>0.06575</Ey>
-			<R>0.01</R>
+			<Ex>0.05125</Ex>
+			<Ey>0.05125</Ey>
+			<R>0.08</R>
 		</measuring>
 		<measuring>
-			<Ex>0.068</Ex>
-			<Ey>0.068</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.068</Ex>
-			<Ey>0.068</Ey>
-			<R>0.02</R>
-		</measuring>
-		<measuring>
-			<Ex>0.063</Ex>
-			<Ey>0.063</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06225</Ex>
-			<Ey>0.06225</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.06475</Ex>
-			<Ey>0.06475</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0625</Ex>
-			<Ey>0.0625</Ey>
-			<R>0.02</R>
+			<Ex>0.0425</Ex>
+			<Ey>0.0425</Ey>
+			<R>0.09</R>
 		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.03375</Ex>
-			<Ey>0.03375</Ey>
-			<R>0.21</R>
+			<Ex>0.01875</Ex>
+			<Ey>0.01875</Ey>
+			<R>0.46</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03625</Ex>
-			<Ey>0.03625</Ey>
-			<R>0.13</R>
+			<Ex>0.021</Ex>
+			<Ey>0.021</Ey>
+			<R>0.37</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0355</Ex>
-			<Ey>0.0355</Ey>
-			<R>0.2</R>
+			<Ex>0.01825</Ex>
+			<Ey>0.01825</Ey>
+			<R>0.4</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03325</Ex>
-			<Ey>0.03325</Ey>
-			<R>0.17</R>
+			<Ex>0.017</Ex>
+			<Ey>0.017</Ey>
+			<R>0.51</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03875</Ex>
-			<Ey>0.03875</Ey>
-			<R>0.14</R>
+			<Ex>0.0195</Ex>
+			<Ey>0.0195</Ey>
+			<R>0.45</R>
 		</measuring>
 		<measuring>
-			<Ex>0.032</Ex>
-			<Ey>0.032</Ey>
-			<R>0.17</R>
+			<Ex>0.018</Ex>
+			<Ey>0.018</Ey>
+			<R>0.4</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03775</Ex>
-			<Ey>0.03775</Ey>
-			<R>0.19</R>
+			<Ex>0.021</Ex>
+			<Ey>0.021</Ey>
+			<R>0.38</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03575</Ex>
-			<Ey>0.03575</Ey>
-			<R>0.17</R>
+			<Ex>0.017</Ex>
+			<Ey>0.017</Ey>
+			<R>0.47</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03575</Ex>
-			<Ey>0.03575</Ey>
-			<R>0.18</R>
+			<Ex>0.02</Ex>
+			<Ey>0.02</Ey>
+			<R>0.46</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0385</Ex>
-			<Ey>0.0385</Ey>
-			<R>0.14</R>
+			<Ex>0.0205</Ex>
+			<Ey>0.0205</Ey>
+			<R>0.37</R>
 		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.1485</Ex>
-			<Ey>0.1485</Ey>
+			<Ex>0.14525</Ex>
+			<Ey>0.14525</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.148</Ex>
-			<Ey>0.148</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.144</Ex>
-			<Ey>0.144</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1445</Ex>
-			<Ey>0.1445</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.14075</Ex>
-			<Ey>0.14075</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.14275</Ex>
-			<Ey>0.14275</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.14575</Ex>
-			<Ey>0.14575</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.14825</Ex>
-			<Ey>0.14825</Ey>
+			<Ex>0.135</Ex>
+			<Ey>0.135</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -2478,45 +1824,704 @@
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.14075</Ex>
-			<Ey>0.14075</Ey>
+			<Ex>0.137</Ex>
+			<Ey>0.137</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.13475</Ex>
+			<Ey>0.13475</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.13275</Ex>
+			<Ey>0.13275</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.13875</Ex>
+			<Ey>0.13875</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.14175</Ex>
+			<Ey>0.14175</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1415</Ex>
+			<Ey>0.1415</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.13925</Ex>
+			<Ey>0.13925</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
-	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+	<experiment parameters_of_algorithm_1="Тип селекции = Ранговая селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.108</Ex>
-			<Ey>0.108</Ey>
+			<Ex>0.10075</Ex>
+			<Ey>0.10075</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1075</Ex>
-			<Ey>0.1075</Ey>
+			<Ex>0.1055</Ex>
+			<Ey>0.1055</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.102</Ex>
+			<Ey>0.102</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10125</Ex>
+			<Ey>0.10125</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10025</Ex>
+			<Ey>0.10025</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.101</Ex>
+			<Ey>0.101</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.09875</Ex>
+			<Ey>0.09875</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1025</Ex>
+			<Ey>0.1025</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10125</Ex>
+			<Ey>0.10125</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.105</Ex>
+			<Ey>0.105</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.064</Ex>
+			<Ey>0.064</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0715</Ex>
+			<Ey>0.0715</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06775</Ex>
+			<Ey>0.06775</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.072</Ex>
+			<Ey>0.072</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0645</Ex>
+			<Ey>0.0645</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07475</Ex>
+			<Ey>0.07475</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07075</Ex>
+			<Ey>0.07075</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06975</Ex>
+			<Ey>0.06975</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06675</Ex>
+			<Ey>0.06675</Ey>
+			<R>0.03</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07025</Ex>
+			<Ey>0.07025</Ey>
+			<R>0.01</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.043</Ex>
+			<Ey>0.043</Ey>
+			<R>0.11</R>
+		</measuring>
+		<measuring>
+			<Ex>0.045</Ex>
+			<Ey>0.045</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04925</Ex>
+			<Ey>0.04925</Ey>
+			<R>0.09</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04625</Ex>
+			<Ey>0.04625</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0445</Ex>
+			<Ey>0.0445</Ey>
+			<R>0.15</R>
+		</measuring>
+		<measuring>
+			<Ex>0.045</Ex>
+			<Ey>0.045</Ey>
+			<R>0.11</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04675</Ex>
+			<Ey>0.04675</Ey>
+			<R>0.12</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04975</Ex>
+			<Ey>0.04975</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04325</Ex>
+			<Ey>0.04325</Ey>
+			<R>0.09</R>
+		</measuring>
+		<measuring>
+			<Ex>0.047</Ex>
+			<Ey>0.047</Ey>
+			<R>0.11</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.07325</Ex>
+			<Ey>0.07325</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07425</Ex>
+			<Ey>0.07425</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07325</Ex>
+			<Ey>0.07325</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07075</Ex>
+			<Ey>0.07075</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07075</Ex>
+			<Ey>0.07075</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07525</Ex>
+			<Ey>0.07525</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07375</Ex>
+			<Ey>0.07375</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0755</Ex>
+			<Ey>0.0755</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0755</Ex>
+			<Ey>0.0755</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.075</Ex>
+			<Ey>0.075</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.0455</Ex>
+			<Ey>0.0455</Ey>
+			<R>0.11</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04325</Ex>
+			<Ey>0.04325</Ey>
+			<R>0.12</R>
+		</measuring>
+		<measuring>
+			<Ex>0.041</Ex>
+			<Ey>0.041</Ey>
+			<R>0.15</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03825</Ex>
+			<Ey>0.03825</Ey>
+			<R>0.16</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04275</Ex>
+			<Ey>0.04275</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04075</Ex>
+			<Ey>0.04075</Ey>
+			<R>0.14</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0415</Ex>
+			<Ey>0.0415</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04425</Ex>
+			<Ey>0.04425</Ey>
+			<R>0.09</R>
+		</measuring>
+		<measuring>
+			<Ex>0.043</Ex>
+			<Ey>0.043</Ey>
+			<R>0.13</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04125</Ex>
+			<Ey>0.04125</Ey>
+			<R>0.09</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.143</Ex>
+			<Ey>0.143</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.147</Ex>
+			<Ey>0.147</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15</Ex>
+			<Ey>0.15</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1485</Ex>
+			<Ey>0.1485</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.146</Ex>
+			<Ey>0.146</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.151</Ex>
+			<Ey>0.151</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1465</Ex>
+			<Ey>0.1465</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.15</Ex>
+			<Ey>0.15</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.145</Ex>
+			<Ey>0.145</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.14525</Ex>
+			<Ey>0.14525</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Одноточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.1045</Ex>
+			<Ey>0.1045</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
 			<Ex>0.11</Ex>
 			<Ey>0.11</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.109</Ex>
+			<Ey>0.109</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10825</Ex>
+			<Ey>0.10825</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10775</Ex>
+			<Ey>0.10775</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10725</Ex>
+			<Ey>0.10725</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10975</Ex>
+			<Ey>0.10975</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11</Ex>
+			<Ey>0.11</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.11325</Ex>
+			<Ey>0.11325</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1095</Ex>
+			<Ey>0.1095</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.049</Ex>
+			<Ey>0.049</Ey>
+			<R>0.07</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05275</Ex>
+			<Ey>0.05275</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.052</Ex>
+			<Ey>0.052</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.04975</Ex>
+			<Ey>0.04975</Ey>
+			<R>0.07</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0585</Ex>
+			<Ey>0.0585</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05175</Ex>
+			<Ey>0.05175</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05325</Ex>
+			<Ey>0.05325</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05275</Ex>
+			<Ey>0.05275</Ey>
+			<R>0.05</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0515</Ex>
+			<Ey>0.0515</Ey>
+			<R>0.06</R>
+		</measuring>
+		<measuring>
+			<Ex>0.05525</Ex>
+			<Ey>0.05525</Ey>
+			<R>0.06</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.03675</Ex>
+			<Ey>0.03675</Ey>
+			<R>0.2</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03675</Ex>
+			<Ey>0.03675</Ey>
+			<R>0.16</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03825</Ex>
+			<Ey>0.03825</Ey>
+			<R>0.2</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03975</Ex>
+			<Ey>0.03975</Ey>
+			<R>0.2</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03325</Ex>
+			<Ey>0.03325</Ey>
+			<R>0.24</R>
+		</measuring>
+		<measuring>
+			<Ex>0.033</Ex>
+			<Ey>0.033</Ey>
+			<R>0.2</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03425</Ex>
+			<Ey>0.03425</Ey>
+			<R>0.19</R>
+		</measuring>
+		<measuring>
+			<Ex>0.039</Ex>
+			<Ey>0.039</Ey>
+			<R>0.17</R>
+		</measuring>
+		<measuring>
+			<Ex>0.038</Ex>
+			<Ey>0.038</Ey>
+			<R>0.16</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0385</Ex>
+			<Ey>0.0385</Ey>
+			<R>0.17</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.0635</Ex>
+			<Ey>0.0635</Ey>
 			<R>0.01</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1065</Ex>
-			<Ey>0.1065</Ey>
+			<Ex>0.06075</Ex>
+			<Ey>0.06075</Ey>
+			<R>0.04</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0675</Ex>
+			<Ey>0.0675</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06</Ex>
+			<Ey>0.06</Ey>
+			<R>0.02</R>
+		</measuring>
+		<measuring>
+			<Ex>0.07225</Ex>
+			<Ey>0.07225</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06475</Ex>
+			<Ey>0.06475</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06225</Ex>
+			<Ey>0.06225</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06575</Ex>
+			<Ey>0.06575</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1065</Ex>
-			<Ey>0.1065</Ey>
+			<Ex>0.0655</Ex>
+			<Ey>0.0655</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.06625</Ex>
+			<Ey>0.06625</Ey>
+			<R>0.03</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.0385</Ex>
+			<Ey>0.0385</Ey>
+			<R>0.14</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0335</Ex>
+			<Ey>0.0335</Ey>
+			<R>0.17</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03275</Ex>
+			<Ey>0.03275</Ey>
+			<R>0.22</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03525</Ex>
+			<Ey>0.03525</Ey>
+			<R>0.16</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03825</Ex>
+			<Ey>0.03825</Ey>
+			<R>0.14</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03275</Ex>
+			<Ey>0.03275</Ey>
+			<R>0.2</R>
+		</measuring>
+		<measuring>
+			<Ex>0.03375</Ex>
+			<Ey>0.03375</Ey>
+			<R>0.16</R>
+		</measuring>
+		<measuring>
+			<Ex>0.034</Ex>
+			<Ey>0.034</Ey>
+			<R>0.21</R>
+		</measuring>
+		<measuring>
+			<Ex>0.032</Ex>
+			<Ey>0.032</Ey>
+			<R>0.23</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0395</Ex>
+			<Ey>0.0395</Ey>
+			<R>0.14</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
+		<measuring>
+			<Ex>0.14875</Ex>
+			<Ey>0.14875</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.106</Ex>
-			<Ey>0.106</Ey>
+			<Ex>0.14125</Ex>
+			<Ey>0.14125</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.10625</Ex>
-			<Ey>0.10625</Ey>
+			<Ex>0.14425</Ex>
+			<Ey>0.14425</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.14675</Ex>
+			<Ey>0.14675</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.14225</Ex>
+			<Ey>0.14225</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1465</Ex>
+			<Ey>0.1465</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1455</Ex>
+			<Ey>0.1455</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.14125</Ex>
+			<Ey>0.14125</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.14575</Ex>
+			<Ey>0.14575</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.14675</Ex>
+			<Ey>0.14675</Ey>
+			<R>0</R>
+		</measuring>
+	</experiment>
+	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Двуточечное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
+		<measuring>
+			<Ex>0.10475</Ex>
+			<Ey>0.10475</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1025</Ex>
+			<Ey>0.1025</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1095</Ex>
+			<Ey>0.1095</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1045</Ex>
+			<Ey>0.1045</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10825</Ex>
+			<Ey>0.10825</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1085</Ex>
+			<Ey>0.1085</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10525</Ex>
+			<Ey>0.10525</Ey>
+			<R>0.01</R>
+		</measuring>
+		<measuring>
+			<Ex>0.10525</Ex>
+			<Ey>0.10525</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -2525,26 +2530,46 @@
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.1075</Ex>
-			<Ey>0.1075</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.101</Ex>
-			<Ey>0.101</Ey>
+			<Ex>0.10725</Ex>
+			<Ey>0.10725</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.02</Ex>
-			<Ey>0.02</Ey>
-			<R>0.42</R>
+			<Ex>0.0165</Ex>
+			<Ey>0.0165</Ey>
+			<R>0.5</R>
 		</measuring>
 		<measuring>
 			<Ex>0.016</Ex>
 			<Ey>0.016</Ey>
+			<R>0.49</R>
+		</measuring>
+		<measuring>
+			<Ex>0.024</Ex>
+			<Ey>0.024</Ey>
+			<R>0.34</R>
+		</measuring>
+		<measuring>
+			<Ex>0.016</Ex>
+			<Ey>0.016</Ey>
+			<R>0.52</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01425</Ex>
+			<Ey>0.01425</Ey>
+			<R>0.51</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01425</Ex>
+			<Ey>0.01425</Ey>
 			<R>0.55</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0145</Ex>
+			<Ey>0.0145</Ey>
+			<R>0.56</R>
 		</measuring>
 		<measuring>
 			<Ex>0.01775</Ex>
@@ -2552,51 +2577,56 @@
 			<R>0.48</R>
 		</measuring>
 		<measuring>
-			<Ex>0.018</Ex>
-			<Ey>0.018</Ey>
-			<R>0.51</R>
+			<Ex>0.01275</Ex>
+			<Ey>0.01275</Ey>
+			<R>0.61</R>
 		</measuring>
 		<measuring>
-			<Ex>0.018</Ex>
-			<Ey>0.018</Ey>
-			<R>0.55</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01525</Ex>
-			<Ey>0.01525</Ey>
-			<R>0.47</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0145</Ex>
-			<Ey>0.0145</Ey>
-			<R>0.54</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01925</Ex>
-			<Ey>0.01925</Ey>
-			<R>0.4</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0115</Ex>
-			<Ey>0.0115</Ey>
-			<R>0.62</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01225</Ex>
-			<Ey>0.01225</Ey>
-			<R>0.63</R>
+			<Ex>0.01375</Ex>
+			<Ey>0.01375</Ey>
+			<R>0.56</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Слабая мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.01025</Ex>
-			<Ey>0.01025</Ey>
-			<R>0.64</R>
+			<Ex>0.013</Ex>
+			<Ey>0.013</Ey>
+			<R>0.57</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01225</Ex>
+			<Ey>0.01225</Ey>
+			<R>0.58</R>
+		</measuring>
+		<measuring>
+			<Ex>0.012</Ex>
+			<Ey>0.012</Ey>
+			<R>0.58</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0075</Ex>
+			<Ey>0.0075</Ey>
+			<R>0.75</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0085</Ex>
+			<Ey>0.0085</Ey>
+			<R>0.7</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01175</Ex>
+			<Ey>0.01175</Ey>
+			<R>0.62</R>
 		</measuring>
 		<measuring>
 			<Ex>0.011</Ex>
 			<Ey>0.011</Ey>
-			<R>0.62</R>
+			<R>0.65</R>
+		</measuring>
+		<measuring>
+			<Ex>0.00925</Ex>
+			<Ey>0.00925</Ey>
+			<R>0.66</R>
 		</measuring>
 		<measuring>
 			<Ex>0.00975</Ex>
@@ -2604,184 +2634,119 @@
 			<R>0.68</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0125</Ex>
-			<Ey>0.0125</Ey>
-			<R>0.57</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0135</Ex>
-			<Ey>0.0135</Ey>
-			<R>0.57</R>
-		</measuring>
-		<measuring>
-			<Ex>0.011</Ex>
-			<Ey>0.011</Ey>
-			<R>0.63</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01125</Ex>
-			<Ey>0.01125</Ey>
-			<R>0.62</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01375</Ex>
-			<Ey>0.01375</Ey>
-			<R>0.56</R>
-		</measuring>
-		<measuring>
-			<Ex>0.013</Ex>
-			<Ey>0.013</Ey>
-			<R>0.6</R>
-		</measuring>
-		<measuring>
-			<Ex>0.011</Ex>
-			<Ey>0.011</Ey>
-			<R>0.61</R>
+			<Ex>0.00925</Ex>
+			<Ey>0.00925</Ey>
+			<R>0.66</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.035</Ex>
-			<Ey>0.035</Ey>
-			<R>0.12</R>
+			<Ex>0.03475</Ex>
+			<Ey>0.03475</Ey>
+			<R>0.18</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03175</Ex>
-			<Ey>0.03175</Ey>
-			<R>0.21</R>
+			<Ex>0.0365</Ex>
+			<Ey>0.0365</Ey>
+			<R>0.16</R>
 		</measuring>
 		<measuring>
-			<Ex>0.036</Ex>
-			<Ey>0.036</Ey>
+			<Ex>0.03475</Ex>
+			<Ey>0.03475</Ey>
+			<R>0.16</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0335</Ex>
+			<Ey>0.0335</Ey>
 			<R>0.14</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03875</Ex>
-			<Ey>0.03875</Ey>
-			<R>0.14</R>
+			<Ex>0.0355</Ex>
+			<Ey>0.0355</Ey>
+			<R>0.13</R>
 		</measuring>
 		<measuring>
-			<Ex>0.038</Ex>
-			<Ey>0.038</Ey>
+			<Ex>0.03475</Ex>
+			<Ey>0.03475</Ey>
 			<R>0.15</R>
-		</measuring>
-		<measuring>
-			<Ex>0.032</Ex>
-			<Ey>0.032</Ey>
-			<R>0.21</R>
 		</measuring>
 		<measuring>
 			<Ex>0.03525</Ex>
 			<Ey>0.03525</Ey>
-			<R>0.11</R>
+			<R>0.18</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03675</Ex>
-			<Ey>0.03675</Ey>
-			<R>0.16</R>
+			<Ex>0.0335</Ex>
+			<Ey>0.0335</Ey>
+			<R>0.18</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03775</Ex>
-			<Ey>0.03775</Ey>
-			<R>0.14</R>
+			<Ex>0.03075</Ex>
+			<Ey>0.03075</Ey>
+			<R>0.18</R>
 		</measuring>
 		<measuring>
-			<Ex>0.03275</Ex>
-			<Ey>0.03275</Ey>
-			<R>0.17</R>
+			<Ex>0.03425</Ex>
+			<Ey>0.03425</Ey>
+			<R>0.22</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Средняя мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.01675</Ex>
-			<Ey>0.01675</Ey>
-			<R>0.46</R>
+			<Ex>0.015</Ex>
+			<Ey>0.015</Ey>
+			<R>0.48</R>
 		</measuring>
 		<measuring>
-			<Ex>0.01375</Ex>
-			<Ey>0.01375</Ey>
-			<R>0.56</R>
-		</measuring>
-		<measuring>
-			<Ex>0.0155</Ex>
-			<Ey>0.0155</Ey>
-			<R>0.52</R>
-		</measuring>
-		<measuring>
-			<Ex>0.01175</Ex>
-			<Ey>0.01175</Ey>
-			<R>0.6</R>
+			<Ex>0.01625</Ex>
+			<Ey>0.01625</Ey>
+			<R>0.47</R>
 		</measuring>
 		<measuring>
 			<Ex>0.0115</Ex>
 			<Ey>0.0115</Ey>
-			<R>0.66</R>
+			<R>0.57</R>
 		</measuring>
 		<measuring>
-			<Ex>0.01375</Ex>
-			<Ey>0.01375</Ey>
-			<R>0.59</R>
+			<Ex>0.013</Ex>
+			<Ey>0.013</Ey>
+			<R>0.57</R>
 		</measuring>
 		<measuring>
-			<Ex>0.01275</Ex>
-			<Ey>0.01275</Ey>
+			<Ex>0.01225</Ex>
+			<Ey>0.01225</Ey>
 			<R>0.58</R>
 		</measuring>
 		<measuring>
-			<Ex>0.0155</Ex>
-			<Ey>0.0155</Ey>
-			<R>0.49</R>
+			<Ex>0.0165</Ex>
+			<Ey>0.0165</Ey>
+			<R>0.51</R>
 		</measuring>
 		<measuring>
-			<Ex>0.01425</Ex>
-			<Ey>0.01425</Ey>
-			<R>0.5</R>
+			<Ex>0.01475</Ex>
+			<Ey>0.01475</Ey>
+			<R>0.56</R>
+		</measuring>
+		<measuring>
+			<Ex>0.01225</Ex>
+			<Ey>0.01225</Ey>
+			<R>0.59</R>
 		</measuring>
 		<measuring>
 			<Ex>0.017</Ex>
 			<Ey>0.017</Ey>
-			<R>0.46</R>
+			<R>0.45</R>
+		</measuring>
+		<measuring>
+			<Ex>0.013</Ex>
+			<Ey>0.013</Ey>
+			<R>0.52</R>
 		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки" >
 		<measuring>
-			<Ex>0.136</Ex>
-			<Ey>0.136</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.131</Ex>
-			<Ey>0.131</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.13</Ex>
-			<Ey>0.13</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.1295</Ex>
-			<Ey>0.1295</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.133</Ex>
-			<Ey>0.133</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.13175</Ex>
-			<Ey>0.13175</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.13225</Ex>
-			<Ey>0.13225</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.125</Ex>
-			<Ey>0.125</Ey>
+			<Ex>0.1245</Ex>
+			<Ey>0.1245</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
@@ -2794,37 +2759,52 @@
 			<Ey>0.13325</Ey>
 			<R>0</R>
 		</measuring>
+		<measuring>
+			<Ex>0.12925</Ex>
+			<Ey>0.12925</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.134</Ex>
+			<Ey>0.134</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1305</Ex>
+			<Ey>0.1305</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.13475</Ex>
+			<Ey>0.13475</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.1295</Ex>
+			<Ey>0.1295</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.13125</Ex>
+			<Ey>0.13125</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.13325</Ex>
+			<Ey>0.13325</Ey>
+			<R>0</R>
+		</measuring>
 	</experiment>
 	<experiment parameters_of_algorithm_1="Тип селекции = Турнирная селекция" parameters_of_algorithm_2="Тип скрещивания = Равномерное скрещивание" parameters_of_algorithm_3="Тип мутации = Сильная мутация" parameters_of_algorithm_4="Тип формирования нового поколения = Только потомки и копия лучшего индивида" >
 		<measuring>
-			<Ex>0.08975</Ex>
-			<Ey>0.08975</Ey>
+			<Ex>0.09125</Ex>
+			<Ey>0.09125</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.09</Ex>
-			<Ey>0.09</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.09425</Ex>
-			<Ey>0.09425</Ey>
+			<Ex>0.096</Ex>
+			<Ey>0.096</Ey>
 			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.098</Ex>
-			<Ey>0.098</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.098</Ex>
-			<Ey>0.098</Ey>
-			<R>0</R>
-		</measuring>
-		<measuring>
-			<Ex>0.09325</Ex>
-			<Ey>0.09325</Ey>
-			<R>0.01</R>
 		</measuring>
 		<measuring>
 			<Ex>0.0945</Ex>
@@ -2832,18 +2812,38 @@
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.09475</Ex>
-			<Ey>0.09475</Ey>
-			<R>0.01</R>
-		</measuring>
-		<measuring>
-			<Ex>0.09925</Ex>
-			<Ey>0.09925</Ey>
+			<Ex>0.09325</Ex>
+			<Ey>0.09325</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.09625</Ex>
-			<Ey>0.09625</Ey>
+			<Ex>0.09675</Ex>
+			<Ey>0.09675</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.09475</Ex>
+			<Ey>0.09475</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.101</Ex>
+			<Ey>0.101</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0985</Ex>
+			<Ey>0.0985</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.099</Ex>
+			<Ey>0.099</Ey>
+			<R>0</R>
+		</measuring>
+		<measuring>
+			<Ex>0.0995</Ex>
+			<Ey>0.0995</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>

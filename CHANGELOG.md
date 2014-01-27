@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.85
+----
+ * Добавлены переделанные данные алгоритма MHL_StandartBinaryGeneticAlgorithm на функции MHL_TestFunction_SumVector всех размерностей (чтобы можно было потом провести исследования на другой машине - не помню на каком из трех ноутов считал).
+ * Добавлены переделанные данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_GaussianQuartic размерности 20 на другой машине.
+
 1.84
 ----
  * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_GaussianQuartic со всеми размерностями.
