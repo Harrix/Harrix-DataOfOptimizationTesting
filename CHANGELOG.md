@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.86
+----
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_ParaboloidOfRevolution размерности 30.
+
 1.85
 ----
  * Добавлены переделанные данные алгоритма MHL_StandartBinaryGeneticAlgorithm на функции MHL_TestFunction_SumVector всех размерностей (чтобы можно было потом провести исследования на другой машине - не помню на каком из трех ноутов считал).
