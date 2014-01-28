@@ -1,9 +1,13 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.89
+----
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функции MHL_TestFunction_Griewangk со всеми размерностями на другой машине.
+
 1.88
 ----
- * Добавлены данные алгоритма MHL_StandartBinaryGeneticAlgorithm на функции MHL_TestFunction_SumVector всех размерностей на другой машине.
+ * Добавлены повторные исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Ackley со всеми размерностями.
 
 1.87
 ----
@@ -359,12 +363,12 @@ HarrixDataOfOptimizationTesting
 
 1.21
 ----
- * Добавлены исслелования MHL_BinaryGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_SumVector со всеми размерностями.
+ * Добавлены исследования MHL_BinaryGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_SumVector со всеми размерностями.
  * Добавлено исследование MHL_RealGeneticAlgorithmTournamentSelectionWithReturn MHL_TestFunction_AdditivePotential 2 324.
- * Добавлены повторные исслелования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Ackley со всеми размерностями.
- * Добавлены повторные исслелования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_ParaboloidOfRevolution со всеми размерностями.
- * Добавлены повторные исслелования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rastrigin со всеми размерностями.
- * Добавлены повторные исслелования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rosenbrock со всеми размерностями.
+ * Добавлены повторные исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Ackley со всеми размерностями.
+ * Добавлены повторные исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_ParaboloidOfRevolution со всеми размерностями.
+ * Добавлены повторные исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rastrigin со всеми размерностями.
+ * Добавлены повторные исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rosenbrock со всеми размерностями.
 
 1.20
 ----
