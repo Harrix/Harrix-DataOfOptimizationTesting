@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.94
+----
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_StepFunction со всеми размерностями на другой машине.
+
 1.93
 ----
  * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Griewangk с размерностью 20 на другой машине.
