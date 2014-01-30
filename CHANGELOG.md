@@ -1,6 +1,14 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.95
+----
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Schwefel с размерностями 2, 3, 4, 5 на другой машине.
+ * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_GaussianQuartic с размерностями 2, 3, 4, 5, 10, 20.
+ * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Schwefel с размерностями 2, 3, 4, 5, 10.
+ * Добавлены исследования MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_Griewangk с размерностями 2, 3, 4, 5, 10, 20.
+ * Добавлены исследования MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_Schwefel с размерностями 2, 3, 4, 5, 10, 20.
+
 1.94
 ----
  * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_StepFunction со всеми размерностями на другой машине.
