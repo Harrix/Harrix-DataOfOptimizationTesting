@@ -1,6 +1,14 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.98
+----
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_ParaboloidOfRevolution с размерностью 20 на другой машине.
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RotatedHyperEllipsoid с размерностью 30 на другой машине.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RastriginNovgorod с использованием стандартного генератора случайных чисел с размерностями 2, 3, 4, 5, 10, 20.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_RastriginNovgorod с размерностями 2, 3, 4, 5, 10.
+ * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_Griewangk с размерностью 30.
+
 1.97
 ----
  * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Schwefel с размерностями 10, 20, 30.
@@ -41,7 +49,7 @@ HarrixDataOfOptimizationTesting
  * Добавлены данные алгоритма MHL_RealGeneticAlgorithmWDTS на функции MHL_TestFunction_EggHolder со всеми размерностями.
  * Добавлены данные алгоритма MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_InvertedRosenbrock со всеми размерностями.
  * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm на функциях MHL_TestFunction_AdditivePotential, MHL_TestFunction_EggHolder, MHL_TestFunction_Himmelblau, MHL_TestFunction_InvertedRosenbrock, MHL_TestFunction_Katnikov, MHL_TestFunction_Multiextremal, MHL_TestFunction_Multiextremal2, MHL_TestFunction_Multiextremal3, MHL_TestFunction_Multiextremal4, MHL_TestFunction_MultiplicativePotential, MHL_TestFunction_Rana, MHL_TestFunction_RastriginWithChange, MHL_TestFunction_RastriginWithTurning, MHL_TestFunction_ReverseGriewank, MHL_TestFunction_ShekelsFoxholes, MHL_TestFunction_Sombrero, MHL_TestFunction_Wave со всеми размерностями на другой машине.
- * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm, MHL_TestFunction_InvertedRosenbrock, MHL_TestFunction_Rana, MHL_TestFunction_RastriginWithChange, MHL_TestFunction_RastriginWithTurning, MHL_TestFunction_ShekelsFoxholes с использованием стандартного генератора случайных чисел на функциях MHL_TestFunction_EggHolder со всеми размерностями.
+ * Добавлены данные алгоритма MHL_StandartRealGeneticAlgorithm с использованием стандартного генератора случайных чисел на функциях MHL_TestFunction_EggHolder , MHL_TestFunction_InvertedRosenbrock, MHL_TestFunction_Rana, MHL_TestFunction_RastriginWithChange, MHL_TestFunction_RastriginWithTurning, MHL_TestFunction_ShekelsFoxholesсо всеми размерностями.
 
 1.89
 ----
