@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.99
+----
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_ParaboloidOfRevolution 30 28224 с размерностью 30 на другой машине.
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RastriginNovgorod с размерностью 30 с использованием стандартного генератора случайных чисел.
+
 1.98
 ----
  * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_ParaboloidOfRevolution с размерностью 20 на другой машине.
