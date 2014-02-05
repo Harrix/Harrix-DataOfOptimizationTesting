@@ -27,6 +27,11 @@ https://github.com/Harrix/HarrixTestFunctions
 
 Помните, что в одном xml файле находятся данные тестирования ОДНОГО алгоритма оптимизации на ОДНОЙ тестовой функции при ОДИНАКОВЫХ условиях, но рассматриваются ВСЕВОЗМОЖНЫЕ варианты настроек алгоритма.
 
+Установка
+---------
+
+Прочитать подробно об установке можно тут http://blog.harrix.org/?p=1245.
+
 Про структуру проекта
 ---------------------
 
@@ -53,6 +58,12 @@ https://github.com/Harrix/HarrixTestFunctions
 ![alt text](../master/imagesforgithub/example1.png "Пример XML файла")
 
 ![alt text](../master/imagesforgithub/example2.png "Пример анализа файла XML")
+
+Использованные технологии
+-------------------------
+
+- XML.
+- Harrix Optimization Testing.
 
 История проекта
 ---------------
