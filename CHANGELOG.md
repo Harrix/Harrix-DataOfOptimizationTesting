@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.101
+-----
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Rastrigin с размерностью 30 на другой машине.
+
 1.100
 -----
  * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RastriginNovgorod с размерностью 30 на другой машине.
