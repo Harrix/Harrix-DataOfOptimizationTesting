@@ -62,8 +62,8 @@ https://github.com/Harrix/HarrixTestFunctions
 Использованные технологии
 -------------------------
 
-- XML.
-- Harrix Optimization Testing.
+- [XML](http://ru.wikipedia.org/wiki/XML).
+- [Harrix Optimization Testing](https://github.com/Harrix/HarrixFileFormats).
 
 История проекта
 ---------------
