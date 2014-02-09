@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.105
+-----
+ * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Griewangk с размерностью 20.
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_GaussianQuartic с размерностью 30 на другой машине.
+
 1.104
 -----
  * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Griewangk с размерностью 10.
