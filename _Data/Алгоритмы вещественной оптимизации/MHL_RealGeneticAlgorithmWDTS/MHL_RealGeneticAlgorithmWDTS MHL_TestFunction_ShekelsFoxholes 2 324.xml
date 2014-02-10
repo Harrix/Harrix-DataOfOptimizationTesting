@@ -20,7 +20,7 @@
 	<!-- Название тестовой функции (по названию функции, которая его реализует) -->
 	<name_test_function>MHL_TestFunction_ShekelsFoxholes</name_test_function>
 	<!-- Полное название тестовой функции -->
-	<full_name_test_function>Функция <<Лисьи норы>> Шекеля</full_name_test_function>
+	<full_name_test_function>Функция "Лисьи норы" Шекеля</full_name_test_function>
 	<!-- Ссылка на описание тестовой функции (если нет, то NULL) -->
 	<link_test_function>https://github.com/Harrix/HarrixTestFunctions</link_test_function>
 	<!-- Размерность задачи оптимизации -->
