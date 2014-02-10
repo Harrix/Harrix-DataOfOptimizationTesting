@@ -4,6 +4,7 @@ HarrixDataOfOptimizationTesting
 1.106
 -----
  * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_GaussianQuartic с размерностью 30.
+ * Исправлены названия у функций Лисьи норы.
 
 1.105
 -----
