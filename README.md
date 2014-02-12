@@ -3,7 +3,7 @@ HarrixDataOfOptimizationTesting
 
 Версия 1.106
 
-Сырые данные о тестировании алгоритмах оптимизации первого порядка в формате Harrix Optimization Testing.
+Сырые данные о тестировании алгоритмов оптимизации первого порядка в формате Harrix Optimization Testing.
 
 https://github.com/Harrix/HarrixDataOfOptimizationTesting
 
