@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.107
+-----
+ * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Rosenbrock с размерностью 30.
+ * Удален файл MHL_RealGeneticAlgorithmWDPOfNOfGPS MHL_TestFunction_RastriginNovgorod 30. Там почему-то вместо данных мусор.
+
 1.106
 -----
  * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_GaussianQuartic с размерностью 30.
