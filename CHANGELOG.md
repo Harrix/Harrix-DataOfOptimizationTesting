@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.109
+-----
+ * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Schwefel с размерностью 30.
+
 1.108
 -----
  * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_RastriginNovgorod размерности 30 с применением стандартного генератора случайных чисел.
