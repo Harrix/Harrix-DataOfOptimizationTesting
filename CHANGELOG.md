@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.112
+-----
+ * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_HyperEllipsoid с размерностью 30.
+ * Окончание проведения расчетов для огромного блока исследований.
+
 1.111
 -----
  * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Griewangk с размерностью 30.
