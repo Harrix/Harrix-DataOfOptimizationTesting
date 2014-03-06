@@ -1,6 +1,11 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.113
+-----
+ * Добавлены исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Bosom с размерностью 2.
+ * Добавлены исследования MHL_RealMonteCarloAlgorithm на функции MHL_TestFunction_Bosom с размерностью 2.
+
 1.112
 -----
  * Добавлены исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_HyperEllipsoid с размерностью 30.
