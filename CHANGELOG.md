@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.115
+-----
+ * Добавлены повторные исследования MHL_RealGeneticAlgorithmWCC на функции MHL_TestFunction_Bosom с размерностью 2.
+
 1.114
 -----
  * Добавлены повторные исследования MHL_StandartRealGeneticAlgorithm на функции MHL_TestFunction_Bosom с размерностью 2.
