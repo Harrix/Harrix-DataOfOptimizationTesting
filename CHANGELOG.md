@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.118
+-----
+ * Добавлены повторные исследования MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_Bosom с размерностью 2.
+
 1.117
 -----
  * Добавлены повторные исследования MHL_RealGeneticAlgorithmWDPOfNOfGPS на функции MHL_TestFunction_Bosom с размерностью 2.
