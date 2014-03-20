@@ -7,7 +7,7 @@
 </harrix_file_format>
 <about>
 	<author>Сергиенко Антон Борисович</author>
-	<date>07.03.2014 00:52:30</date>
+	<date>07.03.2014 00:47:55</date>
 	<email>sergienkoanton@mail.ru</email>
 </about>
 <about_data>
@@ -41,53 +41,53 @@
 <data>
 	<experiment>
 		<measuring>
-			<Ex>0.237809</Ex>
-			<Ey>0.0150867</Ey>
+			<Ex>0.241489</Ex>
+			<Ey>0.0183088</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.235562</Ex>
-			<Ey>0.0178664</Ey>
+			<Ex>0.2335</Ex>
+			<Ey>0.0160551</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.235171</Ex>
-			<Ey>0.0159355</Ey>
+			<Ex>0.242951</Ex>
+			<Ey>0.0184216</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.23072</Ex>
-			<Ey>0.016384</Ey>
+			<Ex>0.218754</Ex>
+			<Ey>0.0156063</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.21841</Ex>
-			<Ey>0.0137507</Ey>
+			<Ex>0.232978</Ex>
+			<Ey>0.0163114</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.244194</Ex>
-			<Ey>0.0191517</Ey>
+			<Ex>0.22849</Ex>
+			<Ey>0.0159851</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.247642</Ex>
-			<Ey>0.0183024</Ey>
+			<Ex>0.240229</Ex>
+			<Ey>0.0202208</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.251719</Ex>
-			<Ey>0.0211031</Ey>
+			<Ex>0.231518</Ex>
+			<Ey>0.017093</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.222394</Ex>
-			<Ey>0.0146072</Ey>
+			<Ex>0.238395</Ex>
+			<Ey>0.0175259</Ey>
 			<R>0</R>
 		</measuring>
 		<measuring>
-			<Ex>0.242623</Ex>
-			<Ey>0.0209681</Ey>
+			<Ex>0.245019</Ex>
+			<Ey>0.0188819</Ey>
 			<R>0</R>
 		</measuring>
 	</experiment>
