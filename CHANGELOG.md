@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.119
+-----
+ * Добавлены исследования MHL_BinaryGeneticAlgorithmTwiceGenerations и MHL_RealGeneticAlgorithmTwiceGenerations.
+
 1.118
 -----
  * Добавлены повторные исследования MHL_RealGeneticAlgorithmTournamentSelectionWithReturn на функции MHL_TestFunction_Bosom с размерностью 2.
