@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+1.122
+-----
+ * Добавлены исследования MHL_RealGeneticAlgorithmTwiceGenerations.
+
 1.121
 -----
  * Добавлены исследования MHL_RealGeneticAlgorithmTwiceGenerations.
