@@ -1,6 +1,10 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
+2.0
+-----
+ * В названиях алгоритмов и тестовых функциях поменялось приставка с MHL на HML.
+
 1.122
 -----
  * Добавлены исследования MHL_RealGeneticAlgorithmTwiceGenerations.

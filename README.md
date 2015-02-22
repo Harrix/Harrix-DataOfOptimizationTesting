@@ -1,7 +1,7 @@
 HarrixDataOfOptimizationTesting
 ===============================
 
-Версия 1.122
+Версия 2.0
 
 Сырые данные о тестировании алгоритмов оптимизации первого порядка в формате Harrix Optimization Testing.
 
@@ -44,9 +44,9 @@ HarrixDataOfOptimizationTesting
  
 В каждой папке идут папки по названиям алгоритмов оптимизации (описание смотреть тут: [https://github.com/Harrix/HarrixOptimizationAlgorithms](https://github.com/Harrix/HarrixOptimizationAlgorithms)). Отправной точкой для исследований являются данные для [стандартного генетического алгоритма](https://github.com/Harrix/Standard-Genetic-Algorithm). 
 
-Поэтому первой папкой в папке [Алгоритмы бинарной оптимизации](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации) является папка [\_MHL\_StandartBinaryGeneticAlgorithm](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации/_MHL_StandartBinaryGeneticAlgorithm) - данные исследования стандартного генетического алгоритма на бинарных строках. Второй папкой идет папка [\_MHL\_StandartBinaryGeneticAlgorithm - Повторные исследования](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации/_MHL_StandartBinaryGeneticAlgorithm%20-%20Повторные%20исследования) - для проверки стабильности работы алгоритма.
+Поэтому первой папкой в папке [Алгоритмы бинарной оптимизации](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации) является папка [\_HML\_StandartBinaryGeneticAlgorithm](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации/_HML_StandartBinaryGeneticAlgorithm) - данные исследования стандартного генетического алгоритма на бинарных строках. Второй папкой идет папка [\_HML\_StandartBinaryGeneticAlgorithm - Повторные исследования](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации/_HML_StandartBinaryGeneticAlgorithm%20-%20Повторные%20исследования) - для проверки стабильности работы алгоритма.
 
-Аналогично первой папкой в папке [Алгоритмы вещественной оптимизации](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20вещественной%20оптимизации) является папка [\_MHL\_StandartRealGeneticAlgorithm](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20вещественной%20оптимизации/_MHL_StandartRealGeneticAlgorithm) - данные исследования стандартного генетического алгоритма на вещественных строках. Второй папкой идет папка [\_MHL\_StandartRealGeneticAlgorithm - Повторные исследования](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20вещественной%20оптимизации/_MHL_StandartRealGeneticAlgorithm%20-%20Повторные%20исследования) - для проверки стабильности работы алгоритма.
+Аналогично первой папкой в папке [Алгоритмы вещественной оптимизации](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20вещественной%20оптимизации) является папка [\_HML\_StandartRealGeneticAlgorithm](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20вещественной%20оптимизации/_HML_StandartRealGeneticAlgorithm) - данные исследования стандартного генетического алгоритма на вещественных строках. Второй папкой идет папка [\_HML\_StandartRealGeneticAlgorithm - Повторные исследования](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20вещественной%20оптимизации/_HML_StandartRealGeneticAlgorithm%20-%20Повторные%20исследования) - для проверки стабильности работы алгоритма.
 
 Далее идут папки других алгоритмов оптимизации. В каждой из папок находятся файлы формата Harrix Optimization Testing, в которых находятся данные о тестировании алгоритмов на тестовых функциях.
 
