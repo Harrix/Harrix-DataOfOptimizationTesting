@@ -7,7 +7,7 @@ HarrixDataOfOptimizationTesting
 
 [https://github.com/Harrix/HarrixDataOfOptimizationTesting](https://github.com/Harrix/HarrixDataOfOptimizationTesting)
 
-Данные распространяются по лицензии [Apache License, Version 2.0](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/LICENSE.txt).
+Данные распространяются по лицензии [MIT](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/LICENSE).
 
 Описание формата Harrix Optimization Testing 1.0 вы найдете тут:
 
