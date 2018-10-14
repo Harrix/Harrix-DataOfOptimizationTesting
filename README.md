@@ -7,7 +7,7 @@ HarrixDataOfOptimizationTesting
 
 [https://github.com/Harrix/HarrixDataOfOptimizationTesting](https://github.com/Harrix/HarrixDataOfOptimizationTesting)
 
-Данные распространяются по лицензии [MIT](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/LICENSE).
+Данные распространяются по лицензии [CC BY 4.0](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/LICENSE.md).
 
 Описание формата Harrix Optimization Testing 1.0 вы найдете тут:
 
@@ -41,8 +41,8 @@ HarrixDataOfOptimizationTesting
 
  - [Алгоритмы бинарной оптимизации](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации);
  - [Алгоритмы вещественной оптимизации](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20вещественной%20оптимизации).
- 
-В каждой папке идут папки по названиям алгоритмов оптимизации (описание смотреть тут: [https://github.com/Harrix/HarrixOptimizationAlgorithms](https://github.com/Harrix/HarrixOptimizationAlgorithms)). Отправной точкой для исследований являются данные для [стандартного генетического алгоритма](https://github.com/Harrix/Standard-Genetic-Algorithm). 
+
+В каждой папке идут папки по названиям алгоритмов оптимизации (описание смотреть тут: [https://github.com/Harrix/HarrixOptimizationAlgorithms](https://github.com/Harrix/HarrixOptimizationAlgorithms)). Отправной точкой для исследований являются данные для [стандартного генетического алгоритма](https://github.com/Harrix/Standard-Genetic-Algorithm).
 
 Поэтому первой папкой в папке [Алгоритмы бинарной оптимизации](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации) является папка [\_HML\_StandartBinaryGeneticAlgorithm](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации/_HML_StandartBinaryGeneticAlgorithm) - данные исследования стандартного генетического алгоритма на бинарных строках. Второй папкой идет папка [\_HML\_StandartBinaryGeneticAlgorithm - Повторные исследования](https://github.com/Harrix/HarrixDataOfOptimizationTesting/blob/master/_Data/Алгоритмы%20бинарной%20оптимизации/_HML_StandartBinaryGeneticAlgorithm%20-%20Повторные%20исследования) - для проверки стабильности работы алгоритма.
 
